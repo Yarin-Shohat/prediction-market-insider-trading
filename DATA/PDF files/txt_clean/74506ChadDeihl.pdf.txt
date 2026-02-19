@@ -1,0 +1,267 @@
+August 8, 2024
+
+Mr. Christopher J. Kirkpatrick Secretary of the Commission Commodity Futures Trading Commission Three Lafayette Centre 1155 21st Street NW Washington, D.C. 20581
+
+## Re: Proposed Rule 89 FR 48468 - 17 CFR Part 40 Event Contracts
+
+The New Finance Institute ('NFI,' or 'we'), a public benefit corporation, welcomes the opportunity to respond to the Commodity Futures Trading Commission's ('CFTC,' or the 'Commission') request for comment on the CFTC's proposed rule on Event Contracts.
+
+NFI's mission is discover financial truths and bring financial empowerment to the masses. NFI operates its principal website at https://www.newfinanceinstitute.com. NFI has been an active participant in the courts and has submitted multiple amicus briefs, including one to the Southern District Court of New York in SEC v. Coinbase Inc., , 1:23-cv-04738 and one to United States District Court for the District of Columbia in SEC v. Binance Holdings, Ltd., 1:23-civ-01599. In addition, NFI publishes two blogs: Finance 2027 ('F27') and Full Court Press ('FCP'). F27 can be found at https://www.finance2027.com/ and, through its publication, NFI aims to build consensus on financial definitions. FCP is available at https://www.fullcourtpress.io/ and is dedicated to exploring the legal implications of financial definitions.
+
+NFI commends the Commission on inviting the public to comment on its proposed rule on Event Contracts and is pleased to share its views. NFI's comment is structured in two parts. First, the letter discusses core definitional issues regarding gaming and gambling, and offers what NFI believes is the correct interpretation of the relevant statute in the Dodd-Frank Wall Street Reform and Consumer Protection Act ('Dodd-Frank' or 'Dodd-Frank Act'). Second, it provides commentary on the dissenting statements issued on May 10, 2024 by Commissioner Mersinger and Commissioner Pham regarding proposed rulemaking on Event Contracts.
+
+## I. Gaming vs. Gambling
+
+## A. Setting the Stage: Definitions and Regulatory Structure
+
+At the heart of the Commission's proposed rulemaking are two important definitions: gaming and gambling . The Commission is incorrect in its assertion that they are 'interchangeable terms.' See, KalshiEx LLC v. CFTC , Transcript of the Motion Hearing, May 30, 2024 ('Transcript'), p. 54. That definitional flaw is at the core of the Commission misinterpreting Dodd-Frank. Kalshi, on the other hand, seems to appreciate the nuances between gaming and gambling, but its statutory interpretation also fails because it is unwilling to admit that Congress meant gambling, not gaming.
+
+Below, NFI sets the framework for a proper understanding of these terms.
+
+## 1. What is a game?
+
+Games are isolated events disconnected from the rest of life. As early as 1950, a Dutch historian explained that 'play is distinct from 'ordinary' life both as to locality and duration.' (Johan Huizinga, Home Ludens: A Study of the Play-Element in Culture (1950), p.9.) 'We found that one of the most important characteristics of play was its spatial separation from ordinary life. A closed space is marked out for it … hedged off from the everyday surroundings.' (Johan Huizinga, Home Ludens: A Study of the Play-Element in Culture (1950), p. 19.)
+
+Roger Caillois, a French sociologist, agreed: 'In effect, play is essentially a separate occupation, carefully isolated from the rest of life, and generally is engaged in with precise limits of time and place. There is place for play: as needs dictate, the space for hopscotch, the board for checkers or chess, the stadium, the racetrack, the list, the ring, the stage, the arena, etc. Nothing that takes place outside this ideal frontier is relevant… In every case, the game's domain is therefore a restricted, closed, protected universe: a pure space.' (Roger Caillois, Man, Play and Games (1961), pp. 6-7.) Caillois consistently underlined the spatial separation as a foundational characteristic of a game: '[Games] certainly cannot spread beyond the playing field (chess or checkerboard, arena, racetrack, stadium or stage).' (Roger Caillois, Man, Play and Games (1961), p. 43.)
+
+One might argue that, with the advances in technology, games don't have to be played in a confined space anymore. It is true that advances in technology allow two people to play a game, say chess, even when they are not within a confined space. However, the technology simply adds another mode of play by allowing players to play even if they are not in the same physical space. The game still does not spread beyond the playing field, it is just that the technology allows the playing field to be virtual sometimes. Critically, however, if the players wished to bypass technology and play the game the old-fashioned way, they still could. That is, if two siblings in the same house wanted to play chess, they could go to different rooms and play online, or they could get the chessboard out and play.
+
+The difference between a game and contest seems structural more than anything else: A contest is often between individuals that will be ranked according to some measure, whereas a game can also be played between teams. Further, a contest is generally considered to be a one-shot event, whereas a game can be played repeatedly, like roulette. In any event, NFI doesn't believe the precise distinction between a game and contest is critical for the questions posed in the proposed rulemaking because Dodd-Frank is intended to cover all contracts that are based on future contingent events. What is critical is that i) games/contests happen in a confined space; and ii) participants have control over the game they play or the contest they compete in. They can choose not to play or compete; and even after they do, they stop playing or competing, e.g. they can leave the field, drop out of a race, etc.
+
+## 2. What is a claim?
+
+Aswath Damodaran, Professor of Finance at NYU's Stern School of Business defines a contingent claim as follows:
+
+A contingent claim or option is an asset that pays off only under certain contingencies. (Aswath Damodaran, Damodaran on Valuation: Security Analysis for Investment and Corporate Finance , Second Edition, Wiley Finance (2006).)
+
+In a narrow sense, whenever a payoff is tied explicitly to an event (or a set of events), the arrangement can be characterized as a claim. Examples include binary options, insurance and sports bets. Clearly, event contracts are claims under even this narrower definition. More broadly, any contract where the payoff is dependent on future events, whether or not they are explicitly defined, can be considered as a claim, for example, one can characterize stocks as a claim on residual cash flows of the business. However, for the purposes of this rulemaking, how broad the definition of a claim is not relevant.
+
+## 3. When does a game (or contest) become gambling?
+
+Generally speaking, when it comes to games/contests, gambling occurs when prize, chance and consideration are present. Assuming prize and consideration are present, the analysis often turns on whether the game is a game of chance or game of skill. It makes intuitive sense that a sound policy would encourage skill-based games and contests, but distinguish them from chance games that do not contribute much to society other than entertaining the players. This policy effectively requires two things: i) every game/contest is placed somewhere along the skill-chance spectrum; and ii) the governing authority defines a boundary between skill and chance, generally qualitative, so games that are characterized to involve less than the skill level mapped to the boundary are characterized as gambling. (For example, if a skill game is defined as one where skill should be more predominant than chance, it becomes rather straightforward to conclude that chess is a skill game and roulette is not.)
+
+## 4. When does a contingent claim become gambling?
+
+The relevant question is: Which contingent claims do we want to allow to be traded as a society, and how will we measure them? Similar to games, contingent claims can be used purely for entertainment purposes, or they can serve the public interest, to the extent the trading of those claims results in publicly useful pricing information and/or provides risk management opportunities.
+
+The history of insurance is illuminating in this respect as it has roots in gambling. As Posner and Weyl observed:  'In eighteenth-century England, people would buy life insurance on politicians and other celebrities so that if the named person died, the purchaser of the insurance would receive a payout … [T]he British government enacted a statute that introduced the 'insurable interest' rule to insurance markets. The main purpose of the insurable interest rule was to prevent people from using insurance contracts to gamble' (See, Eric A. Posner and E. Glen Weyl, An FDA for Financial Innovation: Applying the Insurable Interest Doctrine to Twenty-First-Century Financial Markets , 107 Nw. U. L. Rev. 1307 (2015). The late CFTC Commissioner Bart Chilton would make a somewhat similar observation some two hundred years later in his dissent from Approval of Media Derivatives Exchange's Opening Weekend Motion Picture Revenue Futures and Binary Option Contracts, dated June 14, 2010: 'In interpreting the CEA, we are to exercise some modicum of common sense in determining whether or not there is a public interest in deeming some "thing" a commodity for purposes of federal on-exchange derivatives regulation. Otherwise, the statute is meaningless; unless some sensible judgment is exercised, we could approve terrorism contracts, or contracts on whether a certain movie star will die or become disabled, or contracts on the likelihood of UFOs hitting the White House. Each of these events could have economic consequences, but it is hardly appropriate under the Act to deem them 'commodities.' To say that, simply because one can develop a futures contract, the underlying is a "commodity" is circular reasoning, at best. Using this analysis, anything under the sun could be a commodity if you could, at some time in the future, have a futures contract on it. We know that is not how Congress intended for us to interpret the Act. ' Available at https://www.cftc.gov/sites/default/files/idc/groups/public/@otherif/documents/ifdocs/mdexdissentingchilton061410.pdf, accessed on August 8, 2024. Commissioner Chilton was misreading the statute. That the trading of these contracts is not desirable does not mean that the underlying is not an excluded commodity; it simply means that these contracts were not deemed to provide sufficient public benefits.) Recognizing that insurance products, once properly designed, serve a bona fide economic purpose, the State of New York would exempt insurance from the statutory prohibition on gambling in 1889. (Appellant's Brief in White v. Cuomo .
+
+Limiting the contract to certain participants may have worked for insurance, because a multitude of speculating counterparties continuously trading the contract are not needed for the main benefit to accrue to the participant, e.g., paying out the claim if the unwanted event materializes (e.g. a car accident). More specifically, one speculating counterparty, the insurance company, and one contract with that counterparty is sufficient. Event contracts do not have that luxury; for price discovery and/or risk management to happen, trade needs to be continuous and speculators are needed for liquidity.
+
+Thus, contracts on contingent claims need go through a similar analysis as games: i) Every contract needs to be placed somewhere along the entertainment-purpose spectrum; and ii) the governing authority needs to define a boundary between purpose and entertainment, which may be qualitative, so claims that are characterized to involve less than the requisite purpose mapped to the boundary are characterized as gambling.
+
+That framework already existed in the now-repealed Economic Purpose Test. The only sensible interpretation, one that is fully supported by legislative history as well as the Commission's previous positions is that, notwithstanding the repeal, it still exists today. Why that must be the case is discussed further below in Section I.C.
+
+## 5. What is the definition of gambling?
+
+The threshold question is: Is the activity a game or a claim? Once that determination is made, the gambling evaluation follows using the frameworks explained above. A simple, five-word definition of gambling is as follows: Chance games and entertainment claims.
+
+This simple definition produces four possible outcomes. Skill games (not gambling), chance games (gambling), purpose claims (not gambling) and entertainment claims (gambling). Thus, there is gaming that is not gambling (i.e., skill games), and there is gambling not gaming (entertainment claims).
+
+## 6. Who has regulatory authority over gaming?
+
+Generally, states regulate gaming under their police powers. They decide on i) how much skill is needed for a game to be characterized as a skill game; and ii) to the extent a game is characterized as a chance game, whether that game will be offered to its citizens (for money) and if so, under what conditions (venues, limits, etc.). Thus, casino games that are chance based, for example, can still be offered to the citizens, but would be explicitly characterized as gambling.
+
+There is an intuitive reason as to why this power is reserved to the states: gaming is limited to a physical space. At a casino, for example, the gambling activity happens on the casino floor. If a fight breaks out, only the people on the casino floor are impacted. That locality is consistent with the use of police powers. Only people that are within that state's borders are involved with that gambling activity, so it is natural for the state's local police or tribal law enforcement to have jurisdiction.
+
+## 7. Who has regulatory authority over claims?
+
+Congress established the CFTC in 1974 and tasked it with overseeing commodities, supplying it with preemptive federal powers. ('The legislative history of the CFTC Act of 1974 also makes it clear that Congress intended to preempt state jurisdiction over the transactions that the Act covers.' Purcell and Valdez, The Commodity Futures Trading Commission Act of 1974: Regulatory Legislation for Commodity Futures Trading in a Market-Oriented Economy , 21 S. DAKOTA. L. REV. 555, 573 (1976).) Thus, the CFTC does have preemptive jurisdiction over all contingent claims (unless another federal regulator has jurisdiction, like the SEC). In large part, the Commission
+
+has been granted that authority because states were encroaching into the federal territory, opining on, for example, whether or not derivatives contracts constitute gambling. (See, e.g. Conaway , holding that 'Thus this court finds that the Alabama gambling statutes, if construed to require actual delivery, would directly conflict with the federal purpose of fostering the markets in that they would destroy the markets in this state, and that Congress has preempted the field.' Paine, Webber, Jackson &amp; Curtis, Inc. v. Conaway , 515 F.Supp. 202 (N.D.Ala.1981).)
+
+The critical distinction between a game and a claim is that the former is local, and the latter is not. A trader in New York manipulating a coffee futures contract may very well impact a farmer in California, whereas a gambler in a New York casino who has been counting cards at the blackjack table impacts only the players sitting at that table and the local operations of that casino. Contingent claim trades travel across state borders, giving CFTC the authority to assert jurisdiction over all claims of this nature.
+
+## B. Early 2000s
+
+NFI believes that an understanding of the events that led to the enactment of the Dodd-Frank Act is rather critical toward a proper statutory interpretation. There are two important developments that happened prior to Congress' enactment of the Dodd-Frank Act. One was the development of the terrorism contracts of DARPA, the second one was the economic recession of 2008.
+
+## 1. DARPA Event Contracts
+
+Wolfers and Zitzewitz note: (Wolfers, J. and Zitzewitz, E., Prediction Markets , Journal of Economic Perspectives, Volume 18, Number 2, pp. 107-126 (2004).)
+
+In July 2003, press reports began to surface of a project within the Defense Advanced Research Projects Agency (DARPA), a research think tank within the Department of Defense, to establish a Policy Analysis Market that would allow trading in various forms of geopolitical risk. Proposed contracts were based on indices of economic health, civil stability, military disposition, conflict indicators and potentially even specific events. For example, contracts might have been based on questions like 'How fast will the non-oil output of Egypt grow next year?' or 'Will the U.S. military withdraw from country A in two years or less?' Moreover, the exchange would have offered combinations of contracts, perhaps combining an economic event and a political event. The concept was to discover whether trading in such contracts could help to predict future events and how connections between events were perceived. However, a political uproar followed. Critics savaged DARPA for proposing 'terrorism futures,' and rather than spend political capital defending a tiny program, the proposal was dropped.
+
+The 'political uproar' referenced by Wolfers and Zitzewitz has a direct linkage to how Dodd-Frank was drafted.
+
+## 2. The Great Recession
+
+According to the Federal Reserve Bank of Richmond, '[t]he 2007-09 economic crisis was deep and protracted enough to become known as 'the Great Recession' and was followed by what was, by some measures, a long but unusually slow recovery.' (https://www.federalreservehistory.org/essays/great-recession-and-its-aftermath, accessed on August 8, 2024.) Congress's response was the Dodd-Frank Wall Street Reform and Consumer Protection Act ('Dodd-Frank'). (https://en.wikipedia.org/wiki/Dodd%E2%80%93Frank_Wall_Street_Reform_and_Consumer_Protection_Act, accessed on August 8, 2024.) The long title description of Dodd-Frank reads: (Ibid.)
+
+An Act to promote the financial stability of the United States by improving accountability and transparency in the financial system, to end 'too big to fail', to protect the American taxpayer by ending bailouts, to protect consumers from abusive financial services practices, and for other purposes.
+
+As the name implies, Dodd-Frank was reformatory. In KalshiEx LLC v. CFTC, the district court, referring to Dodd-Frank, took the position that 'the statute was amended to streamline the process.' See, Transcript p. 48. That characterization is simply inconsistent with what Congress intended with Dodd-Frank amidst one of the most notable recessions in the recent past. Dodd-Frank was not passed to streamline the process and give a free pass to the financial industry to eschew robust regulatory reviews; it was intended to increase accountability and transparency. Making fewer contracts available for review cannot be consistent with that goal.
+
+## C. The Correct Statutory Interpretation of Dodd-Frank as a Three-step Process: (Near) Prohibition, Discretion, Protection.
+
+Armed with the definition of gaming and gambling, and the economic history that led to the enactment of Dodd-Frank, NFI now offers the correct statutory interpretation of Dodd-Frank. Critically, this interpretation is substantially different from both CFTC's and Kalshi's. In particular, NFI disagrees with the CFTC's interpretation that CEA section 5c(c)(5)(C) is a two-step process. (The Commission states: 'The Commission interprets CEA section 5c(c)(5)(C) to contemplate that the Commission engage in a two-step inquiry. First, the Commission must assess whether a contract in a specified excluded commodity 'involve[s]' an activity enumerated in CEA section 5c(c)(5)(C)(i)(I) - (V) (each, an 'Enumerated Activity') or other similar activity as determined by the Commission by rule or regulation ('prescribed similar activity'). If the Commission determines that the contract involves such activity, the Commission must assess whether the contract is contrary to the public interest.') Rather, it's best understood as a three-step process. As the Commission recaps:
+
+CEA section 5c(c)(5)(C)(i) provides that: In connection with the listing of agreements, contracts, transactions, or swaps in excluded commodities that are based upon the occurrence, extent of an occurrence, or contingency (other than a change in the price, rate, value, or levels of a commodity described in section la(2)(i) of this title), by a designated contract market or swap execution facility, the Commission may determine that such agreements, contracts, or transactions are contrary to the public interest if the agreements, contracts, or transactions involve -
+
+- (I) activity that is unlawful under any Federal or State law;
+- (II) terrorism;
+- (III) assassination;
+- (IV) war;
+- (V) gaming; or
+- (VI) other similar activity determined by the Commission, by rule or regulation, to be contrary to the public interest.
+
+The first step, (near) prohibition, captures items (I)-(IV). It enumerates activities that are unlawful, and specifically calls out three such activities: terrorism, assassination and war.
+
+The Discretion step involves evaluating a wide variety of contracts that do not involve unlawful activities through the lens of the now-repealed Economic Purpose test. This is where the bulk of the Commission's activity can be expected to happen.
+
+The third and final step involves assessing, for contracts that were deemed to serve the public interest from a contract design perspective by virtue of having economic purpose, whether there are enough protections built into the contract (position limits, limitations on who can trade the contract, etc.).
+
+## Step 1 - (Near) Prohibition
+
+As discussed above, the DARPA contracts created a political backlash when they were first introduced at the turn of the century. The idea, as Kalshi correctly noted during oral argument, was that 'Congress is concerned about people from profiting bad things and about incentives to do bad things.' See, Transcript p. 8.
+
+This interpretation is entirely consistent with legislative history: (Statements of Sen. Diane Feinstein and Sen. Blanche Lincoln), available at https://www.congress.gov/111/crec/2010/07/15/CREC-2010-07-15-senate.pdf. Hereafter, the 'Exchange.')
+
+Mrs. FEINSTEIN. And does the Senator agree that this provision will also empower the Commission to prevent trading in contracts that may serve a limited commercial function but threaten the public good by allowing some to profit from events that threaten our national security?
+
+Mrs. LINCOLN. I do. National security threats, such as a terrorist attack, war, or hijacking pose a real commercial risk to many businesses in America, but a futures contract that allowed people to hedge that risk would also involve betting on the likelihood of events that threaten our national security. That would be contrary to the public interest.
+
+Mrs. FEINSTEIN. I thank the Senator for including this provision. No one should profit by speculating on the likelihood of a terrorist attack. Firms facing financial risk posed by threats to our national security may take out insurance, but they should not buy a derivative. A futures market is for hedging. It is not an insurance market.
+
+The first enumerated item is a catch-all, with the idea being anything unlawful in at least one state. For example, if child labor is unlawful for children under the age of sixteen, a contract that pays out whether a certain business would employ child labor would incentivize that business to actually employ child labor, or a child who might find it financially beneficial to fake their real age. It makes intuitive sense that the financial markets should not be providing such perverse incentives to market participants.
+
+The second, third, and fourth enumerated items are just specific examples. By enumerating items (II)-(IV), Congress signaled that there should be heightened interest for these categories. To be clear, Congress did not prohibit contracts involving these items, hence NFI's use of the term 'near' prohibition. On that note, there might be a reasonable policy position that all such contracts could be deemed prohibited. (In its proposed rulemaking, the Commission requested comment on whether there are contracts that may involve terrorism, assassination, or war that do not raise the above-described public interest concerns. One example could be a contract on whether a particular terrorist would be captured before a certain date. The contract presumably involves terrorism, and if it is prohibited directly, it would not provide an additional incentive to someone in the organization to turn in a terrorist to the law enforcement. That said, there may be other incentives to encourage this type of activity outside of regulated event contract markets (e.g., Rewards for Justice ), and a broad ban relating to these categories may not necessarily result in a significant public benefit loss.) If adopted, the amended policy would effectively move enumerated items (I)-(IV) from near prohibition to a prohibition stage.
+
+## Step 2 - Discretion
+
+To the extent a contract does not involve an unlawful activity, or any of the enumerated activities in (II)-(IV), the contract does not pose an elevated risk, but they can still be made subject to the Commission's review. In other words, Step 1 is about bad acts, and step 2 is about gambling. Bad acts pose serious incentives issues, and thus come with elevated risks. Anything else, including election contracts, may not have incentives issues that are that serious, but they may still be contrary to public interest. Legislative history is entirely consistent with this dichotomy. Senator Lincoln noted: (The Exchange.)
+
+Chairman DODD and I maintained this provision in the conference report to assure that the Commission has the power to prevent the creation of futures and swaps markets that would allow citizens to profit from devastating events and also prevent gambling through futures markets. (emphasis added) 
+
+The key insight here is that Congress did not request that the Commission review every single contract in painstaking detail; industry participants can still self-certify, after all. Kalshi's statement 'If you sort of adopted and imported the broader definition of gambling and treated any contract that involves staking something of value on a contingency or on an uncertain outcome, then you've covered the waterfront of event contracts' is disingenuous. See, Transcipt p. 17. If what is self-certified is a rather standard event contract where the public benefits are obvious, the Commission can simply choose not to disturb that contract.
+
+At the same time, usurping the authority to review any contract from the Commission that does not involve enumerated items (I)-(IV), which is precisely what Kalshi is suggesting, is equally pointless. Under that interpretation, the CFTC, with respect to event contracts at least, serves no real filtering function. It just becomes a rubber stamp regulator that would be forced to regulate whatever ingenious product people come up with, regardless of whether they serve a public interest or not. That can't be the law, certainly not one that is intended to 'to protect consumers from abusive financial services practices.'
+
+The optimal level of regulation, instead, is somewhere in between. The objective is to arm the Commission with the discretion to review contracts that can potentially cross the line toward gambling. If deemed so, those contracts would not serve the public interest. A few remarks are in order:
+
+## a. Congress Meant Gambling, Not Gaming
+
+For starters, in the legislative exchange regarding Event Contracts, the word gambling is used more (three times), than gaming (two times). (The Exchange.)
+
+Further, neither Kalshi's nor the CFTC's position that Congress meant gaming, not gambling, is supportable. Kalshi adopts a very restrictive approach and argues that gaming means games, casino games and perhaps also sports games. However, as the CFTC rightfully points out, it never explains why Congress simply did not say chance games, or sports games, or even games, and rather said gaming , with the -ing in the end. Enumerated activities (I)-(IV) are all nouns. (V) is a gerund , a verb form that functions as a noun.
+
+That grammatical break is not a coincidence, it actually signals Congress' intent that the CEA section 5c(c)(5)(C) analysis itself moved one stage to a different stage, from (near) prohibition to discretion. Contracts in this group are not at an elevated risk of providing perverse incentives ' that would allow citizens to profit from devastating events,' but they can still enable gambling.
+
+The CFTC, on the other hand, extends the definition of gaming just enough so it conveniently includes elections. And since elections are not games, the CFTC is effectively forced to bring contests into the definition as well. As Commissioner Mersinger correctly points out, this mental gymnastics produces weird outcomes such as Taylor Swift attending a Kansas City Chiefs game being gambling (Commissioner Mersinger used the word gaming, not gambling. It's rephrased here consistent with NFI's reading of the statute and legislative goals.) , but Taylor Swift attending a Beyonce concert is not. What makes the Commission's position even less plausible is that Taylor Swift attending a Kansas City Chiefs game is arguably related to more material economic activity that may make industry participants want to hedge certain risks than Taylor Swift attending any concert. (See, for example, NEWS OF THE WEEK: Taylor Swift has generated $330 million for the NFL, available at https://malaysia.news.yahoo.com/news-week-taylor-swift-generated-090000223.html., accessed on August 8, 2024.) This simply cannot be what Congress had in mind. (On a similar note, Kalshi and CFTC apparently both agree that a game is not related to significant economic activity, a position that is not aligned to economic reality. That statement could be true for a random poker game at a casino, but the NFL alone is a 20-billion dollar business. As such, contracts that involve sporting events, to the extent that do not constitute gambling, could serve public interest.)
+
+In sum, Kalshi narrows the definition of gambling, so it can argue for eschewing a robust regulatory review, and the CFTC extends it just enough so it can assert jurisdiction over election contracts. Both views seem to be opportunistic that are intended to serve the parties' own agendas, rather than actually protecting the public. Nor do they pass the logic test. The most natural interpretation, one that is consistent with legislative history, is that gambling under the CEA can involve a contract with any underlying event, including elections, weather, sports games, and practically everything else. None of these contracts are gambling automatically, but they can't just reach the market without a review with the Commission having the authority to determine how much review is needed.
+
+This begs the question: how does one determine which claims are gambling and which ones are not?
+
+## b. Assessment Criteria
+
+Measurements, evaluations and assessments are a fact of life. One tangential example is mentioned earlier in this comment letter: Assuming prize and consideration are present, the analysis as to whether a particular game constitutes gambling often turns on whether the game is a game of chance or game of skill. That scala, naturally, requires certain judgment calls. Decisions become harder, especially around the boundaries where both skill and chance are present, such as the game of poker.
+
+Another broad-based example is education. A teacher has to decide which students will pass the class and which students will fail. An exam with a score of 100 is obviously a pass, and an empty answer sheet is clearly a fail. Between those two extremes, there is a wide variety of outcomes. Just like gaming, decisions become harder especially around the middle.
+
+People can agree to disagree whether a particular game is a game of skill or game of chance or whether a particular student deserved a passing grade or not. For borderline games or student performances, especially, two reasonable people can come out on either side of the scale. That said, nobody has ever seriously questioned that some assessment criteria is needed to make a choice, which, by its nature, has to be binary; i.e., a contract is either gambling or it is not. The inherent tension underlying all of these cases is that a continuous scale must be utilized to make a binary choice, and whatever is being evaluated, games, exams, or contracts that tend to cluster around what must be a rather subjective boundary are ripe for disagreement. As anyone who has ever attended a performance review at work can attest, the star employees and the complete failures are easy consensus decisions. The majority of the review and discussion time is spent on borderline cases. Arguably, election market contracts fit squarely into this category.
+
+Admittedly, the Commission finds itself in a very difficult position because the Economic Purpose Test was repealed, depriving it of its main assessment tool. As the senators noted, 'the Commodity Futures Modernization Act of 2000 stripped the CFTC of this authority, at the urging of industry.' (The Exchange.) Congress took away the only sensible scale the Commission had. If state governments declared that skill vs. chance cannot be considered anymore in whether or not determining a certain game is gambling or not, gaming regulators would be helpless. Similarly, if Congress made it illegal to use a pass-fail grading system, teachers all around the country would throw their hands in the air or create picket lines. What is the Commission actually supposed to do, when it has the mandate from Congress to 'to protect consumers from abusive financial services practices,' but is not given a tool for decision-making?
+
+If Congress really intended to momentarily take that authority away from the Commission, it has backfired and arguably contributed to the Great Recession. In response, Congress restored the authority back to the Commission, and did so pretty quickly by legislative standards (within a decade). It is inconceivable to think that Congress, when the country was still reeling from the recession, had the intention to make it easier for any event contract to go to market. Not every game can reach the market, and if it does so, it may need to come with the gambling label. Teachers cannot award a passing grade to every single student in every class unless they all meet certain standards. Not everyone can be a practicing doctor or lawyer. To protect the public at large, certain things just need to be filtered away, until they can be made better, or better alternatives can come to market. Kalshi's position that the CFTC's authority does not even reach election contracts because they are not an enumerated activity is aggrandizing and self-serving at best.
+
+None of this is to say that election contracts do not pose difficult questions. There is arguably some economic benefit in the context of price discovery. Hedging/risk management seems less direct and remote, as it is difficult to anticipate policy outcomes regardless of the winning party or candidate. To be clear, NFI does not take a position on whether or not election contracts serve the public interest. But saying that they should not be subject to a robust assessment in the first place makes no sense whatsoever.
+
+## Step 3 - Protection
+
+Hypothetically speaking, let's assume, two designated contract markets seek the approval for (or self-certify) an event contract as to which country will host the Olympics. As Commissioner Mersinger rightfully points out in her dissenting statement, these contracts, when properly designed, have the potential to serve public interest. Let's further assume that one of the contract proposals have limitations on who can trade the contract, and prohibits, among others, the members of the selection committee from trading the contracts, whereas the other imposes no such restrictions.
+
+A similar hypothetical was posed by the district court in KalshiEx LLC v. CFTC :
+
+But under your argument, because elections don't fall, according to you in those categories, there's no occasion for CFTC to even reach these safeguards. So presumably someone could post an event contract similarly to what your client does, another DCM could do this without any of those safeguards, and it's my understanding that under your framework, CFTC would not have any interest in that.
+
+Inconceivably, Kalshi agreed, and casually offered that there may be other provisions that may come into play. (Transcript, p. 5.) When the Court cleverly took Kalshi's position to its natural conclusion, all Kalshi could do was suggest that some unknown provisions elsewhere in the code could come to the rescue. That alone is a strong signal that Kalshi's statutory interpretation that turns the CFTC into a rubber stamp regulator does not pass muster.
+
+The interpretation advanced in this brief by NFI is much more sensible. Under that interpretation, this final step not only makes room for other contracts, but also acts as a final catch-all that can separate the wheat from the chaff, contracts that serve public interest as a package from those that don't. With this provision, the Commission has a tool, right in the middle of the statute and not in some unknown corner, to differentiate contracts that come with different safeguards even if they are wrapped around what is otherwise an identical contract design. Notwithstanding the traditional view that commodities markets have inside information, there is a fundamental fairness issue. (It is an open question whether as the contracts on excluded commodities, insider trading becomes more of a concern similar to stock market. Intuitively, this makes sense. A farmer certainly knows more about the status of his orange harvest that year than a trader sitting at a desk in New York City, presumably, he doesn't know much in the big scheme.. Traditional commodities are managed locally, but there is a global market for them. A member of the olympic committee however, has both local and global knowledge, which resembles more 'insider information' that may be possessed by a few insiders (e.g. C-suite).)
+
+A few additional remarks are offered below regarding NFI's statutory interpretation of Dodd-Frank, and why it makes more sense that the alternative interpretations offered by Kalshi and the Commission.
+
+Under NFI's interpretation, the statutory analysis follows a logical, funnel-like process: In the first step, any contract that incentivizes bad acts is marked as having an elevated risk. If they clear Step 2 and Step 3, they can still reach the market, but it is clear that the bar is much higher. Again, this makes sense in the context of the political backlash around the DARPA contracts.
+
+Any other contract is a potential candidate to reach the market provided that they are deemed to serve public interest by i) possessing enough economic purpose, through an application of the Economic Purpose Test; and ii) by having the proper safeguards. Essentially, the Commission is entitled to two bites of the apple, analyzing not just the contract design itself, but also the trading design. This interpretation is consistent with legislative history and is perfectly aligned with the economic circumstances Congress launched in the form of the Dodd-Frank Act. It is one where the public interest determination is naturally weaved into the statute as opposed to being a secondary step. It's also one where the determination of public interest, for both contract design and trading design, can be accomplished within the four corners of the statute, not buried within some unknown alley of a separate statute.
+
+Kalshi's interpretation does not work because it turns the Commission into a helpless, rubber stamp regulator. A perfect example is when a DCM self-certifies a contract that is contingent on what color dress Taylor Swift will wear next week (Kalshi's example, Transcript p. 20). Under Kalshi's interpretation, the Commission simply can't reach this event contract.
+
+The Commission's interpretation does not fare any better; its response is essentially admitting that it has no say on the Taylor Swift dress color event contract, unless Taylor Swift wears that dress to a Kansas City Chiefs game, in which case, the contract involves a game, therefore gaming, therefore the Commission has the authority to review, and presumably prohibit the DCM from listing and trading that contract. Alternatively, if some state gaming regulator disallows the Taylor Swift dress contract worn anywhere, the Commission regains the authority to review, because the activity now involves an unlawful activity. Effectively, one funny state law has the potential to impact what the CFTC can or cannot do, more so than Congress telling the Commission that it has broad preemptive powers.
+
+This just can't be the law. The interpretation offered in this letter results in a much more sensible outcome. What color dress Taylor Swift wears, regardless of where she wears it, serves no economic purpose and falls much closer to the entertainment side of the spectrum. Assuming the Commission comes to the same conclusion, the contract would be characterized as gambling, and can't be listed and traded (on any venue).
+
+## II. NFI's Commentary on Commissioner Mersinger and Commissioner Pham's Dissents
+
+## A. Commissioner Mersinger's Dissent
+
+NFI finds itself in some alignment with Commissioner Mersinger. More specifically, NFI agrees with the following comments by Commissioner Mersinger.
+
+## ● Discretion.
+
+Commissioner Mersinger: '[T]he Commission 'may' determine that it is contrary to the public interest and prohibited from trading - which necessarily indicates that the Commission also has the discretion to determine that it is not.'
+
+NFI: Indeed, discretion is crucial for the CFTC to execute on its mission.
+
+## ● Unprincipled Category-Level Determination.
+
+Commissioner Mersinger: 'The Proposal Sweeps in the Universe of Every 'Occurrence or Non-Occurrence in Connection With a Game.''
+
+and;
+
+'[T]o broadly define as ;gaming' every 'occurrence or non-occurrences in connection with' a game regardless of whether it has any bearing on the outcome of the game or the performance of a competitor in the game - is wholly unwarranted.'
+
+NFI: That a particular contract involves sports has no bearing on whether or not it constitutes gambling. Every contract should be evaluated on its merits with the CFTC using its discretionary powers.
+
+## ● Hard Work Needed.
+
+Commissioner Mersinger: 'I recognize that a contract-specific approach to making public interest determinations regarding event contracts may be difficult and resource-intensive for the CFTC. But aside from my view that a contract-specific approach is required by the CEA, it also is a better approach from a policy perspective precisely because it would permit the CFTC to consider these practical questions in the context of the specific circumstances applicable to a particular event contract. We do not get to override a requirement under the law because it will be hard or require more work for us.'
+
+NFI: The Commission is tasked with executing on the mandate from Congress. 'Protect[ing] consumers from abusive financial services practices' is meant to be hard work. Congress asked for it, and if the Commission needs more resources, then asking Congress for additional resources would be a much better approach than interpreting the statute narrowly (despite Congress not prescribing that narrow view) to optimize its existing resources.
+
+NFI strongly disagrees with Commissioner Mersinger on the following points:
+
+- How to Interpret The Fact that Congress Did not Enumerate Elections
+
+Commissioner Mersinger: 'Congress easily could have included elections and awards as enumerated activities, but it did not. Confronted with this Congressional silence, I do not believe the Commission can simply decree that elections and awards are enumerated activities.'
+
+NFI: Perhaps the Commission cannot enumerate an activity, but it does not need to. Instead, it can simply issue a 'scorecard' on election contracts, as it would for any other contract, by relying on the Economic Purpose Test, and determine, whether or not such contracts constitute gambling. Congress's silence means only one thing, that Congress trusts the CFTC to do the job. In simple terms, one can hypothesize that Congress's mandate was rather simple and intuitive. We can visualize Congres saying: 'Pay attention to terrorism, assassination and war, and for any other contract where the payout is contingent on an unlawful activity. We don't want to provide the wrong incentives. Anything else, you should take a look and feel free to review more thoroughly if there are borderline cases. Finally, please make sure there are safeguards in place even when the contracts have economic purpose.'
+
+Commissioner Mersinger: 'There is No Basis to Resurrect the Repealed 'Economic Purpose Test,' Which Shouldn't be Applied to Event Contracts in Any Event'
+
+NFI: This is our biggest disagreement with the Commissioner. Commissioner Mersinger denounces the economic purpose test by arguing (i) (lack of) congressional intent; (ii) difference in kind; (iii) government paternalism; and (iv) application to categories of contracts. We'll address each point in turn.
+
+(i) Perhaps, congressional intent could have been clearer, but there are certainly strong signs of it. Even more importantly, what is the alternative? The Commissioner does not really offer any, other than pointing to a separate process of detailed rulemaking down the road. But the restoration of the Economic Purpose Test offers a much simpler solution: it implies that the Commission has the authority here and now, within the four corners of the Dodd-Frank Act. As mentioned earlier, the Commission not having access to the Economic Purpose test is akin to a teacher not having the ability to issue pass-fail grades.
+
+(ii) That event contracts are different from traditional futures contracts is not a reason to eliminate the best tool the Commission had. It is true that the application of it may be a little different, perhaps price discovery, rather than price basing becomes more important in the case of excluded commodities as opposed to the traditional ones, and perhaps the potential hedger populations look slightly different. That doesn't mean that one can't still broadly look to the fundamental principle of public interest.
+
+(iii) It is true that '[m]arket participants should be permitted to make their own choices about what financial products meet their hedging needs. But we disagree that 'it is not the CFTC's role to deny them that choice altogether because we feel a given product's hedging value is 'limited.'' If it's not the CFTC's, whose role is it? Should all products simply allowed to trade because there might be a few hedgers in a pool of million speculators (and there is no meaningful price discovery)? In any event, there is evidence of industry participants advocating for their needs, and making a difference: When a hearing was held for the box office movie futures, NFI recalls that there was a film financier who passionately argued why such contracts should be allowed. Despite strong opposition by the MPAA, those contracts were voted to reach the market, 3-2, with then Chair Gary Gensler being the deciding vote. (Ironically, they were later outlawed by Congress.) In short, there can be other ways for true hedgers to advocate for their needs and make a difference.
+
+(iv) NFI agrees with Commissioner Mersinger that 'making public interest determinations for event contracts by category' does not make sense.
+
+In sum, if the Commission is going to do the hard work, it should also be afforded the tools to do the hard work: the Economic Purpose Test.
+
+## B. Commissioner Pham's Dissent
+
+Commissioner Pham states:
+
+'I certainly don't want the Commission to be registering Las Vegas sportsbooks and other betting venues.'
+
+Commissioner Pham seems to have it backwards and seems to be conflating regulation with asserting jurisdiction. Nobody, perhaps other than ErisX, which effectively tried to backdoor sports gambling through the CFTC by disingenuously arguing that the contracts have economic purpose, is suggesting that the Commission should register Las Vegas sportsbooks and other betting venues. Instead, the Commission should evaluate whether sports betting contracts should be characterized as swaps and/or event contracts, (NFI believes that is the case for both; however, a detailed analysis of why sports betting contracts and even daily fantasy sports should be characterized as swaps is beyond the scope of this comment letter.) and if it believes it does, should assert jurisdiction. From a layman's perspective, it does not make intuitive sense why the Commission could have such strong
+
+opinions, and clear jurisdiction, on whether a particular candidate will win the elections, but not on whether a particular team will win the Super Bowl. If the mere answer is that the CFTC is not willing to take a stance against a powerful sports betting lobby, the answer seems political, not principled.
+
+Core to Commissioner Pham's thesis seems to be the premise that gaming is a power reserved to the States. As mentioned earlier, we fully agree. Where we disagree is the characterization of sports betting as 'gaming.' It's gambling, not gaming, and that subtle, but crucial distinction flips who has jurisdiction.
+
+Is football an excluded commodity? At least one CFTC Commissioner thought so. ('When we think of commodities, we think of tangible things. Oil, corn, gold. There are intangible commodities too, most of which have a connection to the financial system, like a broad stock index (S&P 500) or a borrowing rate (LIBOR). But what about an event? An election? Whether the Summer Olympics will occur in Japan? A …. football game? Those, too, are commodities!' Statement of Commissioner Brian D. Quintenz on ErisX RSBIX NFL Contracts and Certain Event Contracts.
+Available at https://www.cftc.gov/PressRoom/SpeechesTestimony/quintenzstatement032521, accessed on August 8, 2024.) Are sports bets claims on future contingent events? They certainly are. That puts them squarely within the CFTC's jurisdictional perimeter.
+
+At times the Commission seems to suggest that it only cares about sports betting contracts not trading on registered exchanges as opposed to any venue. Certainly, that creates the wrong incentives to market participants; all Kalshi would need to do is create a new entity and offer election contracts trading, at least in states that do not disallow it. That simply can't be an outcome the Commission would be comfortable with. In addition, the Commission has already taken action against various unregistered exchanges in the past, and to not do so against sport betting platforms seems to be a selective enforcement activity.
+
+Thus, the fact that the CFTC picked a battle with election contracts but not sports betting or daily fantasy sports operators appears to be guided by political choices not by principles. If trading entertainment contracts on a DCM is the problem, then market participants can simply go elsewhere and offer the contracts that the CFTC does not like. If the Commission attacks that structure, the operators can then argue, rightfully, that election markets at least offer some benefits and sports betting and daily fantasy sports don't.
+
+The hard work that Commissioner Pham & Mersinger point to is not just in reviewing every contract. it is also in enforcing the law uniformly. Anything short of that will likely accelerate a heavy litigation cycle, where the American public will become the biggest losers.
+
+NFI thanks the Commission for requesting comments from the public on its proposed rulemaking.
+
+The New Finance Institute

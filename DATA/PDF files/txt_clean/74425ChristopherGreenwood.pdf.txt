@@ -1,0 +1,107 @@
+In my capacity as manager of a CPO/CTA fund organized to provide liquidity to and transact on KalshiEx, and in light of my experience curating and writing rules for the markets on PredictIt from 2014-2019, I write in support of Kalshi's proposed Congressional Control Contracts.
+
+These contracts should be approved without hesitation, as they clearly conform to CEA provisions and CFTC regulations and core principles. The economic purpose to be served by such contracts is overwhelming and the objections commonly presented are unfounded.
+
+The CFTC's rejection a decade ago of similar products proposed by Nadex involved a fairly egregious misinterpretation of Dodd-Frank's event contract proscriptions, an error that not only disqualifies it as precedent in this review, but deserves explicit correction as part of the Commission's approval.
+
+The Commission poses the following 17 questions in its request for public comment (paraphrased for brevity):
+
+1. Do the contracts involve gaming as described in Regulation 40.11 or section 5c(c)(5)(C) of the CEA?
+
+These sections don't define gaming, of course, but simply prohibit event contracts that involve gaming, leaving the reader (or regulator) to figure out how to define it. In its 2012 order prohibiting Nadex's election contracts, the CFTC relied on the definition of 'bet or wager' in USC § 5362, which includes staking value on the outcome of 'a contest of others' (and the CFTC then judged that an electoral 'contest' qualifies as such).
+
+This aggressive interpretation of the phrase 'a contest of others' plainly does not reflect the Commission's own criteria for application of Reg 40.11. If a political campaign, in which multiple candidates vie for the 'prize' of election to public office, qualifies under this definition, surely contests such as the Oscars, Emmys and Grammys (in which candidates vie for literal prizes) likewise qualify. Yet Kalshi has previously self-certified and listed numerous contracts tied to these contests without objection by the CFTC.
+
+Furthermore, PredictIt (the market operating under no-action relief since 2014), while neither a DCM nor an SEF, has nonetheless been bound by the product proscriptions in Reg 40.11, being unable to list contracts tied to most military activities, outcomes closely associated with mortality of public officials, etc. Yet PredictIt has successfully and without issue listed many thousands of contracts tied to electoral outcomes. Notwithstanding the Commission's recent decision to revoke PredictIt's no-action letter for alleged non-compliance, its routine listing of electoral 'contests' clearly did not run afoul of Reg 40.11's topical prohibitions.
+
+2. Should the Commission consider whether election contracts are available in casinos or defined as gaming under state or federal law?
+
+Federal law grants the CFTC exclusive and preemptive jurisdiction over futures transactions. The Commission should resist any temptation to cede its jurisdiction to state law or regulations.
+
+As the Commission summarized in a brief to SDNY years ago:
+
+CEA Section 2(a)(1)(A) grants the CFTC 'exclusive jurisdiction' to regulate 'transactions involving,' inter alia, 'contracts of sale of a commodity for future delivery.' 7 U.S.C. § 2(a)(1)(A). This provision 'preempts the application of state law.' Leist v. Simplot, 638 F.2d 283, 322 (2d Cir. 1980) (Friendly, J.); see also Stuber v. Hill, 170 F. Supp. 2d 1146, 1150-51 (D. Kan. 2001). That plain meaning is confirmed by the statute's legislative history, which says that 'regulations issued by the Commission . . . preempt the field insofar as futures regulation is concerned,' and, if state law conflicts with the Commission's regulations, 'Federal law w[ill] govern.'
+
+https://www.cftc.gov/sites/default/files/idc/groups/public/@newsroom/documents/file/cftc briefiso102612.pdf
+
+The issue of federal legislative definition of gaming is discussed in Question 1.
+
+3. Do these contracts involve 'an activity that is unlawful under any State or Federal law' as described in Reg 40.11 and section 5c(c)(5)(C) of the CEA?
+
+They do not. Elections are not unlawful activities.
+
+The lawfulness test plainly refers to the underlying activity/events (not the lawfulness of listing contracts tied to their outcomes), appearing as it does as the first in a list of proscribed event topics that includes assassination, terrorism, war, etc.
+
+4. In determining whether these contracts involve unlawful activity, should the Commission be influenced by whether state laws permit betting on the outcome of elections or by federal prohibition of interstate betting?
+
+No, because, as discussed in Question 3, this is simply irrelevant. The lawfulness test applies to the underlying activity (elections), not the listing of contracts tied to such activity. 5. Are the contracts substantively different from the contracts Nadex proposed in 2012 such that the Commission's analysis should be different? They are not substantively different. The Commission's analysis should be different not because the contracts are different, but because the Commission's 2012 analysis was incorrect. Since elections are neither unlawful activity, assassinations, acts of war, nor terrorism, Reg 40.11 offers the Commission only two even superficially plausible bases on which to prohibit election contracts: 1) that they constitute gaming (addressed above) or 2) that they fit into the final catch-all category of 'other similar activity determined by the Commission, by rule or regulation, to be contrary to the public interest.' This catch-all, importantly, must not be misinterpreted as 'anything else determined by the Commission to be contrary to the public interest.' Congress enumerated several specific categories of undesirable activities, presumably because it feared the consequence of the potentially perverse incentives for market participants to bring about (or at least profit from) such outcomes. Some of these activities, however, have notoriously slippery legal definitions. The United States hasn't declared war in 80 years, but it's safe to assume Congress meant to include plenty of military activities that fall outside such a narrow scope. Hence the catch-all. Also note that the phrase 'contrary to the public interest' here directly applies to the underlying activity, not to the listing of the contracts. Just as they are not unlawful, elections are not contrary to the public interest.
+
+6. Are the economic consequences of congressional control predictable enough to serve a hedging function? Provide tangible examples of commercial activity that can be hedged directly by the contracts.
+
+According to FEC data compiled at OpenSecrets.org, the top 50 interest groups had by June of this year given nearly a billion dollars to Congressional candidates for this midterm cycle alone. Not only does every major business sector have a demonstrable financial interest in (and hedgeable exposure to) the Congressional balance of power, but that exposure is nicely asymmetric, making electoral outcomes especially well-suited to the risk reallocation function of futures markets.
+
+Oil and gas, agriculture and automotive companies, for example, steer more than two thirds of their donations toward Republican candidates. Unions, law firms, tech and media companies on the other hand donate overwhelmingly to Democratic candidates.
+
+7. Are there unique economic risks tied to the outcome of congressional control that cannot be hedged via derivative products on equities, debt, interest rates, etc.?
+
+The economic consequences of various election outcomes do often affect the pricing of traditional financial instruments and their derivative products, but attempting to use such products to offset an electoral exposure carries enormous basis risk. The whole point of regulated event contracts is to enable market participants to offset their own unique economic exposure to discrete underlying outcomes, rather than attempt to construct sloppy proxy hedges from products whose price movements are affected by countless additional factors.
+
+8. Is it sufficient that a contract could theoretically be used for hedging or, should an exchange provide evidence of demonstrated need by likely hedgers in the market? How often must a contract be used for hedging or what percentage of market participants or open interest must represent hedging use?
+
+For any emerging product category, it's vital not to impose an unduly burdensome threshold that will prevent its maturation. Most prospective natural hedgers will either be unaware of the products' existence or be reticent to manage any significant degree of financial risk using such products, at least until they're able to observe a certain level of liquidity and price stability, a track record of stable exchange operation, and a lack of settlement surprises arising from insufficiently robust rules writing.
+
+It should be sufficient that the contracts address significant, two-sided quantifiable economic exposure among natural hedgers, even if the related hedging demand in some cases may presently be largely theoretical. Surely the majority of contracts currently trading without controversy or special review on Kalshi would fail any meaningful hedging percentage test, but that doesn't and shouldn't disqualify those non-electoral event contracts from being listed.
+
+9. Should the Commission consider contract and position sizes and the intended customer base to assess hedging use? Do small dollar contracts targeted at retail customers have hedging utility against macro level national political events? Does whether contracts are margined or fully collateralized affect this analysis?
+
+The $25,000 position limit is an artificial constraint that, while surely well-intended, unduly constrains maturation, liquidity and adoption of these contracts by natural hedgers, particularly institutional market participants.
+
+However, targeting retail customers does not constitute a hedging mismatch. Retail customers include small business owners, homeowners, tax payers, energy consumers, medical patients, and investors in traditional financial markets, all capacities in which they experience meaningful economic exposure to federal electoral outcomes and other macro political events.
+
+10. Should the Commission consider contract design and payout? Are binary contracts useful for hedging nonbinary economic events?
+
+Binary contracts can be sub-optimal for inherently non-binary events, but the contracts at issue in this review involve distinctly binary outcomes (i.e. which of the two major parties will control each chamber of Congress).
+
+As for non-binary economic events already traded on Kalshi, like target interest rates, GDP growth, forex rates, or the closing value of an equity index, the mismatch between the binary product structure and the scalar nature of the underlying is addressed to some extent by the listing of several binary brackets representing various numerical ranges. When those ranges are mutually exclusive, the application of margin linking contributes to better liquidity and aggregate pricing coherence across the several brackets.
+
+11. Do the contracts serve a price-basing function? For example, could they form the basis of pricing a commercial transaction in a physical commodity, financial asset, or service?
+
+Better visibility into the probability of a party's control of a legislative chamber serves a significant and plainly evident price-basing function. Prevailing tax rates, closure of tax loopholes, federal spending levels and priorities, sector-specific subsidies, energy policy, and health care policy are among the more glaring examples of Congressional agenda items that can be reliably expected to differ drastically depending on which party holds the gavels. Decisions as major as a multi-billion dollar M&amp;A and project finance transactions and as minor as whether to purchase an electric vehicle or install solar panels on a home all incorporate a series of assumptions about future federal policy, the prospects of which are closely tied to the identity of the majority party..
+
+Awareness of shifting odds of a particular favorable or adverse treatment that is anticipated to correlate strongly with the party in power will naturally enable more reliable pricing across a wide range of transactions.
+
+12. Are the proposed contracts contrary to the public interest?
+
+On the contrary. Just as every other category of regulated commodity futures enables the efficient reallocation of risk, so too do event contracts, so long as a wide array of prospective market participants are asymmetrically economically exposed to the underlying events.
+
+Electoral outcomes clearly meet this test.
+
+13. Could the trading of these or other political control or election-based contracts affect the integrity or the perception of integrity of elections?
+
+A common argument against bringing electoral contracts on-exchange holds that the existence of such markets is somehow corrosive to election integrity, but this amounts to little more than a knee-jerk reaction to any novel intersection between money and politics.
+
+Ironically, the wholly uncontroversial (to the point of being clichéd) idea that money is a corrosive force in politics is one of the strongest arguments in favor of listing electoral outcomes on regulated exchanges. So universal and overwhelming is the exposure of virtually every commercial concern (including small business and households) to electoral outcomes that countless commercial entities shovel as much money as legally permissible (at times, perhaps more) at the candidates and parties they feel pose less threat of enacting adverse policy changes.
+
+What better way to reduce that pernicious imperative than to offer a more sanitized, transparent, duly regulated mechanism through which market participants can offset such unwanted exposure, with no attending influence over candidates and elected officials?
+
+14. Could the contracts facilitate violations of campaign finance laws? For example, could the contracts make it easier to sidestep prohibitions governing coordination between candidate campaign committees and PACs?
+
+Such coordination prohibitions are already trivially easy to sidestep and need no assistance from the futures markets. It's not clear that the existence of such markets offers any novel or more clandestine means by which to coordinate.
+
+15. Do the contracts present special considerations with respect to susceptibility to manipulation or surveillance? Could candidate campaign committees or PACs manipulate the contracts by trading on internal, non-public polling data?
+
+Yes. These contracts should, by exchange rule, forbid trading by certain enumerated parties, to include, at a minimum, federal policymakers (legislators, regulators and judges) and their staffs, candidates and their staffs, and registered campaign committees and PACs.
+
+16. Should campaign committees, PACs, candidates, entities subjected to FEC oversight, and those likely to hold non-public information be prohibited from participating?
+
+Yes.
+
+17. What other factors should the Commission consider in determining whether these contracts are 'contrary to the public interest?'
+
+None.
+
+Under Reg 40.11, the Commission is empowered to make such a determination only when the proposed event contracts reference '1) unlawful activity, 2) terrorism, 3) assassination, 4) war, 5) gaming, or 6) other similar activity determined [...] to be contrary to the public interest.'
+
+Congress expressly limited the public interest catch-all to apply only to activities 'similar' to crime, terrorism and warfare.
+
+Even in 2022, elections don't qualify.

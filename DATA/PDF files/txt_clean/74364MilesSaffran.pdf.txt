@@ -1,0 +1,99 @@
+August 8, 2024
+
+Mr. Christopher Kirkpatrick Secretary of the Commission Commodity Futures Trading Commission Three Lafayette Center 1155 21st Street NW Washington, DC 20581
+
+Via CFTC Comments Portal
+
+RE: Event Contracts RIN 3038-AF14
+
+Dear Mr. Kirkpatrick:
+Railbird Exchange ('Railbird') appreciates the opportunity to offer its comments to the Commission on the recently proposed rule regarding event contracts. Railbird is a current applicant for DCM registration as an event contract market, therefore, this proposed rule is of particular interest to us. After reviewing and carefully considering the proposal, Railbird offers comment on the following issues: 1. The definition of gaming; 2. The public interest consideration; 3. Appendix E; and 4. The specific questions asked by the Commission.
+
+1. The Definition of 'gaming' is overly broad and would restrict legitimate contracts from being listed for trading.
+
+We would like to thank the Commission for its attempt to clarify the terms of §40.11. However, the proposed rule goes beyond clarification, resulting in the potential prohibition of any contract that bears any relation to a sport. The proposed rule included in the proposal's definition of gaming 'is ... an occurrence or non-occurrence in connection with such a contest or game, regardless of whether it directly affects the outcome .' (emphasis added) While we understand the Commission's belief that event contracts should not act as a proxy for gambling, a term the Commission interchanges with gaming, there are potential event contracts that may involve a sporting event, but are not based on the ultimate outcome of a game.
+
+The Commission does not cite any existing laws to establish that prong (iv) meets current laws related to gaming. According to the Proposing Release at 48975, the first three examples of what gaming is 'have been recognized as gambling, betting or wagering under relevant state and federal statutes.' This sentence makes clear that prong (iv) of the definition has not been recognized as gaming, even if the prior three have been.
+
+2. The public interest consideration prohibits contracts based on a predetermined finding as against the public interest based on their subject rather than on a review of their actual terms, creating an arbitrary and capricious result.
+
+In addition to an overly broad definition of gaming, The CFTC provides no analysis as to why all contracts that involve 'gaming' are contrary to the public interest. Given the extreme overbreadth of the definition of gaming, the CFTC's conclusion that all contracts that involve gaming are contrary to the public interest is particularly concerning. The CFTC has not reviewed the terms of contracts or assessed the hedging utility of whole classes of contracts, so they do not have any reasoned basis to conclude that they are contrary to the public interest.
+
+By prohibiting any occurrence or non-occurrence of an event related to a game, the Commission forecloses the possibility of legitimate hedging opportunities for individuals and small businesses who may not have another means to do so. For example, a stadium vendor may want to hedge the possibility of cancellation or lower attendance of events at the venue where it does business. Under the proposed rule, if the event is a football game, the vendor may not hedge its risk, but that same vendor may hedge the same risks if the event is a concert. Similarly, weather-based event contracts have existed for many years. Under the proposed rule, a weather contract for the amount of snowfall at Bills Stadium would be prohibited, but a weather contract for snowfall totals in the zip code 14127 is allowed. The result is an arbitrary prohibition of an otherwise legitimate contract.
+
+Sports is a multinational, multibillion dollar industry affecting a wide range of businesses and individuals. Some risks for participants in the industry may relate to front-office decisions, such as whether an organization will move a team to another city. Hotels, restaurants, and municipalities may want to hedge the risk of a team either leaving or moving to their area. The proposed rule potentially removes the opportunity to hedge this risk.
+
+For individuals and entities such as those described above, a traditional futures contract based on a referenced price is not possible. While certain types of insurance exist to hedge the risk of the occurrence or non-occurrence of events, such policies are either expensive, bespoke solutions, or as with the case of business interruption insurance, have so many exclusions as to be ineffective.
+
+The Commission provides no factual support or analysis as to why it has chosen to define the term 'gaming' in this manner. To illustrate, the Commission offers the following explanation for its definition of 'gaming': 'The Commission is, however, proposing to define 'gaming' to include the staking or risking of something of value on a contingent event in connection with a game or contest, which the Commission believes would be as much of a wager or bet on the game or contest as staking or risking something of value on the outcome of the game or contest would be.' Conclusory statements such as this cannot support a rulemaking; they need to be informed by actual analysis.
+
+3. The Commission has failed to provide the public interest factors that would determine whether a contract would be considered against the public interest.
+
+The Commission also proposes to offer illustrative examples of its public interest analysis as an Appendix E to the proposed rule. However, the Commission has failed to provide the contents of this Appendix and has no plans to do so before the end of the comment period. As a result, Railbird cannot provide meaningful comment on this aspect of the proposed rule.
+
+4. Railbird's responses to the specific questions contained in the Notice of Proposed Rulemaking
+
+On the following pages, Railbird offers its comments to each of the questions posed by the Commission. We hope the Commission will seriously consider the impact and unintended consequences of this rule as proposed.
+
+1. The Commission requests comment on all aspects of its proposal to amend §40.11 to remove the terms 'relate to' and 'reference' wherever they appear, and to refer in the regulation only to event contracts that 'involve' an Enumerated Activity or prescribed similar activity.
+
+'Involve' is a broad and vague term, whereas relate to and reference are more precise. The terms 'reference rate' and 'underlying reference' are common in the futures markets; 'involve' is not. Using a much broader, vague term like 'involve' will only lead to more confusion for DCMs as they try to offer innovative contracts that their participants would like to trade.
+
+2. Are there examples of activities that would constitute 'gaming' that may fall outside of the proposed definition?
+
+The proposed definition of gaming already stretches outside of its logical boundaries. In an attempt to shoehorn certain activities in the rule, the Commission is proposing a definition so far off the mark as to be illogical.
+
+3. Are there other types of votes or elections that the Commission should specifically identify, for clarity, in the illustrative examples in proposed §40.11(b)(2)? What types of other votes or elections should be identified and why?
+
+Railbird has no comment.
+
+4. Should the availability at gaming venues of bets or wagers on a particular contingency, occurrence, or event be a relevant factor in the Commission's consideration of whether
+
+an event contract involving that contingency, occurrence or event involves 'gaming' for the purposes of §40.11?
+
+These factors can be a consideration, but not the only one.
+
+5. If, on judicial review, it is determined that staking something of value on the outcome of a political contest does not involve 'gaming,' the Commission may consider whether that activity is 'similar to' gaming. Is staking something of value on the outcome of a political contest similar to gaming?
+
+## Railbird has no comment.
+
+6. The Commission may also consider whether it should enumerate contracts involving political contests or some subset thereof as contracts involving a 'similar activity' to any one or more of 'war,' 'terrorism,' 'assassination,' or 'Activity that is unlawful under any Federal or State law' under CEA section 5c(c)(5)(c)(i)(VI) and determine that contracts involving this newly enumerated activity of political contests contracts involving a similar activity to any one or more of 'war,' 'terrorism,' 'assassination,' or 'activity that is unlawful under any Federal or State law'? If so, should the Commission determine such contracts are contrary to the public interest?
+
+## Railbird has no comment.
+
+7. The Commission requests comment as to whether commenters agree with the Commission's view that a registered entity is unlikely to seek to list for trading or accept for clearing a contract that involves a state law prohibiting certain activity that, while not repealed, is generally considered archaic and is not enforced.
+
+This question is purely hypothetical. We cannot speak to the motivations of other markets.
+
+8. The Commission requests comment on all aspects of its discussion of the factors to be considered in evaluating whether a contract, or category of contracts, is contrary to the public interest for purposes of CEA section 5c(c)(5)(C). IN particular, the Commission requests comment on the following questions:
+- Should hedging and price-basing utility be considered as factors when evaluating whether a contract, or category of contracts, is contrary to the public interest? Why or why not?
+- - Deeming an entire category of contracts against the public interest absent review is inappropriate and can lead to the prohibition of legitimate contracts. With that being said, hedging or price utility is a useful tool - but not the only one - that may be used to determine the public interest utility of a contract.
+- If hedging and price-basing utility should be considered as factors when evaluating whether a contract, or category of contracts, is contrary to the public interest, how should such utility be assessed?
+- - It may be assessed by determining: what is the market for these contracts? What are that market's specific risks that aren't being addressed? How will these contracts assist this market in its risk management goals?
+- Are there factors, in addition to those described herein, that may be relevant when evaluating whether a contract, or category of contracts, is contrary to the public interest? Are there factors the Commission should specifically not consider? Why or why not?
+- - The Commission should not consider the time and workload involved in performing the function of reviewing contracts. In the same way exchanges need to maintain appropriate staffing levels, the Commission should also maintain sufficient staff to serve the markets it regulates.
+9. The Commission requests comment on all aspects of its proposed public interest determinations with respect to contracts involving terrorism, assassination, and war. In particular, the Commission requests comment on whether there are contracts that may involve terrorism, assassination, or war that do not raise the above-described public interest concerns.
+
+## Railbird has no comment.
+
+10. The Commission requests comment on all aspects of its proposed public interest determination with respect to contracts involving gaming. In particular, the Commission requests comment on whether there are contracts that may involve gaming that do not raise the above-described public interest concerns. Why or why not?
+
+Contracts that could conceivably be seen as gaming in the proposed broadened rule that may still serve the public interest are those that are peripheral to the outcome of a game, such as front office decisions or attendance. These would still have an economic impact and serve a hedging purpose, but are not outcome-dependent.
+
+11. The Commission requests comment on all aspects of its proposed technical amendments to §40.11.
+
+As stated above, replacing 'relate' to and 'reference' with 'involve' would only serve to make the rule more vague.
+
+12. The Commission requests comment on all aspects of the proposed implementation timeline. In particular, the Commission requests comment on the following questions:
+- Would an effective date that is 30 days after publication of the final rule amendments in the Federal Register provide registered entities with sufficient opportunity to comply with the amendments?
+
+## Railbird has no comment
+
+- Would the proposed 60-day implementation period provide sufficient time for the expiration of, or orderly cessation of trading in, listed event contracts that were impacted by the proposed rule amendment?
+
+Railbird has no comment.
+
+Railbird thanks the Commission for the opportunity to share our review in relation to the proposed event contract rulemaking. We hope that in considering the public comments, the Commission will not sacrifice innovation for the sake of expediency.
+
+Sincerely,
+Miles Saffran CEO, Railbird

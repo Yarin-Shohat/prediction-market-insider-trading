@@ -1,0 +1,17 @@
+Betting markets are useful when politics is chaotic Why, then, are they largely outlawed in America?
+
+In the 20th century, for brief periods, the most frenetic American trading pits were not the raucous markets in which stocks were traded, nor the venues where bonds were exchanged. The real action was in the market for betting on the next president. 'Crowds formed in the financial district...and brokers would call out bid and ask odds as if trading securities,' write Paul Rhode and Koleman Strumpf, two economists. Markets were deep, liquid and smart: in 15 presidential elections from 1884 to 1940, the favourite won 11 times and three races were essentially tied (in odds and result). Only once did markets miss the mark.
+
+Lively markets in political betting would be a gift today, since they have taken on a profound importance in the days since Joe Biden's disastrous debate against Donald Trump. The question of whether Mr Biden should drop out is urgent; the answer influenced by his chances of beating Mr Trump. Polls, even fast ones, are slower than markets. And markets moved sharply against Mr Biden's chances of continuing in the White House and being the Democrat nominee, before recovering a little in response to the president's obstinacy (see chart).
+
+Unfortunately, robust political betting markets all but vanished in America around the time of the second world war, owing to a crackdown on gambling and the rise of political polling. Today they are mostly illegal, since it is thought unseemly to sully democracy with speculation, with an exception for not-for-profit betting exchanges built by academics to generate data.
+
+Thus the only betting markets that remain are highly restricted, operate abroad or exist outside traditional gambling and financial markets. Can any be trusted?
+
+Consider academic exchanges first. The main restriction on these is that they must cap the value of any bet-at $500 on the Iowa Elections Market and $850 on PredictIt-as well as the number of people betting on any question. As a result, crazy bets cannot be punished by a big trader who spots an opportunity (and perhaps not by anyone, if limits have been reached).
+
+Venues such as Betfair, a British betting exchange, are populated by foreigners who may be less well informed. Nate Silver, an elections forecaster, has derided taking such markets seriously as checking in with the 'Scottish teens'. There is a crypto exchange, run on Ethereum, where election betting takes place, but only those with crypto-wallets can get involved.
+
+All these suffer from what David Rothschild, a researcher at Microsoft, calls 'the 'favoured long-shot issue'. Even now betting markets give Michelle Obama a 5% chance of being the next Democrat nominee. Perhaps her chance is not zero, but it is close to it. These bets cannot be punished by big trades in America. Elsewhere thin markets tend to lead to high fees, which eat into winnings, meaning it is rarely worth taking the other side.
+
+When evaluating Mr Biden, such problems are less relevant. Markets might not price Ms Obama appropriately, but they do a better job for the president. There are lots of bets, for serious money, on his chances. His odds shift with events. It has been useful to know, in real time, how his chances fare. It might be even more useful if betting were open to all. Let crowds form in the financial district once more.

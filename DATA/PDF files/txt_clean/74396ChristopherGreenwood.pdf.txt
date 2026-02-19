@@ -1,0 +1,41 @@
+## Comment for Industry Filing 22-002
+
+From:
+
+Eric Crampton
+Organization(s):
+The New Zealand Initiative
+
+## Comment Text:
+
+I am Dr Eric Crampton, Chief Economist with the New Zealand Initiative in Wellington, New Zealand.
+
+We are a public policy think-tank.
+
+With the Initiative, I authored, jointly with Internet New Zealand, "Analog Regulation, Digital Worlds" - a stocktake on the state of regulation in New Zealand as it relates to the digital economy. That report included a section on New Zealand's experience with iPredict, an early and innovative prediction market on political events.
+
+Prior to joining the Initiative, I was Senior Lecturer in Economics with the University of Canterbury (equivalent of US Associate Professor). I served as academic advisor to iPredict while at Canterbury, and supervised graduate work using prediction market data. I maintain an Adjunct Senior Fellow position with the University.
+
+I urge the CFTC not only to allow Kalshi to run markets on Congressional outcomes, but also to simplify the process for the opening of such markets. A prediction market should not have to run cap in hand to its regulator for authorisation of every contract. There is no risk to be mitigated that is commensurate with that level of regulatory cost. And it forecloses opportunities to open new contracts in response to events.
+
+Prediction contracts on election and Congressional events open opportunities for discovering the likelihood of different outcomes and hedging against those risks. At least as importantly, they can provide the basis for estimating the effects of different policy outcomes.
+
+Futures contracts on political events are no more akin to gambling than are futures contracts on oil prices. Each trader brings their information to the platform, helping to move prices toward a more accurate reflection of true underlying probabilities.
+
+Work by Oprea and Hanson a decade ago (Hanson, R., &amp; Oprea, R. 2009. "A manipulator can aid prediction market accuracy." Economica, 76(302), 304-314)
+
+showed that these markets are resilient to speculative or motivated attack: a trader seeking to push the price around to make their preferred candidate or policy look better or worse simply provide liquidity that attracts traders to profit by bringing prices back to fundamental values.
+
+And the experience we had at iPredict was consistent with Hanson and Oprea's lab work. iPredict traced prices of its contracts against outcomes. If a contract closes at $1 if an event occurs, and at $0 if it does not, contracts trading at $0.10 ahead of closure should pay out at $1 around 10% of the time. And it turned out that contracts trading at $0.20 paid out about one time in five, contracts trading at $0.50 paid out at $1 about 50% of the time, and so on - there was a bit of bias in the tails, with overpricing of very longshot bets and underpricing of sure things, but none of it seemed based on manipulation - just liquidity and holding cost issues. The market just worked.
+
+iPredict wound up closing not because of any issues in the market, but because the regulatory burden became too great. The market consisted of hundreds of very small traders and few large traders - in part because deposit limits were too stringent. But lots and lots of small-value accounts meant that when our regulators imposed AML Know Your Customer regulations, at a time when automated KYC mechanism hadn't yet been developed to any reasonable extent, the market faced impossible costs relative to its scale - and it closed. Total balances held by iPredict at the time were on the order of $400,000, and most of its traders' had account balances below the cost of KYC onboarding.
+
+Hedging opportunities matter, though those opportunities may be limited if the maximum allowed deposit is too low. Outcomes across industries ranging from defence and energy, to agriculture and transport, can vary considerably depending on the composition of Congress and whether control shifts. Being able to hedge against those risks can matter; it would, in this case, be particularly important for smaller businesses. For a large company, where changes in Congress can be worth hundreds of millions of dollars, hedging in a market subject to tight deposit limits is of fairly limited value. But it could be important for smaller businesses and subcontractors, and their employees. And everyone can make use of the information provided through the prices that emerge in these markets, enabling them to make better-informed decisions.
+
+Prices on political and Congressional events don't just provide options for hedging which can be really important. Hedgers provide liquidity that draws in traders who are purely interested in the raw likelihood of the event transpiring, helping to improve prices. They also provide opportunity for combinatorial markets down the track. Things like, for example, what will the unemployment rate be in September 2023 IF policy X is approved by Congress, and what will it be if policy X is not approved by Congress? This kind of information can be of immense value. But if every new contract has to run through this kind of process, where you're even having to get submissions from economists out in New Zealand - it's just far less likely to happen. These markets need flexiblity to respond to events as they transpire.
+
+What experience we had with iPredict suggests CFTC really doesn't have anything substantial to worry about in allowing contracts on political events. If anything, they heightened voter engagement. The CE of iPredict even featured on the nightly news during the election, giving the latest on election market prices. And for that brief period, whenever blowhard partisans insisted that some outcome was going to happen, people could just point to the iPredict price on the event and ask them why they thought that price was wrong, and whether they'd actually put their money where their mouth was. It was a remarkable era. iPredict inflation forecasts (they also had markets on inflation going out several years - it was so very good) wound up being noted in our Reserve Bank's Monetary Policy Statements. I desperately miss it. I envy the opportunities Americans could have if CFTC takes a sensible approach to regulation.
+
+Sincerely,
+
+Dr Eric Crampton

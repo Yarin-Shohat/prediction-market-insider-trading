@@ -1,0 +1,58 @@
+Dr. Peter J. Kempthorne Mathematics Department
+
+Phone: 781-228-0500
+
+Email:  kempthorne@math.mit.edu
+
+Massachusetts Institute of Technology
+77 Massachusetts Avenue, Building 2-378 Cambridge, Massachusetts 02139-4307
+September 16, 2022
+
+U.S. COMMODITY FUTURES TRADING COMMISSION 
+Three Lafayette Centre 
+1155 21st Street, NW, Washington, DC 20581
+
+Re:  Public Comment on Kalshi Proposed 'Will &lt;party&gt; be in control of the &lt;chamber of Congress&gt;?' Contracts Pursuant to Commission Regulation 40.11(c)
+
+## Dear Commissioners:
+
+I am writing to strongly support the approval of Congressional Control Contracts by Kalshi EX, LLC. As Lecturer in the Mathematics Department at the Massachusetts Institute of Technology, I teach financial mathematics and statistics courses.  The contribution of the Kalshi exchange's trading in event contracts is  highly  significant  in  providing  the  public  and  financial  markets  with  explicit  wisdom  of  crowds. Participants choosing to trade contracts based on their price is the scientific way to communicate their beliefs concerning the likelihood of the associated events.  In addition to providing direct value to traders in the contracts, the public and financial markets benefit from the information conveyed by the dynamics of trading and prices in the contracts.  Such activity supports efficiency in financial markets with the enhanced information flow of trading on a regulated exchange.
+
+I  have  been  registered  with  the  CFTC  for  many  years  (as  Commodity  Pool  Operator  and  now  as  a Commodity Trading Adviser).  The importance of regulated exchanges to ensure the integrity and fairness of trading in financial markets is highly significant.   I have been a long-term advocate for Kalshi in their pursuit of registering the exchange with the CFTC.  In that capacity, I am an outside/independent director on the company's risk oversight committee.   Based on my experience and perspective, I offer below comments on several of the Public Questions posted in support of Congressional Control Contracts.
+
+Yours truly,
+Dr. Peter J. Kempthorne
+
+Comments on selected Public Questions posted concerning the Congressional Control Contracts.
+
+1. Do these contracts involve, relate to, or reference gaming as described in Commission regulation 40.11(a)(1) and section 5c(c)(5)(C) of the Commodity Exchange Act, or in the alternative, involve, relate to, or reference an activity that is similar to gaming as described in regulation 40.11(a)(2) or section 5c(c)(5)(C) of the Commodity Exchange Act?
+
+Comment: The underlying activity of the contracts is political control.  This activity is not one of the excluded activities in regulation 40.11(a)(1) - 'terrorism, assassination, war, or gaming or an activity that is unlawful under any State or Federal law.'  While such contracts involve betting on an event outcome, the outcomes of such bets are not purely random as in casino games or akin to sports betting for which the public interest could be challenged. Instead, the Congressional Control Contracts provide a way for the public to communicate and share their expectations about congressional control.  Such contract trading would have no direct impact on the outcome, but indirectly the wisdom of crowds would serve the public interest  by  helping  to  anticipate  congressional  composition  and  prepare  for  the  impact  of  alternate outcomes.
+
+2. Should the Commission consider whether similar offerings are available in traditional gaming venues such as casinos or sports books and/or whether taking a position on elections or congressional control is defined as gaming under state or federal law?
+
+Comment:  While traditional gaming venues such as casinos or sports books might allow similar offerings, these do not serve the public interest.  Allowing Congressional Control Contracts on the Kashi Exchange would serve the public interest by providing a completely equitable, transparent market for such contracts. Moreover, providing such contracts on a central exchange where the public can know and research the trading activity would support increasing the liquidity of such contracts, enabling the public with contract positions to adjust or close their contract positions efficiently in both time and cost.  Such public-interest features are not available at casinos or sports books.
+
+6.  Do the contracts serve a hedging function? Are the economic consequences of congressional control predictable enough for a contract based on that control to serve a hedging function? Please provide tangible examples of commercial activity that can be hedged directly by the contracts or economic analysis that demonstrates the hedging utility of the contracts.
+
+Comment:  These contracts definitely serve a hedging function for individuals and investors.  Their employment circumstance and opportunities can depend significantly on the political side with congressional control. Providing the ability to hedge alternate outcomes could have significant value to affected individuals.  Also, the investment prospects of stocks or bonds in companies can depend significantly on congressional control (e.g., renewable vs fossil fuel energy companies; electronic vehicle and battery manufacturers). The Congressional Control Contracts would provide additional investment options to individuals which could diversify and lower their exposures to identifiable financial risks.
+
+7.  Are there unique economic risks tied to the outcome of congressional control that cannot be hedged via derivative products on equities, debt, interest rates, tax rates, asset values, and other commodity prices?
+
+Comment:  The traditional derivative products focus on the risks of existing underlying assets of the derivatives.  The impact of congressional control is more broad-based.  With a congressional control contract, such risks would be directly tradable, making the amorphous impact direct and tradable.
+
+8. What standard should the Commission use in reviewing the contact's hedging function? Is it sufficient that a contract could theoretically be used for hedging or, should an exchange provide evidence of demonstrated need by likely hedgers in the market? How often must a contract be used for hedging or what percentage of market participants or open interest must represent hedging use?
+
+Comment:  The hedging function of Congressional Control Contracts can only be determined through their use as actively traded contracts.  The proof of demonstrated need by likely hedgers would likely not come until  the  active  and  liquid  market  for  such  contracts  is  available  to  the  general  public.    While premature, an interesting question is whether the position limits for such contracts could be raised for participants self-designating themselves as hedgers. Such market activity would be feasible when trading in such a contract reaches maturity with sufficient liquidity.
+
+11.  Do the contracts serve a price-basing function? For example, could they form the basis of pricing a commercial transaction in a physical commodity, financial asset, or service?
+
+Comment: As noted in Question 6, the investment potential of stocks and bonds of companies can be significantly affected by the outcome of the Congressional Control Contract.  The risks of which political party is in congressional control could have an important impact on pricing commercial transactions in such assets or of related commodities.  In addition to the direct payoffs of such contracts, their information value in terms of market insight/sentiment/wisdom would contribute to pricing and trading in these other assets.
+
+12. Are the proposed contracts contrary to the public interest? Why or why not?
+
+Comment: The Congressional Control Contracts are definitely in the public interest. They provide two key contributions: 1) the ability to trade contracts on event outcomes for individuals directly affected by the event; and 2) the information content of informed, active traders about the likelihood of the contract event for use and consumption by the general public.
+
+16. Should campaign committees, political action committees, candidates for the House and Senate, and other entities involved in political fundraising and expenditures or likely to hold non-public information, or subject to Federal Election Commission oversight, be prohibited from participating in the contracts? Would such a prohibition help address federal campaign law or manipulation and surveillance concerns? How would such restrictions impact the Commission's determination of whether the contracts are contrary to the public interest?
+
+Comment: These possible prohibitions could be important in maintaining the integrity of the market in such  contracts.  I  would  support  such  prohibitions  as  supporting  the  public  interest  objectives  of  the Commission.

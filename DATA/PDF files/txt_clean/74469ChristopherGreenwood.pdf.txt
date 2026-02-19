@@ -1,0 +1,25 @@
+September 25, 2022
+
+## Via Electronic Submission
+
+Christopher Kirkpatrick Secretary of the Commission U.S. Commodity Futures Trading Commission Three Lafayette Centre 1155 21st Street NW Washington, DC  20581
+
+## RE: CFTC Review of KalshiEx Proposed Congressional Control Contracts Under CFTC Regulation 40.11
+
+## Dear Mr. Kirkpatrick:
+
+Intercontinental  Exchange  Inc.  ('ICE')  is  submitting  comments  to  the  Commodity  Futures Trading Commission ('CFTC' or 'Commission') for consideration regarding its review of the KalshiEx proposed  congressional  control  contracts (CFTC, Release Number 8578-22, CFTC Announces Review and Public Comment Period of KalshiEx Proposed Congressional Control Contracts Under CFTC Regulation 40.11, Aug. 26, 2022, avail. at https://www.cftc.gov/PressRoom/PressReleases/857822.) ('Proposal  or  Proposed  Review').  ICE  operates  regulated derivatives exchanges and clearing houses located in the United States, Europe, Canada and Singapore. ICE respectfully offers the following comments on the Proposed Review.
+
+ICE supports product innovation in the futures markets. America's financial markets have thrived through innovation and regulated exchanges develop new products to meet market demand and to allow market  participants  to  hedge  risks.  To  that  end,  it  is  crucial  that  the  CFTC  establish  a  transparent, accountable, and consistent process for new products so that regulated exchanges have certainty regarding regulatory requirements.
+
+In  the  case  of  the  KalshiEx  contracts,  there  appears  to  be  confusion  on  the  application  of  the CFTC regulations and the standards implemented. CFTC Rule 40.11(a) sets forth a prohibition on the trading and  clearing  of  any  event  contract  that  'involves, relates to, or  references'  'terrorism, assassination, war, gaming, or an activity that is unlawful under any State or Federal law;' or 'an activity that is similar to an activity enumerated in 40.11(a)(1) of this part, and that the Commission determines, by rule or regulation, to be contrary to the public interest.' The KalshiEx congressional control contract does not appear to be captured by any of the enumerated activities in 40.11(a); Congressional elections are not terrorism, assassination, war, or gaming. (ICE supports and agrees with Commissioner Pham's dissent and analysis on this point. Her dissent is available at https://www.cftc.gov/PressRoom/SpeechesTestimony/phamstatement082622.)
+
+The Commission should also apply its rules uniformly and fairly across its contract markets. ICE notes  the  disparate  treatment  between  the  KalshiEx  event  contracts  which  were  put  out  for  a  90-day review  and  CME's  recently  launched  event  contracts  which  were  allowed  to  be  self-certified. (Because of the different approach taken with the CME, questions regarding the advisability of a contract that invites retail speculation on the settlement price of an exchange's own futures contracts will be left for determination by the marketplace-precisely the opportunity that KalshiEx was denied with respect to its contracts when the Commission incorrectly invoked Regulation 40.11.) ICE believes  it  is  imperative  that  the  Commission  implement  clear  processes  and  consistently  apply regulation.
+
+ICE understands the specific consideration given to election contracts, however the length of time for the CFTC to decide on KalshiEx's political event contracts is concerning. A prolonged delay in receiving clarity on listing new products is a disservice to the regulated exchange and market participants. In addition, a prolonged delay impedes the exchange's ability to be competitive. In this situation, an extended review period by the Commission will take KalshiEx beyond the event to which the contract relates: the mid-term elections. The process to list new products, including staff review, should be completed within a timeframe that fosters innovation and should not delay new products coming to market.
+
+ICE appreciates the opportunity to comment on the Proposal. ICE shares the Commission's goals of  promoting  transparency,  accountability  and  predictability  and  facilitating  effective  oversight.  ICE respectfully requests that the Commission consider its comments in light of those goals.
+
+Sincerely,
+
+Trabue Bland Senior Vice President, Exchanges Intercontinental Exchange Inc.

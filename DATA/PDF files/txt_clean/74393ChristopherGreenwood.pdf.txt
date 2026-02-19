@@ -1,0 +1,74 @@
+James J. Angel, Ph.D., CFP ® , CFA Associate Professor of Finance Georgetown University (All opinions are strictly my own and do not necessarily represent those of Georgetown University, FINRA, or anyone else. I am the Academic Director for the FINRA Certified Regulatory and Compliance Professional (CRCP ® ) program at Georgetown.  Over the years I have served as a Visiting Academic Fellow at the NASD (later part of FINRA), served on the boards of the EDGX and EDGA stock exchanges, served as Chair of the Nasdaq Economic Advisory Board, and performed consulting work for brokerage firms, stock exchanges, market makers, issuers, and law firms.  I've also visited over 80 stock and derivative exchanges around the world.  As a finance professor, I practice what I preach in terms of diversification and own modest and well-diversified holdings in most public companies, including brokers, asset managers, market makers, and exchanges.) McDonough School of Business Washington DC 20057 angelj@georgetown.edu
+Twitter:  @GuFinProf
+
+September 22, 2022
+
+Commodity Futures Trading Commission Three Lafayette Centre 1155 21st Street, NW Washington, DC 20581
+
+Re: Industry Filing 22-002: KalshiEX request for approval of political futures contracts
+
+Dear CFTC:
+
+## In summary:
+
+- The KalshiEX contracts are in the public interest and should be approved without delay.
+- The current CFTC should have the courage to correct the decade old Nadex mistake from a previous set of commissioners and approve these contracts.
+- Elections have economic consequences.  The contracts can be used by those exposed to energy and tax policy to hedge.
+- The contracts serve a public purpose of information production and are likely to be better than polls.
+- The contracts pose no risk of undermining election integrity.
+- The long-standing existence of academic prediction markets with zero criminal sanctions is a de facto demonstration that such markets are legal.
+- Even if one could construe this as gaming, The CFTC should use its exemptive authority to approve the contracts because they are in the public interest.
+- The CFTC should approve these contracts immediately and not wait until October.
+
+## Background
+
+Many years ago, a previous set of CFTC commissioners incorrectly said NO to a Nadex request to trade election futures contracts on the grounds that such contracts were gaming and thus illegal. (https://www.cftc.gov/PressRoom/PressReleases/6224-12) Now Kalshi is seeking to trade contracts that would allow users to speculate on or hedge on the results of elections.  The CFTC is requesting comment on various questions related to these contracts, mostly related to whether or not the proposed contracts are related to gaming. (https://www.cftc.gov/filings/documents/2022/orgkexpublicquestions220829.pdf)
+
+## The Supreme Court is not hung up on stare decisis and the CFTC should not be either.
+
+As the recent overturning of Roe v Wade indicates, the Supreme Court is willing to overturn precedents when a majority of the justices feel a mistake has been made.  Today's commissioners of the CFTC should also have the courage to undo the previous mistake that was made in denying election-based contracts.  Yes, the doctrine of stare decisis does provide important predictability and stability in law and rulemaking.  However, with a decade of additional consideration, it is now clearer that it is in the public interest to allow these contracts to exist. The current CFTC commissioners should not feel bound by an incorrect precedent made by a previous generation of commissioners.
+
+## Elections have consequences, and election contracts can provide a means to hedge them.
+
+We live in a politically polarized world.  The two major parties have very different policy objectives. Election outcomes can have a huge impact on the economic success or failure of an enterprise.  For example, one party wants to promote clean energy and the other party wants to promote carbon-based fuels.  Those with exposure to fossil fuels or to green energy companies might want to hedge their exposure with the proposed contracts.  The different parties also have very different ideas on tax policy, and once again individuals and corporations might want to hedge with these contracts.  It is in the public interest to provide these hedging tools.
+
+It remains to be seen how much liquidity these contracts will have, which will affect their fitness of purpose for hedging.  Even if the contracts are not big enough for Exxon to use for hedging, they will still have serious utility for smaller investors.  The CFTC should let it up to the DCMs to design and self certify the contracts, and restrain from the urge to micromanage contract design.  The DCMs have the incentive to get it right, and the CFTC should allow them to experiment in each election cycle.
+
+## Better information about likely election outcomes is in the public interest.
+
+It is no secret that public opinion polls have become less trusted in recent years as people are less likely to answer the phone. (See https://www.scientificamerican.com/article/why-polls-were-mostly-wrong/.) Nevertheless, there is a large hunger for information about what voters are likely to do.  Better information can help candidates and parties better allocate their campaign resources.  Better information can also help voters make voting and donating decisions. Better information can allow the media to make more informed decisions about how to cover candidates.  For example, access to the platform of a political debate has been based on poll numbers. (See https://www.debates.org/about-cpd/overview/)
+
+With better information from prediction markets, better decisions can be made.  The information that an election is close can increase voter interest and turnout, thus increasing voter engagement in the election process.  Similarly, the real-time nature of prediction markets can give voters and candidates nearly instant information about the impact of various events on a campaign.  Such an improvement in information is in the public interest.
+
+## Markets can do a better job than pollsters because of their inherent financial incentives.
+
+Potential voters have no incentive to answer a call from a pollster or even tell the truth about their voting intentions.  This adds a large amount of uncertainty to poll results.   Markets, on the other hand, provide a strong financial incentive for people to put their money where their information is. Profit-driven players will use all of the information at their disposal to make good trading decisions, and this allows markets to aggregate all of the information that is available.  This means that election markets are likely to provide more accurate forecasts than polls.
+
+## Better information can improve election integrity.
+
+Conspiracy theories often fly when election results differ from pre-election polls.  Voters rightly ask 'How did my candidate lose when they were leading in the polls?' With better forecasts of likely outcomes, voters are more likely to accept the final election results.  As the election markets aggregate all of the available information, they are likely to provide more accurate forecasts of the final results and thus help to assure voters of the integrity of the election process.
+
+## There is no financial incentive to manipulate a regulated prediction market to change the election outcome.
+
+One concern is whether bad actors might attempt to manipulate a prediction market in order to create 'momentum' for their candidate and influence the election.  That would be a stupid thing for anyone to do, given the highly regulated nature of CFTC-regulated exchanges. The existence of a high-quality audit trail makes it very easy to identify any such manipulation.  It would be far more cost effective for a manipulator to hire an army of social media bots than to attempt to manipulate an election via a prediction market.
+
+## The longstanding existence of various election prediction markets is de facto evidence that such markets are not illegal gaming.
+
+Prediction markets have existed for many years that harness market forces to predict election outcomes. For example, the Iowa Electronic Markets have been in operation for over 30 years. (See https://iemweb.biz.uiowa.edu/.  Another example is predictit.org.) The long-standing operation of such election prediction markets is strong evidence that election-based prediction markets are not illegal under state of federal law.
+
+## Elections are not chance events.
+
+Gambling typically involves some outcome that is essentially random, and upon which the rules of probability apply.  Examples include the spin of a roulette wheel, the roll of dice, or the drawing of a card from a well-shuffled deck.  Such random activities provide little, if any, economic benefit beyond entertainment.  Due to the damage that compulsive gamblers do to themselves and others, gambling is highly restricted or regulated in most jurisdictions.
+
+Elections, on the other hand, are not based on random draws. (One exception is in the extremely rare case of a tie.  In some jurisdictions, a random process can be used to break the tie. For an example, see https://www.wglt.org/news/2021-04-26/hats-off-to-new-danvers-trustee-afterelection-tiebreaker) They are the bedrock of our political process and have an important economic purpose.  Elections select the leaders who will be making the important policy decisions that affect the economy.
+
+## Uncertainty is not the same as gambling.
+
+The outcomes of political elections, like future weather patterns, future crop prices, and future metal prices, are highly uncertain.  The mere fact that an outcome is uncertain does not mean that an economic transaction tied to that uncertain outcome is illegal gaming.  If that were the case, then all futures contracts would be connected to gaming and hence illegal.
+
+## Even if these contracts could be construed as gaming, the CFTC should use its exemptive authority to approve these contracts as in the public interest.
+
+While these contracts are certainly not the type of gaming Congress envisioned in writing the prohibition in section §5c(c)(5)(C) of the CEA, one can see how some might think so.  Fortunately, Congress has given the CFTC pretty broad exemptive authority to act in the public interest. (See 17 CFR § 140.99 - Requests for exemptive, no-action and interpretative letters.) It is highly unlikely that a serious court challenge would occur if the CFTC approves these contracts.  It is in the public interest to approve these contracts, and the CFTC should do so without delay.  Given the rapidly approaching elections, the CFTC should approve the contracts immediately and not wait until October.
+
+Respectfully submitted,
+James J. Angel, Ph.D., CFP ® , CFA Georgetown University

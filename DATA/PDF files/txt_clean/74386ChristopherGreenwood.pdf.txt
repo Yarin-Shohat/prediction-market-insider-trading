@@ -1,0 +1,60 @@
+September 18, 2022
+
+SUBMITTED VIA CFTC PORTAL Secretary of the Commission Office of the Secretariat U.S. Commodity Futures Trading Commission Three Lafayette Centre 1155 21st Street, N.W. Washington, D.C. 20581
+
+Dear Chairman and Commissioners of the Commodity Futures Trading Commission:
+
+I am writing in support of the Commodity Futures Trading Commission approving Kalshi's proposal for electoral prediction markets.
+
+My name is Jason Furman, and I am jointly the Aetna Professor of the Practice of Economic Policy Harvard's Kennedy School and a Professor the Practice of Economic Policy in the Economics Department at Harvard University where I conduct a wide range of research on policy-related issues. I served as Chairman of the Council of Economic Advisers under President Obama from 2013 to 2017, serving as his Chief Economist and a member of his Cabinet. Prior to that I served as Deputy Director of the National Economic Council from 2009 to 2013. In those capacities, I was deeply involved in the Administration's response to the Great Recession and at the forefront of some of the largest economic and policy debates of the time, including the American Recovery and Reinvestment Act, the Affordable Care Act, and the debates over the debt limit and fiscal cliff in 2011 and 2012.
+
+## My own use of prediction markets, including electoral prediction markets
+
+I have personally encountered and extensively used prediction markets, including electoral prediction markets, extensively in three different settings:
+
+The first is in the White House I, along with other members of the economic team, would regularly refer to prediction markets on electoral outcomes and specific events to help inform our understanding of how political and economic developments would affect economic policymaking. In understanding the risks of a government shutdown or debt limit showdown, for example, it would be helpful to understand what informed traders with money at stake would expect-a method of understanding probabilities that research has consistently shown is superior to other ways of summarizing and updating based on information.
+
+The second is in economic research. While I have not done any research on prediction markets I have frequently read and referred to this research to understand not just elections but the way that elections affect financial markets and the economy more broadly. In fact, some research on financial markets and the economy would be impossible without these prediction markets.
+
+The third is in teaching. I co-teach Harvard's introductory economics class, called Ec10, and we introduce our students to prediction markets, show that, on average, they have historically been very accurate, and then show them political prediction markets. I believe that understanding probability, the difference between people's actions when money is at stake and when it just cheap talk, and the role of markets in aggregating information is helpful to students generally and specifically in the case of electoral prediction markets.
+
+The reason why political prediction markets are superior to other tools for all of the above purposes is that they incorporate a wide range of information quickly and efficiently. A statistical model such as FiveThirtyEight's can only reflect the impact of an event on the political race once it starts appearing in polls. In contrast, a prediction market can react immediately. This near realtime probability calibration can be highly useful for researchers, whose event studies rely on a quick turnaround between the event occurring and the change in the data, in order to isolate the effects of the event from anything else occurring in that period. For instance, a researcher trying to learn the effects of a Supreme Court decision, an economic data release, or a candidate debate on electoral outcomes cannot wait weeks for enough polls to arrive to form a competent polling average, as too many different events may have occurred in the interregnum to be able to draw conclusions about any one in particular.
+
+## Prediction markets as a price discovery tool
+
+The benefits of electoral prediction markets go well beyond the ways in which I have used them in my career. Elections can have profound affects for businesses. It is important for businesses to be able to make better predictions about elections (discussed in this section) and also hedge against the consequences of them (discussed in the next section).
+
+Specifically, election prediction market can facilitate more accurate price discovery in other markets. Even those who are not actively participating in the market for election contracts, then, can benefit from the data that it provides.
+
+For instance, suppose an energy firm is attempting to assess a fair market value for fuel to be delivered two years hence. To do so, the energy firm must estimate how supply and demand are likely to evolve over that period. Perhaps they use meteorological data and expect the winter to be unusually cold, and thus demand might rise. Or they survey earnings calls from key manufacturers to anticipate that supply chain bottlenecks from overseas natural gas producers might ease up, lowering the price. But another key factor they will consider is political risk. Legislative changes in environmental policy might increase or decrease the cost of producing natural gas.
+
+While there is plenty of satellite data for a trader to use to estimate the weather impact on demand, there is little hard data to use to estimate political risk, which is a large part of the pricing puzzle. Enter election prediction markets. Traders know that their risk of beneficial or adverse policy changes depend on which party is in power and that change in risk is exactly what is necessary to price those commodity futures more accurately. A liquid, well-regulated prediction market offering an accurate probability estimate of who is likely to control Congress would thus be highly valuable to price discovery.
+
+There is ample academic evidence to suggest that prediction markets are highly efficient at aggregating information to produce an accurate forecast when compared to alternatives (especially farther out from an election). For example, economists Erik Snowberg, Justin Wolfers, and Eric Zitzewitz used data from the Iowa Electronic Markets to find clear linkages between prediction market prices and equity valuations. (Snowberg, Erik, Justin Wolfers and Eric Zitzewitz, 2013, 'Prediction Markets for Economic Forecasting,' in the Handbook of Economic Forecasting Volume 2, Elsevier Press, pp.657-687.)
+
+## Benefits of electoral prediction markets for small businesses needing to hedge
+
+Election markets can also allow businesses and others to participate directly and hedge against the consequences of elections. Absent prediction markets businesses have no simple and transparent way to hedge against these risks.
+
+Millions of businesses are affected by changes in Congressional control, facing both positive and negative risks. Congressional control impacts legislation, policy, and the business environment in ways that have direct economic consequence to businesses and workers. This risk is conceptually identical to climate risk,  business interruption risk, and other similar risks that can and should be managed using the financial markets.
+
+Many businesses have a regulated component to them, either directly because the business is a regulated activity, or as an integral component to the business. Energy, healthcare, and education are some of the many industries that are directly affected by the Federal government. Even industries that are not directly regulated operate in an environment that is directly impacted by the Federal government whether it is due to tax policy, labor regulations, financial regulations, or other myriad policies the government sets.
+
+Political control can also impact the overall business environment, including macroeconomic developments like the likelihood of legislation that will raise or lower overall economic activity-and thus business sales-and also specific changes that could affect a businesses' ability to raise capital, hire workers, and expand.
+
+Businesses should recalibrate and manage risk before elections occur. Businesses are forward-looking and should anticipate changes in policy and government attitudes. For example, businesses hire, contract, and build in anticipation of future demand. Investment decisions, partnerships, acquisitions, and more are made in anticipation of future growth and performance. Partnerships, loans, and equity deals are similarly forward-looking and similarly are affected by political control. Accordingly, risk management must begin beforehand as well. Equities and commodity futures reprice to account for potential changes in political control.
+
+Election markets also provide an efficient tool for managing these dynamic and interrelated risks. A person that faces risks from multiple legislative changes and the changes to the business environment that come with political control can effectively manage the risk through this contract, but cannot easily do so using contracts for individual policies alone.
+
+It is this hedging utility that distinguishes the market from the 'gaming' contracts that the CFTC may be worried about. Whereas gaming contracts (such as a contract on the number of touchdowns a player scores in a football game) cannot reasonably be used for risk reduction purposes, an event contract on Congressional control clearly relates to an event of great economic importance.
+
+The fact that many participants are not themselves using the contract for hedging does not refute this argument. If anything, non-hedgers serve a valuable purpose by providing greater liquidity and superior price discovery for the hedgers themselves-just as they do in a wide range of financial markets. Only if a market is exclusively used by speculators because the underlying event does not create sufficient risk that can be hedged would a contract be gaming. In contrast, not only can these markets be used for hedging, the great economic importance of the underlying event, and the significance of the risk, make them highly likely to be used as such.
+
+## The benefits of approving electoral prediction markets overwhelmingly outweigh the costs
+
+Elections are not games, and the outcome of political control of Congress has enormous public interest ramifications. Election-focused prediction markets combine the economic significance of a powerful risk reduction tool for small businesses with the social significance of a powerful forecasting tool for researchers and policy-makers. A regulated election market will further the public interest by providing a valuable risk management tool, and providing data that will be valuable to businesses, economic researchers and policymakers alike. This is the exact kind of innovation that the CFTC should be embracing. I encourage the Commission to approve Kalshi's contract for electoral markets.
+
+Sincerely,
+
+Jason Furman Professor of the Practice, Department of Economics, Harvard University 
+Professor of the Practice of Economic Policy, Harvard Kennedy School

@@ -1,0 +1,84 @@
+August	7,	2024
+
+The Honorable Rostin Behnam, Chair Commodity Futures Trading Commission Three Lafayette Centre 1155 21 st Street, NW Washington, DC 20581
+
+Via Electronic Filing
+
+Re: Commission Proposed Rulemaking Regarding Event Contracts, RIN 3038-AF14
+
+Dear Chair Behnam,
+
+The Center for American Progress (CAP) is pleased to submit these comments regarding the Commodity Futures Trading Commission's ('CFTC' or 'Commission') proposed rulemaking on Event Contracts. (Commission No)ce of Proposed Rulemaking Regarding Event Contracts, CFTC, 89 Fed. Reg. 48968 (June 10, 2024), available at hJps://www.govinfo.gov/content/pkg/FR-2024-06-10/pdf/2024-12125.pdf ('Proposal' or 'Proposed Rule').)
+
+CAP is an independent, nonpartisan policy institute that is dedicated to improving the lives of all Americans through bold, progressive ideas, strong leadership, and concerted action.
+
+We strongly support the Commission's codification of its position that contracts based directly or indirectly on election outcomes constitute gaming, as well as the proposal's clarifications and non-exclusive examples of enumerated activities and its helpful discussion of how it will assess contracts that are contrary to the public interest. While these changes are welcome, we are concerned that the Proposal may inadvertently help to promote event contracts that are not clearly prohibited but are nevertheless likely not compliant with the requirements of the Commodity Exchange Act (CEA) and the Core Principles. Indeed, the Proposal highlights the need for the Commission to more directly exercise its responsibility to review, analyze, and ensure that all DCM listings and rules comply with the law and Core Principles.
+
+## The Commission appropriately codifies the position that contracts based on political elections are contrary to the public interest and are prohibited
+
+We strongly support the Proposal's explicit language identifying political election contests as a gaming activity that is contrary to the public interest and a prohibited basis for a contract. The Commission helpfully codifies its position that contracts based either directly or indirectly on election outcomes constitute gaming and that contracts based on gaming as a category are against the public interest and thus explicitly prohibited.
+
+The recognition that contracts based on the outcomes of political elections raise unique concerns, including about the Commission's appropriate role in this area, and are contrary to the public interest is correct for all the reasons identified in the proposal. Most important, this aspect of the Proposal is consistent with U.S. election law and protects the public interest and integrity of the voting process, as the Commission states in the proposal.
+
+CAP related its concerns about political election-based contracts to the Commission in its July 24, 2023, comment regarding a proposal by KalshiEX, LLC to offer 'Congressional control event contracts.' (Comment from the Center for American Progress to the Commission (July 24, 2023), available at hJps://www.americanprogress.org/wp-content/uploads/sites/2/2023/07/2023-07-24-CAP-Commenton-KalshiEX-LLCs-proposal.pdf.) At that time, we warned that allowing contracts based on election outcomes could lead to election interference, voter manipulation, and disinformation campaigns, which would ultimately erode public trust in the democratic process. These contracts, CAP argued, pose significant risks to the integrity of elections by introducing financial incentives that could distort voter behavior and undermine the fundamental principles of fair and free elections. CAP recommended that the Commission hold to its longstanding view that such contracts constitute gaming and are inherently against the public interest, and we were pleased that it did so in September 2023 when it turned down KalshiEX's request. (CFTC, 'CFTC Disapproves KalshiEX LLC's Congressional Control Contracts' (September 22, 2023), available at hJps://www.c\c.gov/PressRoom/PressReleases/8780-23.)
+
+While the Commission made the right decision in the case, it was then challenged in court. This episode clearly demonstrates that DCMs, which have an interest in listing and promoting as many products as possible, will continue to offer strained interpretations of the law and Core Principles to list products and challenge any resistance from the Commission in court. The agency must promulgate a strong substantive rule and clear process to ensure that the agency is able not just to come to the right conclusion but also to defend its decisions in court.
+
+We also commend the Commission for clarifying that contracts based on activities and outcomes that are similar to, or a proxy for, political contests are equally prohibited.
+
+The extensive examples of this in our digital, data-driven economy fully warrant this approach. This further explanation sends a clear message that workarounds are also prohibited, as they can lead to harms similar to those that could occur as a result of a contract that is directly based on the outcome of one or more political elections.
+
+## The proposal's expansive view of 'public interest' is consistent with congressional intent
+
+We agree with the Commission's interpretation of the statutory language and legislative history of the event contract prohibition as requiring the Commission to take a broad view when assessing potential public interest harms.
+
+The Commission correctly recognizes that there may be circumstances where a contract is contrary to the public interest 'even where such contract, or category of contracts, may have certain hedging or price-basing utility.' (Proposal at 48979.) The Commission appropriately adopts the view that 'national security and, more broadly, the public good, are relevant factors for consideration in an evaluation of whether a contract, or category of contract, is contrary to the public interest for purposes of CEA section 5c(c)(5)(C).' (Proposal at 48980.) It helpfully provides a non-exclusive list of other factors that may be relevant when evaluating whether a contract, or category of contracts, is contrary to the public interest, including 'the extent to which the contract…would draw the Commission into areas outside of its primary regulatory remit…', increase the risk of manipulative activity, or result in market participants profiting from harm to any person or group of persons. (Proposal at 48980.)
+
+## The process the Commission relies on allows for easy evasion
+
+The Commission is statutorily obligated to ensure that DCM rules comply with the CEA and Core Principles. However, the Commission has adopted internal procedural rules that are excessively deferential to self-interested DCMs and expose the Commission and markets to significant risks, while also constraining the ability of the Commission to intervene.
+
+Nevertheless, the Proposal would expand the Commission's reliance upon those procedural rules. In fact, despite the Commission's longstanding failure to effectively and transparently police DCM listings and filings, (See, e.g., Healthy Markets LeJer to the Honorable Heath Tarbert (December 11, 2020), available at hJps://healthymarkets.org/wp-content/uploads/2020/12/CME-Historical-Data-12-11-2020-4.pdf (regarding CME fee changes); and Remarks of Chairman J. Christopher Giancarlo to the ABA Deriva)ves and Futures Sec)on Conference, Naples, Florida (January 19, 2018), available at hJps://www.c\c.gov/PressRoom/SpeechesTes)mony/opagiancarlo34 ('Neither statute nor rule would have prevented CME and CFE from launching their new products before public hearings could have been called.')) the Proposal explicitly cites as a benefit of the current proposal relieving the Commission and its staff of the need to review covered contracts. (Proposal at 48969.)
+
+In codifying its deference to DCMs and Swap Execution Facilities (SEFs) for event driven contracts, the Proposal notes that they
+
+… are subject to statutory requirements to only list or permit trading in derivative contracts that are not readily susceptible to manipulation; to enforce compliance with contract terms and conditions; and to monitor trading on the exchange in order to prevent manipulation, price distortion, and disruption of the settlement process through market surveillance, compliance, and enforcement practices and procedures. In addition to the more generally applicable requirements to which registered entities are subject when listing derivative contracts for trading or making such contracts available for clearing, CEA section 5c(c)(5)(C) grants the Commission the authority to prohibit registered entities from listing for trading or making available for clearing particular types of event contracts, if the Commission determines that such contracts are contrary to the public interest.
+
+But what if a DCM or SEF decides to list and trade a product that should not be permitted? The proposal itself exists because DCMs took a very expansive view of what is permitted under the law and Core Principles, and the Commission clearly disagrees with that view. And, while KalshiEX involved a hot button issue that public interest groups had been following, countless other listings and rule changes may fly under the radar with no other public discourse (or awareness) or agency action.
+
+The need for the Proposal is a direct result of a flawed Commission process for ensuring DCMs' compliance with the law and Core Principles. Today, Commission rules generally permit DCMs to self-certify new products (Listing Products for Trading by Cer)fica)on, 17 C.F.R. 40.2, available at hJps://www.law.cornell.edu/cfr/text/17/40.2.) and their rules. (See, e.g., Self-Cer)fica)on of Rules, 17 C.F.R. 40.6, available at hJps://www.law.cornell.edu/cfr/text/17/40.2.) In some cases, the Commission does not even require that.
+
+Commission Rule 40.2 allows a DCM to self-certify a product for listing and notify the Commission the day before listing the product (17 C.F.F. 40.2(a)(2).) -an impossible amount of time (one day) for the Commission to undertake sufficient due diligence to research the product and the filing (which could take months of inquiry and analysis) and then intervene to stop it.
+
+Commission Rule 40.6, which applies more broadly to rule changes, establishes three different categories of rule changes and sets forth different requirements for each. First, there are DCM rules that demand full self-certification, and formal notice and comment processes apply. Next, there are DCM rules for which the Commission only requires a 'notice,' but there are no formal comment periods or other automatic procedural safeguards. Finally, there are DCM rules for which the Commission does not even require DCMs to provide timely notice to the Commission. (17 C.F.R. 40.6(d).)
+
+Only in rare circumstances does the Commission ensure that the public is afforded the opportunity to provide comment on rule filings or afford itself a reasonable opportunity to intervene. For DCM rules that are self-certified, the Commission has a nearly impossible-to-meet timeline and substantive burden to intervene. Ten days for the agency to effectively drop everything else, undertake a deep analysis, and then move to stay the rule or disapprove of it is simply not enough time. If the Commission is able to initiate a stay, then it may undertake a notice and comment process, but that process also is subject to compressed timelines.
+
+This entire process stands in sharp contrast to rule changes by registered securities exchanges. The Securities and Exchange Commission's rules mandate that all registered securities exchange rule changes be formally filed with the agency. All exchange filings are put out for public comment, and the SEC has much more time to intervene.
+
+The CFTC's decision to simply adopt internal rules to relieve itself of its burden to effectively ensure compliance with the CEA and the Core Principles is inconsistent with its mission, the law, and its regulatory peer. Not surprisingly, the Commission has thus allowed increasingly complex products to come to market, including crypto futures products, without any meaningful interventions. New product filings and rule changes are rarely challenged by the agency, and, when they are, the agency is likely to be challenged in court, in part because it has voluntarily created for itself a nearly impossible standard to meet within the time allotted. Thus, the Commission's own rules act as a material deterrent to its own exercise of authority to ensure compliance with the CEA and Core Principles.
+
+Despite all of these shortcomings, the Proposal preserves for DCMs the existing lax procedural safeguards, which will allow for listing contracts that could be contrary to the public interest or otherwise not comply with the Core Principles. Rather than ensuring compliance with the law and Core Principles, the Commission invites further expansion of non-compliant contracts.
+
+It seems naïve to assume, for example, that market participants will no longer try to find innovative means of speculating on various aspects of political elections and policy outcomes. There is an infinite variety of such possibilities.
+
+Worse, because the agency has given itself such little advance notice, it likely would not be able to intervene until after a product is listed and traded. At that point, the agency would be faced with the prospect of creating new investor and market harms by moving to stay or delist the product. The Commission should be empowered to protect the markets before harm is done, that is, prior to listings or rule changes taking effect.
+
+## Recommendations
+
+Reviewing DCM commissioned listings and rule changes is a core responsibility of the Commission and is critical to ensuring the integrity of its regulated markets.
+
+The Commission should review and analyze all DCM listings and rule filings to ensure they comply with the law and Core Principles. While the CEA expressly authorizes the self-certification process, it does not preclude the agency from adopting more rigorous safeguards, including advanced filings of listings and rules changes with the agency, formal review and public comment-seeking processes, and lengthier time horizons for action.
+
+Congress should provide funding for this essential responsibility of the Commission.
+
+## Conclusion
+
+We strongly support the Proposal's codification of the prohibition of contracts that are directly or indirectly based on the outcome of political elections, as well as the additional clarifications around gaming, other enumerated activities, and assessment of whether a contract is contrary to the public interest. These parts of the proposal should be finalized.
+
+At the same time, we doubt that these changes will reduce the burden on the agency to review DCM filings. We remain concerned that the agency will continue its excessive dependence upon the self-interested and conflicted judgments of the DCMs in determining what potential listings comply with the law and Core Principles. To address this concern, we recommend that the Commission expand its review and analysis of DCM listings and rule changes and seek the congressional funding necessary to accomplish that.
+
+For any questions regarding this comment letter, please contact Alexandra Thornton, Senior Director, Financial Regulation, at the Center for American Progress, athornton@americanprogress.org.
+
+Sincerely,
+Center for American Progress

@@ -1,0 +1,25 @@
+Commodity Futures Trading Commission Three Lafayette Centre 1155 21st Street NW Washington, DC 20581
+
+Dear CFTC Commissioners,
+
+I am writing to express my support for prediction markets and event contracts, particularly in light of recent developments and ongoing research. I would like to expand on the following points:
+
+1. Academic Support for Prediction Markets:
+
+The academic literature continues to provide strong support for the value and utility of prediction markets. A 2023 study published in the American Journal of Economics and Sociology highlights how these markets serve as valuable tools for aggregating diverse information and predicting future events with a high degree of accuracy. This is one more entry in a long line of supportive work, such as the 2008 Science paper 'The Promise of Prediction Markets', which includes 5 Nobel laureates among its coauthors.
+
+2. Enhancing Price Discovery and Risk Reduction:
+
+Event contracts facilitate price discovery by highlighting potential future scenarios and their probabilities. This awareness helps stakeholders better understand and prepare for tail risks, thereby reducing uncertainty and potential negative impacts on the broader economy. For instance, political event contracts have been instrumental in highlighting significant possibilities, such as the potential for an incumbent President to withdraw from a race. This early warning system allows businesses and individuals to anticipate and strategize for various political outcomes.
+
+3. Improve Political Information:
+
+The core benefit of price discovery in prediction markets is that it provides onlookers (not just participants) with more accurate information about the world. Where it has been allowed, this includes more accurate information about political outcomes. This information can allow political participants, such as parties and voters, to see which candidates are more likely to succeed and where they should target their resources. Arguably markets were one reason that a major party was just able to realize they were heading for defeat and correct course, finding a new candidate that markets realized would be more appealing to voters (even though polls at the time did not indicate this, and the replacement's poll numbers only shot up once they were no longer merely a hypothetical option).
+
+4. We Already Have Election Cops:
+
+I outline above some benefits of election event contracts that the Commissioners may not have considered. But Chair Benham has argued that these contracts would come with the cost of turning the CFTC into 'election cops'. While the CFTC might choose to try to expand its power by bringing cases in that direction, this would in no way be necessary, since the United States already has election cops at the state and federal levels, and electoral fraud is already illegal. If the concern is that markets could increase the incentives for electoral fraud, the Commission should consider whether there are ways to limit these incentives without entirely banning political event contracts (and losing the informational benefits thereof); for instance, by limiting the size of event contracts, as they have in the PredictIt no-action letter.
+
+Sincerely, James Bailey Associate Professor of Economics www.james-bailey.net
+
+## Works Cited

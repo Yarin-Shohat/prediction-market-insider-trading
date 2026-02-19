@@ -1,0 +1,56 @@
+August 8, 2024
+
+Christopher Kirkpatrick Secretary of the Commission Commodity Futures Trading Commission Three Lafayette Centre 1155 21st Street, NW Washington, DC 20581
+
+## Re: Event Contracts: RIN number 3038-AF14 ('Proposed Rule')
+
+## Dear Mr. Kirkpatrick:
+
+Roos Innovations ('Roos') (Roos Innovations is an advisory rm that provides derivatives trading and regulatory support to commodity, energy, and nancial services market participants, as well as related industry groups. Jamila Piracci, founder and principal of Roos Innovations, also serves as a non-executive or public director member of several start-up companies.) appreciates the opportunity to submit this comment letter to the Commodity Futures Trading Commission ('Commission' or 'CFTC') in response to the above referenced Proposed Rule. Roos supports the Commission's historical commitment to the integrity of safe and innovative derivatives markets. This comment letter seeks to highlight certain avoidable pitfalls in the proposal that could frustrate that mission.
+
+It is fundamental to treat market integrity as a concept that should hold and not eschew the tension between innovation and safety. With that in mind, Roos joins many others in responding to the Commission's request for comments on the Proposed Rule and oers the suggestions below to aid the Commission in achieving the balance it seeks.
+
+## Helpful Aspects of the Proposed Rule
+
+The CFTC should be applauded for initiating a rulemaking process rather than engaging in regulation through enforcement - a pernicious approach that deprives market participants of advance warning of the rules of engagement in the marketplace and simultaneously forces them to pay for the lesson through nes and reputational damage.
+
+Another unappealing approach to the matters discussed in the Proposed Rule would be oering time limited no-action relief. Time limited no-action relief is a tool that the CFTC has experienced pressure to use in the past, such as when the pace and volume of rulemaking have made the diculties of strategic regulatory implementation harder than usual. Although sometimes appropriate, such an approach is suboptimal when it is used to kick the can of regulatory clarity indenitely down the road for market participants.
+
+In addition to the prudence of making the eort to craft regulations rather than imposing costly after-the-fact signals of danger zones or instituting temporary measures, through the rulemaking process the Commission provides the public with an opportunity to comment and provide input. The Commission has taken that obligation seriously, as shown by its announcement of an extension of time to allow constructive comments to be shared in this nuanced area. ('CFTC Extends Public Comment Period for Proposed Amendments to Event Contracts Rules,' CFTC Press Release No. 8927-24.)
+
+## Opportunities to Correct Flaws in the Proposed Rule
+
+The Commission has frequently reiterated its embrace of responsible innovation, as required under the Commodity Exchange Act ('CEA') . (Commodity Exchange Act ('CEA') , 7 U.S. Code § 5(b).) As discussed below, one should consider whether the adjective 'responsible' overshadows the noun 'innovation.'
+
+## Responsible Innovation
+
+The Proposed Rule appears to suppress rather than promote responsible innovation. The Proposed Rule states that helping registered entities ensure compliance would 'support responsible market innovation.' (Proposed Rule, p. 48972.) While it is arguable that the limiting term 'responsible' might be addressed by compliance enhancement, it takes more than a stretch of imagination to understand how curbing behavior (appropriate as that is) supports innovation, much less promotes it. Elsewhere, the Proposed Rule states that making informed business decisions supports responsible innovation. (Proposed Rule, pp. 48973, 48992.) Again, making business decisions, informed or otherwise, is not very cutting edge; rather, it is at best the sustenance of the status quo in any commercial enterprise. Furthermore, the Proposed Rule refers to the 'support' of responsible innovation; the statutory obligation is to promote it. (See CEA, 7 U.S. Code § 5(b).)
+
+Given that the U.S. Congress has imposed an affirmative obligation on the CFTC to promote responsible innovation, the Commission needs to demonstrate actions that move innovation forward (even while preserving the limitation that it be 'responsible'). The Proposed Rule mentions a commitment to 'responsible innovation' several times but merely concludes that the Proposed Rule achieves this end without explaining how it is met. (See Proposed Rule at pp. 48969, 48972, 48973.) The Proposed Rule does not offer any evidence of actions or standards of review that would promote innovation. In fact, even the unsupported statements that the rule supports innovation have the unfortunate internal conflicts of pointing away from innovation and toward limitation.
+
+The Proposed Rule conflates concepts, muddying the logic of its rationale. The Proposed Rule's broad definition of 'gaming' sweeps in a host of current and as yet unknown products, including those that simply are in connection with the CFTC's proposed new definition of 'gaming' and none of which have been determined to be illegal by state or federal legislatures. Moreover, the Proposed Rule has stretched the Commission's own understanding of the word 'gaming' (i.e., gambling) to include an 'occurrence or non-occurrence in connection with one or more contests or games.' (Proposed Rule, p. 48988.) Of course, the words 'contest' and 'game' do not ordinarily imply gambling without more being said. By its logic, the Proposed Rule could allow the CFTC to ban hedging activity by airlines and hotel conglomerates leading to the Olympics.
+
+## Boundaries of the Executive Branch
+
+The Commission plays an important role not just in the derivatives markets but also in the service of the public in implementing legislation adopted by the U.S. Congress. The Proposed Rule suggests that one reason for painting the term 'gaming' with an overly broad brush is to save costs in doing the work of reviewing the appropriateness of case-by-case examples. (Proposed Rule, p. 48988) Saving money is not an excuse for stepping into the purview of legislators, which unlike the Commission are elected by the public, and banning certain activity that is legal under relevant legislations.
+
+The Proposed Rule explicitly mentions the Commission's recognition of the absence of 'a formal statutory . . . definition' of the term 'gaming' (Proposed Rule, p. 48988.) as if that supports a conclusion that the CFTC should step into the presumed breach. The U.S. Supreme Court has recently addressed the proper role of administrative agencies, pointing questions of interpretive ambiguity away from those bodies. (See Loper Bright Enterprises v. Raimondo , No. 22-451 (2024) and other nodes in a shifting judicial landscape.) Going forward, it will become more important to do precisely what the Proposed Rule seeks to avoid: allow the market to work with the CFTC to continue to develop and innovate, resolving interpretive ambiguities on a case-by-case basis through the registration, contract market application, examination, and self-Certification processes that are already in place. This would meet the objective of promoting innovation in proper tension with ensuring that such market evolution is responsible.
+
+## Self-Certification
+
+The Proposed Rule creates uncertainty for existing self-certified products and in the process guts the self-Certification framework for listed derivatives. The CFTC has already permitted certain contract markets that have self-certified products without CFTC objection. The Proposed Rule, as it is so broadly drafted, would be tantamount to retroactively penalizing those organizations, despite their having legally built businesses to be in line with CFTC parameters. This comment letter notes above the constructiveness of the proposed rulemaking process in that it disciplines agency temptations to regulate through enforcement. The Proposed Rule could lead to a result similar to that caused by regulation through enforcement by casting doubt upon existing businesses.
+
+The impact on existing self-certifiers is not the end of the potential damage. The core of the self-certification process itself could become corrupted if the door is opened to lawmaking feats by the agency that has already approved contract markets' bringing products to the marketplace in their own discretion within the bounds of CFTC issued core principles and rules. It would be unfortunate for the pricing of derivatives to reflect increased or erratic regulatory change risk that exists in other regions of the world.
+
+## Conclusion and Suggested Steps
+
+The Commission's track record of thorough consideration of all comments received in rulemaking processes is well known. Thus, Roos asks that the Commission regard this and all other comments as an earnest attempt to support the Commission in its important and complex role in our markets. In that spirit, below are specific suggestions:
+
+1. The Commission should not dene 'gaming' on behalf of the legislature. If the CFTC chooses to provide insights to the legislature because of CFTC expertise, such guidance should exclude the overly broad category of any 'occurrence or non-occurrence in connection with one or more contests or games.'
+2. The Commission should review the impact of the Proposed Rule on existing self-certified products and the self-certification process to ensure that rulemaking does not penalize legally operating organizations attempting to abide by longstanding CFTC principles.
+3. The Commission should take ample deliberative time to reflect on the worthwhile dialogue and attention being given now to questions of administrative agency authority and roles. The long term value for our society and our markets cannot be overstated. The CFTC should continue to act with respect for the defined role of the Executive Branch and other branches of government, even as interpretations of those roles evolve over time.
+
+Thank you again for considering this comment letter and for affording all of us the opportunity to be engaged in the regulatory process for the benefit of our markets.
+
+Sincerely,
+Jamila A. Piracci

@@ -1,0 +1,73 @@
+Dear CFTC Commissioners,
+
+I am writing to express my strong opposition to the CFTC's recent proposal to ban election contracts, and to highlight the vital benefits that such contracts offer, as well as to critique the flawed process and overly broad definitions that underpin this proposal.
+
+## 1. Hedging Value of Election Contracts
+
+Election contracts provide essential hedging opportunities for a diverse array of market participants. Political events, particularly elections, can introduce significant uncertainty and volatility into financial markets. For businesses and investors, election outcomes can have profound implications on economic policies, regulatory environments, and market conditions. Election contracts offer a mechanism to manage this uncertainty by allowing participants to hedge against potential adverse impacts.
+
+For instance, multinational corporations operating across different political environments can use election contracts to mitigate risks associated with sudden policy shifts or regulatory changes following an election. Similarly, investors who are concerned about potential market volatility in the wake of an election can use these contracts to stabilize their portfolios. By allowing market participants to better manage their risks, election contracts contribute to market stability and efficiency.
+
+## 2. Price Basing Value: Forecasts and Data
+
+Election contracts also provide invaluable information through their pricing. The market prices of these contracts serve as a barometer of public sentiment and expectations regarding election outcomes. This price-based information is a valuable complement to traditional opinion polls and forecasts.
+
+The transparency of election markets offers insights into how different segments of the population are likely to vote, and how they perceive the likelihood of various outcomes. This data is not merely speculative; it reflects the aggregated views of informed participants who have significant stakes in the outcomes. Such information enhances the robustness of political forecasts and can help media, analysts, and policymakers better understand and anticipate electoral trends.
+
+By banning these contracts, the CFTC risks depriving the public and decision-makers of a crucial data point that aids in making more informed decisions. The predictive value of election contracts should not be underestimated; they represent a diverse and dynamic source of information that can enhance the overall quality of political forecasting.
+
+## 3. Flawed Process and Overly Broad Definitions
+
+The process by which the CFTC has approached this proposal raises serious concerns. The decision to ban election contracts appears to have been made without a thorough examination of the empirical evidence regarding their impact on markets and their utility for hedging. There has been insufficient engagement with stakeholders who rely on these contracts for legitimate purposes, and a lack of comprehensive data analysis to justify such a sweeping ban. Moreover, the proposal's definition of 'gaming' is excessively broad and fails to distinguish between legitimate market activities and those that may pose actual risks. The characterization of election contracts as inherently problematic conflates different types of market activities and overlooks the positive role these contracts play in providing price discovery and risk management.
+
+The CFTC's proposal seems to misinterpret or overextend the concept of gaming to include all forms of speculation in election markets. This overly broad definition undermines the nuanced understanding required to regulate these markets effectively. It fails to acknowledge that election contracts, when properly regulated, can coexist with market integrity and offer significant value to participants.
+
+## 4. Questions
+
+Please respond to these questions:
+
+## Empirical Evidence and Analysis:
+
+- What specific empirical evidence and data did the CFTC rely on to support the decision to propose banning election contracts?
+- Can the CFTC provide detailed statistics or case studies demonstrating the negative impacts of election contracts on market integrity or participants?
+
+## Stakeholder Consultation:
+
+- What steps has the CFTC taken to consult with stakeholders who use or rely on election contracts for hedging or informational purposes?
+- How does the CFTC plan to incorporate feedback from stakeholders into its final decision-making process?
+
+## Hedging and Risk Management:
+
+- How does the CFTC assess the value of election contracts for hedging purposes? Can you provide examples where these contracts have played a crucial role in risk management for businesses or investors?
+- What alternative mechanisms does the CFTC propose for market participants who currently use election contracts for hedging against political uncertainty?
+
+## Price Discovery and Forecasting:
+
+- What is the CFTC's evaluation of the role that election contracts play in providing price-based information and enhancing political forecasts?
+- How does the CFTC propose to replace or supplement the predictive value offered by election contracts if they are banned?
+
+## Definition of 'Gaming':
+
+- Can the CFTC clarify the specific criteria used to define 'gaming' in the context of election contracts? How does this definition align with the actual activities observed in these markets?
+- How does the CFTC differentiate between speculative activities that are considered problematic and those that are legitimate and beneficial?
+
+## Regulatory Impact Assessment:
+
+- Has the CFTC conducted a thorough assessment of the potential economic and informational impacts of banning election contracts on markets and market participants?
+- What are the anticipated consequences for market efficiency, transparency, and stakeholder interests if the proposal is enacted?
+
+## Alternative Regulatory Approaches:
+
+- What other regulatory approaches or modifications has the CFTC considered that could address any identified risks associated with election contracts without implementing a complete ban?
+- Is the CFTC open to exploring regulatory frameworks that allow for the continuation of election contracts under stricter oversight or modified conditions?
+
+## Transparency and Process:
+
+- How does the CFTC ensure that its rulemaking process is transparent and adequately considers all relevant viewpoints and evidence?
+- What mechanisms are in place for ongoing review and adjustment of regulations related to election contracts to ensure they adapt to evolving market dynamics and stakeholder needs?
+
+## 5. Conclusion
+
+In conclusion, I urge the CFTC to reconsider its proposal to ban election contracts. These contracts offer essential hedging tools, provide valuable price-based information, and support market stability. The flawed process and overly broad definitions employed in the proposal detract from a balanced and well-informed regulatory approach. A more nuanced examination of the role and impact of election contracts, combined with stakeholder engagement and empirical analysis, is necessary to develop a regulatory framework that protects market integrity while allowing beneficial market activities to thrive.
+
+Thank you for considering my perspective on this important issue.

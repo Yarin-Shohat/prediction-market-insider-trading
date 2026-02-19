@@ -1,0 +1,43 @@
+GEMINI
+
+August 8, 2024
+Mr. Christopher Kirkpatrick
+Secretary of the Commission
+Commodity Futures Trading Commission
+1155 21st St. NW
+Washington, DC 20581
+
+Re: 17 CFR Part 40 Event Contracts; Comment for Proposed Rule 89 FR 48968
+
+Dear Mr. Kirkpatrick:
+
+Gemini Space Station, LLC (together with its subsidiaries, Gemini) respectfully submits the following comments on Proposed Rule PR 8907-24 (Proposal), which pertains to the regulations of the Commodity Futures Trading Commission (Commission) pursuant to the Commodity Exchange Act (CEA) section 5(c)(5)(C).
+
+We urge the Commission to withdraw the Proposal. We respectfully submit that the Proposal is contrary to the statutory framework of the CEA and, as a substantive matter, is contrary to the public interest.
+
+There are numerous problems with the Proposal, but we focus on the aspect of the Proposal that would define ipso facto all event contracts involving "gaming" as contrary to the public interest. In particular, we highlight the adverse impact that this rule would have on prediction markets, including prediction markets used to forecast elections.
+
+First the Proposal ignores the framework Congress defined in the CEA. The CEA, by its plain text, prohibits a Designated Contract Market (DCM) from using the self-certification process to list an event contract if that contract is within one of five "Enumerated Activities" and if the Commission determines that listing that specific event contract would be contrary to the public interest. See 7 U.S.C. S7a-2(c)(5)(C)(i). Thus, the statuterequires the Commission to evaluate event contracts on a case-by-case basis. There is nothing in the statute, including in the Dodd-Frank provisions relating to event contracts, stating that all event contracts in the Enumerated Activities are, by definition, contrary to the public interest. (89 FR at 48978.)
+
+In this regard, we note that the CFTC has stated:
+The Commission interprets CEA section 5c(c)(5)(C) to authorize categorical public interest determinations if the Commission determines that contracts involving an Enumerated Activity or prescribed similar activity are, as a category, contrary to the public interest.
+
+Respectfully, this is just wrong, and the Proposal is based on an overly expansive, erroneous reading of the CEA. Put simply, the text just does not support the Commission's interpretation quoted above. If the Proposal were adopted, the Commission would be abandoning the task assigned by Congress: to evaluate individual self-certifications on their own individual merits. Such an interpretation and approach would immediately be vulnerable to challenge under the Supreme Court's recent decision in Loper Bright Enterprises v. Raimondo, 603 U.S. _ (2024) (rejecting the concept of deference to agency determinations of ambiguous statutory language). 
+
+Second: the Proposal gives insufficient weight to the value and significance of prediction markets to the public interest. Such markets have been employed for decades and have proven extremely reliable tools for forecasting future events. This is true for contested events like elections, but also for matters like the spread of infectious diseases, patterns of migration, and weather, among many others. One way to improve the accuracy of prediction markets is to allow people to put something of value (a "stake") behind their prediction, so that they achieve a return if their prediction proves correct. Put simply, people put more effort into making accurate predictions when they have something to gain by doing so.
+
+A related point is that the accuracy of prediction markets improves as more people participate. The CFTC is appropriately concerned with situations where markets are susceptible to manipulation. It is also true, and the CFTC has stated publicly, that the susceptibility to manipulation goes down as the liquidity of markets increases. Thus, the CFTC should not be taking action that will discourage participation in any legitimate market.
+
+Third: Prediction markets for U.S. elections are already a global reality. Right now, people around the world can bet on U.S. election outcomes, while Americans themselves are left out of the process. These markets aren't some fringe activity — they are being taken seriously. Major news outlets frequently cite prediction market odds alongside of, and in some cases instead of, traditional polls. It's becoming clear that these markets are an important part of how we discuss and understand elections. U.S. citizens should be able to participate in something that's already shaping the conversation about their own electoral process.
+
+Fourth: The Proposal appears to us to be a solution in search of a problem. The Notice of Proposed Rulemaking , 89 FR 48968, (Notice) does not provide any reasonable basis for concluding that prediction markets relating to elections or other unknown events are in any way a problem, or that anyone has been harmed by the existence of such markets. There is no evidence cited of any actual harm to anyone. Indeed, what is cited, a mere two speculative articles (noted in footnote 125 of the Notice), falls far short of the sort of analysis the CFTC should be conducting. Indeed, the Proposal does not satisfy the Commission's obligation to fully evaluate and account for the costs and benefits to market participants of prohibiting particular event contracts. See 7 U.S.C. S 19(a)(2).
+
+Fifth: We are concerned that the Proposal is an example of the Commission "picking winners and losers." If adopted, the Proposal would clearly benefit some participants in relevant markets to the detriment of others. We highlight two examples below.
+(1) The Proposal plainly benefits existing market research and political polling firms by excluding direct competition from prediction markets. The CFTC offers no justification for this choice, nor explains why it is in the "public interest" to favor a certain way of gathering information about the public's expectations of future events over another. Moreover, we believe that traditional polls are extremely susceptible to manipulation, very likely more so than prediction markets. If the CFTC is going to determine, for example, that a poll of a few thousand self identified potential voters who answer a call from an unknown telephone numbe is somehow superior — and more in the public interest — than the output of a liquid prediction market, it should provide evidence to justify that conclusion.
+(2) The Proposal favors traditional financial markets and impedes innovation. Gemini operates in the "crypto" space, as opposed to the "tradfi" markets. In recent years, the use of decentralized prediction markets in the crypto universe has grown significantly. People use them and trust them because of the wisdom of crowds with skin in the game. We firmly believe that prediction markets are so effective because they combine two of humanity's most potent innovations: Markets asThe information aggregators and financial incentives as behavior motivators CFTC should be encouraging innovation like this, not restricting them
+
+Since its founding in 2014, Gemini has advocated for sound, responsible, and thoughtful regulation. We stand by that commitment. In this instance, however, we believe that the Proposal misses that mark and is a mistake. The CFTC should withdraw the Proposal. We would be happy to discuss these important issues further with the Commission or the Staff at any time.
+
+Respectfully submitted,
+Tyler Meade
+Chief Legal Officer

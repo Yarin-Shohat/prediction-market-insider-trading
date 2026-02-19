@@ -1,0 +1,48 @@
+August 8, 2024
+
+Via CFTC's Comments Online
+
+Mr. Christopher J. Kirkpatrick, Secretary Commodity Futures Trading Commission Three Lafayette Center 1151 21 Street NW Washington, DC 20581
+
+Re:
+
+CFTC Proposed Rule on Event Contracts; RIN 3038-AF14
+
+Dear Mr. Kirkpatrick:
+
+Crypto.com | Derivatives North America ('CDNA') appreciates the opportunity to comment on the Commodity Futures Trading Commission's ('CFTC' or the 'Commission') Notice of Proposed Rulemaking on Event Contracts. (Notice of Proposed Rulemaking on Event Contracts, available at https://comments.cftc.gov/PublicComments/CommentList.aspx?id=7401 (the 'Event Contracts NOPR'))
+
+CDNA is a CFTC-registered designated contract market ('DCM') and derivatives clearing organization ('DCO'). (CDNA is the 'doing business as' name of the North American Derivatives Exchange, Inc. ('NADEX'). In addition, NADEX's predecessor company, HedgeStreet, was the first DCM dedicated to trading event contracts, designated by the CFTC in 2004, and NADEX is referenced throughout the Event Contracts NOPR.) CDNA currently lists products, including event contracts, on cryptocurrency and traditional assets, such as foreign exchange, equity indices and commodities. CDNA is a part of Crypto.com, which was founded in 2016 on a simple belief: it is a basic human right for everyone to control their money, data and identity. With over 100 million users on its platform today, Crypto.com provides a powerful alternative to traditional financial services, turning its vision of 'cryptocurrency in every wallet' into reality, one customer at a time.
+
+As stated in the Event Contracts NOPR, the CFTC is attempting to make its event contract product listing procedures more efficient and provide clarity to industry participants. However, in doing so, the CFTC takes an overly prescriptive approach that is both unnecessary and an overreach of its statutory authority. As discussed herein, Commodity Exchange Act ('CEA') Section 5c(c)(5)(C) unambiguously creates a three-step process for the CFTC to determine whether certain event contracts may be listed for trading on or clearing at CFTC-registered entities. The Commission's current approach to reviewing and approving event contracts for listing or clearing under CFTC Regulation 40.11 comports with this statutory mandate, subject to our points below related to the definition of 'excluded commodity.' The review process set forth in existing CFTC Regulation 40.11 does not require modification and should not be modified. We urge you not to finalize this proposed rule as written, and to consider withdrawing it altogether.
+
+We appreciate the Commission's thoughtful approach to fostering growth by appropriately tailoring its regulation in the derivatives markets, including providing meaningful opportunities for industry participants to engage with the CFTC.
+
+## DERIVATIVES NORTH AMERICA
+
+## 1. The CFTC is Required to Follow the CEA's Three-Step Approach to Evaluating Event Contracts
+
+CEA Section 5c(c)(5)(C) establishes a three-step inquiry. First, the CFTC must determine that the contract being listed by the relevant DCM or swap execution facility ('SEF') is in an 'excluded commodity,' and is based on an occurrence, extent of an occurrence, or contingency. This first step was barely addressed in the Event Contracts NOPR and deserves emphasis - it is unequivocal under the Commodity Exchange Act that the CFTC cannot use its authority under Section 5c(c)(5)(C) to prohibit certain types of event contracts where the contract in question involves an exempt or agricultural commodity.
+
+For this reason, we believe that the CFTC must articulate its justification for determining that a given contract has an underlying excluded commodity. This should not be a foregone conclusion. As an example, if the CFTC believes that an event contract based on the outcome of a U.S. Senate race involves an 'occurrence, extent of an occurrence, or a contingency' under CEA Section 1(a)(19)(iv), the CFTC must also articulate how that contract is 'associated with a financial, commercial or economic consequence.' To be clear, CDNA expresses no view as to whether any such political event contract is based on an underlying excluded commodity, but urges the CFTC to transparently justify its conclusion on this point to ensure that it is complying with its statutorily-mandated review process.
+
+Second, the CFTC must examine whether an event contract in a specified excluded commodity involves one of the enumerated activities. (The enumerated activities under the CEA are: activity that is unlawful under any Federal or State law, terrorism, assassination, war, gaming, or other similar activity determined by the CFTC, by rule or regulation, to be contrary to the public interest. CEA Section 5c(c)(5)(C)(i).) Once the CFTC determines that the contract involves such activity, the Commission must assess whether the contract is contrary to the public interest. (CEA Section 5c(c)(5)(C)(ii).) Under the Event Contracts NOPR, the CFTC would categorically conclude that any event contract involving one of the enumerated activities is contrary to the public interest, thereby eliminating one step in the three-step inquiry that is required under the CEA. The Commission is correct that it has statutory authority to make this public interest determination, but it is incorrect that it can do so categorically, for entire classes of event contracts. If Congress had wanted to prohibit entire swaths of event contracts based on the enumerated activities, without any further analysis, then it could have done so.
+
+Congress had the ability to draft much more simply 'the following types of event contracts are prohibited,' but it did not. A plain reading of the statute suggests that the CFTC is required to undergo some review of each individual contract that fits within the realm of CEA Section 5c(c)(5)(C)(i), and in fact this section of the CEA is titled 'Special Rule for Review and Approval of Event Contracts and Swaps Contracts.' We urge the CFTC not to sidestep its obligations to undergo a three-step review process with respect to these types of event contracts, and to eliminate this aspect of the Event Contracts NOPR.
+
+## 2. The Existing Product Certification Process Serves as an Effective Control on Listing Contracts That are Contrary to the Public Interest
+
+We believe that the CFTC's process for certification of listing products for trading and clearing is sufficient to protect the public interest. CFTC Regulations 40.2 and 40.3 establish the rules a DCM, swap execution facility ('SEF') or DCO must follow to list a product for trading or clearing on its platform. To list a new contract, a DCM, SEF or DCO must provide the CFTC with 'a concise explanation and analysis of the product and its compliance with applicable provisions of the [CEA], including core principles and the Commission's regulations thereunder.' (CFTC Regulation 40.2.)
+
+As self-regulatory organizations, DCMs are well equipped to promulgate and enforce rules that limit the risks contemplated by the Event Contract NOPR. As the Event Contract NOPR notes, NADEX has a long history of listing event contracts that conform to the CEA and CFTC Regulations as they exist. The same listing standards that have supported a healthy event contract market for 15 years apply to established and emerging exchanges alike, even those that are interested in listing novel event contracts.
+
+## 3. The CFTC Should Seek Clarity from Congress Regarding CEA Section 1a(2)(i)
+
+As noted in the Event Contracts NOPR, there is no Section 1a(2)(i) in the CEA, despite the fact that this section is referenced in CEA Section 5c(c)(5)(C)(i). The CFTC can speculate about Congress's intended meaning but it should not. It is for Congress to decide what the correct reference was intended to be. It seems quite possible that this was a drafting error when the statute was amended, and Congress is the appropriate body to clarify this point and identify the correct reference in CEA Section 5c(c)(5)(C)(i), not the CFTC.
+
+CDNA is supportive of well-crafted, effective regulation of derivatives markets, and supports the CFTC's goal to ensure that event contracts subject to its jurisdiction are within the public's interest. The CFTC can accomplish this through a principles-based approach, and without modifying CFTC Regulation 40.11 or its interpretation of CEA Section 5c(c)(5)(C)(i), unless directed to do so by Congress.
+
+We welcome the opportunity to discuss our comments in further detail.
+
+Sincerely,
+Steve Humenik SVP, Global Head of Capital Markets - Legal &amp; Head of Clearing

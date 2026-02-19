@@ -1,0 +1,52 @@
+I am writing to express my strong opposition to the Commodity Futures Trading Commission's (CFTC) proposed rule on event contracts. I believe the proposal is flawed for several reasons, which I want to outline below:
+
+## Overly Broad Definition of Gaming
+
+The proposed rule's definition of "gaming" is excessively broad and risks restricting legitimate contracts from being listed for trading. By categorizing a wide array of activities under the term "gaming," including political contests and athletic events, the proposal could inadvertently stifle innovation and limit the availability of contracts that have significant commercial value and utility. The broad scope of this definition fails to consider the legitimate economic purposes that such contracts may serve, potentially hindering market participants from engaging in beneficial trading activities.
+
+The CFTC's definition of "gaming" includes the staking or risking of something of value on outcomes related to contests, games involving skill or chance, and other occurrences connected to such events. This expansive interpretation could lead to the exclusion of contracts that are not inherently speculative or harmful but rather serve as valuable tools for hedging and risk management in various sectors. For instance, contracts based on political events or sports outcomes could provide market participants with opportunities to hedge against uncertainties in these areas, which is a legitimate economic activity.
+
+Given these concerns, I urge the CFTC to address the following questions:
+
+1. What specific criteria were used to determine the inclusion of certain activities under the definition of "gaming," and how do these criteria align with the economic purposes these contracts may serve?
+2. How does the CFTC plan to differentiate between contracts that are genuinely speculative or harmful and those that serve legitimate hedging or risk management purposes?
+3. What measures will the CFTC implement to ensure that the definition of "gaming" does not inadvertently stifle innovation or limit the development of contracts that could benefit the market and its participants?
+4. Can the CFTC provide examples of contracts that would be considered legitimate under the proposed rule, to clarify the boundaries of the "gaming" definition?
+
+By addressing these questions, the CFTC can provide greater clarity and ensure that its regulatory framework supports a fair and efficient market environment without unnecessarily restricting beneficial trading activities.
+
+## Arbitrary and Capricious Public Interest Consideration
+
+The CFTC's proposal on event contracts introduces a problematic approach to public interest consideration by prohibiting contracts based on a predetermined finding that they are against the public interest, without a thorough review of their actual terms. This blanket prohibition on contracts involving certain activities, such as gaming, war, or terrorism, creates an arbitrary and capricious regulatory environment. By not allowing for a case-by-case analysis of the specific terms and economic implications of each contract, the rule could lead to unjust outcomes and deter market participants from proposing or listing event contracts that might otherwise be beneficial.
+
+The proposal stipulates that contracts involving certain "Enumerated Activities" are categorically deemed "contrary to the public interest" and thus prohibited from trading or clearing on CFTC-registered derivatives exchanges. This approach introduces significant uncertainty for exchanges and market participants, as it does not account for the specific economic purpose or pricing utility of individual contracts. The CFTC's rationale is to reduce the internal resources devoted to reviewing event contracts, but this comes at the cost of potentially stifling innovation and limiting market opportunities.
+
+The categorical prohibition without a detailed analysis of each contract's terms and implications can lead to outcomes that are not aligned with the actual risks or benefits posed by these contracts. This approach may also discourage market participants from proposing new contracts due to the regulatory risk and uncertainty introduced by such broad prohibitions.
+
+Given these concerns, I urge the CFTC to address the following questions:
+
+1. What specific criteria and rationale does the CFTC use to determine that certain categories of contracts are "contrary to the public interest" without reviewing the specific terms of each contract?
+2. How does the CFTC plan to ensure that its approach does not inadvertently deter beneficial contracts that serve legitimate hedging or risk management purposes?
+3. What mechanisms, if any, will the CFTC implement to allow for a case-by-case review of contracts that fall under the Enumerated Activities, to avoid arbitrary and capricious outcomes?
+4. Can the CFTC provide examples of contracts that would be considered contrary to the public interest under the proposed rule, and explain the reasoning behind these determinations?
+5. How will the CFTC balance the need to reduce internal resource allocation with the need to foster a fair and efficient market environment that supports innovation and economic growth?
+
+By addressing these questions, the CFTC can provide greater clarity and ensure that its regulatory framework supports a balanced and effective market environment without unnecessarily restricting beneficial trading activities.
+
+## Lack of Clear Public Interest Factors
+
+The CFTC's proposal lacks clear public interest factors that would determine whether a contract is considered against the public interest. This absence of transparency and specificity in the rulemaking process leaves market participants uncertain about the criteria used to evaluate contracts. Without well-defined factors, the rule introduces unnecessary regulatory risk and uncertainty, which can have a chilling effect on the development and listing of event contracts. Market participants need clear guidance to understand how their contracts will be assessed and to ensure compliance with regulatory standards.
+
+The proposal mentions several factors that the CFTC may consider in determining whether a contract is contrary to the public interest, such as the contract's utility for hedging and price basing purposes, its potential impact on the public good, and whether it involves activities deemed unlawful under state or federal law. However, these factors are not clearly defined or consistently applied, leading to ambiguity. For instance, the CFTC has historically used an "economic purpose test" to evaluate contracts, but this was removed by Congress, and there is no longer a statutory requirement for contracts to meet a hedging or price basing standard. The lack of clear guidelines leaves market participants guessing about how their contracts will be judged, which could deter innovation and the introduction of potentially beneficial contracts.
+
+Given these concerns, I urge the CFTC to address the following questions:
+
+1. What specific public interest factors will the CFTC use to evaluate whether a contract is contrary to the public interest, and how will these factors be consistently applied across different types of contracts?
+2. How does the CFTC plan to ensure that the evaluation process is transparent and provides sufficient guidance to market participants about the criteria used in determining the public interest?
+3. Will the CFTC consider reinstating the "economic purpose test" or similar criteria to provide a more structured framework for assessing the public interest of contracts, and if not, why?
+4. Can the CFTC provide examples of contracts that have been deemed contrary to the public interest under the proposed rule and explain the specific factors that led to these determinations?
+5. What steps will the CFTC take to engage with market participants and gather feedback on the public interest factors, potentially through roundtables or public consultations, to ensure that the rule supports a fair and efficient market environment?
+
+The proposed rule on event contracts, as it stands, could have detrimental effects on the market by imposing overly broad restrictions, creating arbitrary regulatory outcomes, and lacking transparency in public interest considerations. I urge the CFTC to reconsider these aspects of the proposal to ensure that it supports a fair and efficient market environment.
+
+Thank you for considering my comments.

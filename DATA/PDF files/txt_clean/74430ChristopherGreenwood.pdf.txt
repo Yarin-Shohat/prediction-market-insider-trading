@@ -1,0 +1,43 @@
+## IN THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA
+
+## BRIEF OF JEREMY D. WEINSTEIN AS AMICUS CURIAE IN SUPPORT OF PLAINTIFF'S MOTION FOR SUMMARY JUDGMENT
+
+Christopher E. Mills D.C. Bar No. 1021558 SPERO LAW LLC 557 East Bay Street #22251 Charleston, SC 29413 (843) 606-0640 cmills@spero.law
+
+## INTEREST OF AMICUS CURIAE
+
+Amicus Jeremy D. Weinstein is a private energy commodities law transactional and regulatory attorney. Amicus has long been interested in seeking transparency  for  the  law  regarding  commodities,  especially  when  it  comes  to  the opaque rulemaking often engaged in by the Commodity Futures Trading Commission (CFTC), so that energy companies can enjoy the benefits of being able to comply with tractable  law  and  regulation. Amicus has  contributed  to the literature  and scholarship on issues in commodity law regulation, including writing articles and submitting comments in federal and state rulemakings.
+
+This brief highlights the adverse consequences that arise from aspects of the CFTC's position here. It also highlights evidence in the record that underscores the arbitrariness and capriciousness of the CFTC's Order.  (No party's counsel authored this brief in whole or in part. No party or party's counsel contributed money to fund the preparation or submission of this brief. No person other  than  the amicus  curiae and  his  counsel-contributed  money  to  fund  the preparation or submission of this brief.)
+
+## ARGUMENT
+
+## I. The CFTC Does Not Have Plenary Jurisdiction.
+
+CFTC's Order here argues that one reason why it cannot approve the contracts at  issue  is  that  it  lacks  the  resources  to  investigate  elections  and  enforce  federal election laws. AR 22-23 (final WHEREAS clause). In the underlying administrative process,  the  CFTC  also  asserted  itself  as  a  plenary  investigative  agency,  with  an unexpressed  relationship  with  the  authority  of  other  government  agencies  with jurisdiction. AR 1063-64.
+
+The Second Circuit recently dismissed a purported class action against some large  foreign  banks  for  manipulating  the  Yen-LIBOR  interest  rate  'because  the alleged  conduct  occurred  predominantly  outside  the  United  States'  and  the applicable provision of the Commodity Exchange Act lacked Congressional intent for extraterritorial effect. Laydon v. Cooperatieve Rabobank U.A. , 55 F.4th 86, 95 (2d Cir. 2022), cert. denied , 144 S. Ct. 192 (2023). The CFTC filed an amicus brief in support of  rehearing  at  the  Second  Circuit.  See  Brief  for Amicus Curiae U.S.  Commodity Futures Trading Commission in Support of Rehearing, Laydon ,  No.  20-3626, Dkt. 383, 2022 WL 17369433 (2d Cir. Nov. 29, 2022). The CFTC focused on the meaning given  by  the  Second  Circuit  to  the  word  'commodity,'  and  argued  that  it  has jurisdiction  over  'commodities,'  that  'commodities'  means  virtually  every  good  or service, tangible or intangible, domestic or foreign, and that the CFTC's interpretation  is  entitled  to Chevron deference. Id. at  5-9.  The  CFTC  has  also suggested a similarly broad enforcement authority over ordinary consumer transactions  elsewhere. See,  e.g. , Further  Definition  of  'Swap,'  'Security-Based Swap,' and 'Security-Based Swap Agreement'; Mixed Swaps; Security-Based Swap Agreement Recordkeeping , 77 Fed. Reg. 48,208, 48,246-47 (Aug. 13, 2012).
+
+In the context of event contracts, the CFTC's jurisdiction claim is momentous. Plaintiff  explains  the  concept  of  'event  contracts.'  Long  ago,  the  CFTC  teased  a rulemaking for event contracts. See Concept Release on the Appropriate Regulatory Treatment of Event Contracts , 73 Fed. Reg. 25,669 (May 7, 2008). According to the CFTC, 'Event contracts have been based on a wide variety of interests including the results of presidential elections, the accomplishment of certain scientific advances, world population levels, the adoption of particular pieces of legislation, the outcome of  corporate  product  sales,  the  declaration  of  war  and  the  length  of  celebrity marriages.' Id. at 25,670.
+
+Sixteen  years  later,  the  CFTC  has  not  yet  undertaken  an  events  contract rulemaking. The CFTC's assertion of plenary jurisdiction is especially dangerous in the context of event contracts for which the CFTC has yet to express clear rules. Take one of the event contracts posited by the CFTC, the length of a celebrity marriage. Perhaps it would be reasonably within the scope of investigating market manipulation if the celebrity's attorney or accountant had a position in the contract, or one of the couple was photographed in public being intimate with a non-spouse. But based on the CFTC's stated position in its Order here, including an ability to question why someone voted as he or she did, AR 20, it seems that the CFTC would claim  jurisdiction  to  step  in  even  when  there  are  other  government  entities  that regulate the activity, such as to determine when and whether there was a divorce, or whether the grounds for divorce were proper.
+
+Or consider the case of an event contract on the population of a city. CFTC's claim would presumably include authority to investigate for market manipulation, for  example,  a  person  with  a  long  position  in  the  contract  who  advocated  against abortion.
+
+The CFTC has elsewhere seemed to assert that its jurisdiction to investigate manipulation is not limited to transactions in commodities, but also includes claimed personal uses of commodities. For example, one CFTC Commissioner claimed that the  CFTC  has  authority  to  investigate  'fraud  with  respect  to  the  purported environmental benefits of purchased carbon credits.' Kristin N. Johnson, Keynote Remarks of Commissioner Kristin N. Johnson at Rice University's Baker Institute for Public Policy Annual Energy Summit:  Credibility, Integrity, Visibility: The CFTC's Role  in  the  Oversight  of  Carbon  Offset  Markets ,  https://www.cftc.gov/PressRoom/ Speeches Testimony/opajohnson7 (Oct. 5, 2023). By this logic, the CFTC would have the authority to investigate fraud with respect to the purported health benefits of vaccines.  And  why  stop  with  'purported  benefits'?  If  the  CFTC  has  the  power  to investigate  fraud  with  respect  to  any  aspect  of  any  commodity,  the  CFTC's jurisdiction is virtually unlimited, especially when 'commodities' means everything.
+
+The breadth of power claimed by the CFTC could mean that if an election changed control of Congress in a way the CFTC dislikes, it could investigate that election as manipulation of the event contract. And before an election, a government's ability to regulate and investigate opinion polling could be abused to stay in power. AR 1062. This Court should thus consider whether the CFTC's actual jurisdiction and investigative  authority  in  administering  these  contracts  matches  what  the  CFTC claims.
+
+## II. The CFTC's Order is Arbitrary and Capricious
+
+In its Order here, the CFTC said that 'the binary payout of the Congressional Control Contracts further limits their utility as a vehicle for hedging any eventual economic effects resulting from which party controls a chamber of Congress.' AR 18. This makes no sense and is contradicted by the record, which provided evidence that
+
+binary payouts enhance hedging utility, for example a company that faces a risk from one political party but not the other. AR 1054-55. If only one party presents a risk, there is no need for a payout if the other party is not in power. Thus, binary payouts are appropriate and effective at mitigating risk.
+
+Respectfully submitted,
+
+Christopher E. Mills Christopher E. Mills D.C. Bar No. 1021558 SPERO LAW LLC 557 East Bay Street #22251 Charleston, SC 29413 (843) 606-0640 cmills@spero.law
+
+Counsel for Amicus
+
+JANUARY 31, 2024

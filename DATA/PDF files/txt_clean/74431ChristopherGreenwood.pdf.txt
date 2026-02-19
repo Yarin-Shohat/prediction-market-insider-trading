@@ -1,0 +1,808 @@
+## IN THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA
+
+KALSHIEX LLC,
+
+Civil Action No.  1:23-cv-03257-JMC
+
+Plaintiff,
+
+vs.
+
+May 30, 2024 1:00 p.m.
+
+COMMODITY FUTURES TRADING COMMISSION,
+
+Defendant.
+
+Washington, D.C.
+
+_______________________________________________________________
+
+TRANSCRIPT OF THE MOTION HEARING BEFORE THE HONORABLE JIA M. COBB UNITED STATES DISTRICT JUDGE
+
+## APPEARANCES:
+
+For the Plaintiff
+
+JACOB M. ROTH, ESQ. AMANDA KELLY RICE, ESQ. JOHN HENRY THOMPSON, ESQ. JOSHUA BROOKS STERLING, ESQ. SAMUEL V. LIOI, ESQ. Jones Day 51 Louisiana Avenue, NW Washington, D.C. 20001
+
+For the Defendant
+
+ANNE WHITFORD STUKES, ESQ. CONOR BARRY DALY, ESQ. RAAGNEE BERI, ESQ. MARGARET P. AISENBREY, ESQ. Commodity Futures Trading Commission Office of the General Counsel 1155 21st Street, N.W. Washington, D.C. 20581
+
+Court Reporter:   Stacy Johns, RPR Official Court Reporter
+
+Proceedings recorded by mechanical stenography, transcript produced by computer-aided transcription
+
+## P R O C E E D I N G S
+
+MR. ROTH:  Good afternoon, Your Honor.  Jacob Roth from Jones Day on behalf of Kalshi.  And with me at counsel table is Amanda Rice, Josh Sterling, John Henry Thompson and Sam Lioi.
+
+THE COURT:  Good afternoon.
+
+MS. STUKES:  Good afternoon, Your Honor.  My name is Anne Stukes for the Commodity Futures Trading Commission.  And with me at counsel table is Raagnee Beri, Margaret Aisenbrey, and Conor Daly.
+
+THE COURT:  Good afternoon, everyone.  So we are here on the parties' cross motions for summary judgment.  I don't typically have oral argument, although I thought this was a case where argument would be helpful to me in resolving the motions.
+
+I don't know who's arguing for plaintiff.  Is there a time sensitivity in this case?  I know there's not a PI that's been filed, but I'm just trying to understand.
+
+MR. ROTH:  It was actually the first thing I was going to say was thank you for hearing argument on motions.  We haven't asked for a preliminary injunction but there is time some time sensitivity because the contracts are tied to the November elections.  So what we would like, ideally, is a resolution that would allow, if needed, for appellate intervention so that the contracts can be listed prior to that election.
+
+THE COURT:  That was my preliminary question.
+
+All right, I will start with plaintiff.  I may interrupt with some questions, but otherwise will try to restrain myself to listen to your presentation.
+
+MR. ROTH:  Great.  Thank you so much, Your Honor.
+
+So as Your Honor knows we filed this case because the Commission blocked Kalshi from listing its event contracts that turn on partisan control of the House and the Senate.  And the question for the Court is whether that agency action complies with the Commodity Exchange Act and the APA.  And we've reproduced on a slide here the text of the key statutory provision from the Commodity Exchange Act.  And as you'll see, it authorizes the Commission to block, prohibit the listing of event contract if two elements are satisfied.
+
+First, the contract has to involve one of the six enumerated categories of activities, and then if it does, the Commission may determine that the contract is contrary to the public interest, in which case it's prohibited.  So far, I don't think that's a point of dispute.  That's just what the statute says.
+
+Following that framework, our challenge here has two basic components.  First, we do dispute that Kalshi's contracts fall within the scope of those six -- any of those six enumerated categories.  And that's really just a matter of statutory interpretation.
+
+Then the second piece is that we argue that even assuming the contracts did fall within one of those categories that Commission's public interest analysis was arbitrary or capricious.
+
+THE COURT:  I know I said I was going to restrain myself, but can I ask just a preliminary question?  I understand your argument to be because of this two-step framework that the statute sets forth, that if it's not in -and I'll say enumerated, although the last one is a catchall -but in not one of these categories then you don't even get to public interest.
+
+I noticed in your brief you had outlined some of the safeguards that you client has put in into place with respect to this contract in particular.  For example, paid members of congressional staff aren't permitted to trade, other safeguards.  I'm assuming that your client thought those were important to maintain integrity of the process.
+
+MR. ROTH:  Correct.
+
+THE COURT:  But under your argument, because elections don't fall, according to you in these categories, there's no occasion for CFTC to even reach those safeguards.  So presumably someone could post an event contract similarly to what your client does, another DCM could do this without any of those safeguards, and it's my understanding that under your framework, CFTC would not have any interest in that.
+
+MR. ROTH:  I agree that it wouldn't be relevant to whether it falls within one of these statutory categories and, therefore, this provision would not capture it.  What I'm not sure about and what I can ask is whether there are other regulations or provisions that may --
+
+THE COURT:  Come into play.
+
+MR. ROTH:  Yeah, that may speak to issues like that, like who's allowed to trade on it, are there certain restrictions beyond this, sort of, in-or-out provision.  Which is just it's either allowed or it's not allowed.
+
+THE COURT:  On a similar vein, I understood one of your positions to be, look, this is a contract involving control of the House; it's not talking about a discrete election between two candidates, there are so many intervening factors that have to occur before -- not even intervening factors but it's not often dispositive of one election, who controls the chamber.  Under your framework, though, would a DCM be able to post an event contract for a presidential election?
+
+MR. ROTH:  Yes.
+
+THE COURT:  Okay.  So that piece is responsive or relevant to what?  Your point about this being a House, about control of the House and that it's not, you know, a two-party or two-candidate election, there's a lot of moving parts, what is that relevant to?
+
+MR. ROTH:  Let me try to answer it this way.
+
+THE COURT:  Okay.
+
+MR. ROTH:  If you imagine that there was a category on this list that said elections --
+
+THE COURT:  Okay.
+
+MR. ROTH:  -- then I think one could still say that these contracts involve elections even though it's one step removed from the election itself.
+
+THE COURT:  Okay.
+
+MR. ROTH:  Which goes to an issue that was sort of debated in the briefs, which is does it have been to be literally the underlying event or does it have to -- does this underlying event just have to relate to the category.
+
+We agree it's enough that it relates to the category. So if you had the category that said "elections," even though this was a couple steps removed, I think you could say it would relate to elections and, therefore, fall within the scope.  Our main argument, though, is it doesn't say elections.
+
+THE COURT:  All right.  Continue please.
+
+MR. ROTH:  Okay.  What I was going to say before moving on was I'm going to be speaking to the statutory interpretation piece of the argument, and my colleague, Amanda Rice, is going to be speaking to the arbitrary and capricious piece when I'm done.
+
+Looking to the enumerated categories, we can sort of simplify by taking four of them off the list right off the bat. The last one, as Your Honor noted, is a catchall.  The Commission is essentially allowed to add categories by rule if they're similar to the listed five.  The Commission hasn't done that, so we can sort of cross that one off the list for now.
+
+And then, obviously, the Commission does not argue that these contracts involve terrorism, assassination or war.
+
+They do think "involve" is very broad, but not broad enough to get them quite that far.  So we can strike two, three and four from the list as well.
+
+And that leaves the two enumerated categories that the Commission focuses on, which are, number 1, unlawful activity and then number five, gaming.  And I'd like to take them in that order, which is the order they appear in the statute.
+
+THE COURT:  Okay.
+
+MR. ROTH:  So starting with the unlawful activity, the way we understand that is that it refers to contracts where the underlying event relates to some unlawful act.  Okay?  So for example, if you had a contract on whether the D.C. murder rate in 2024 is going exceed a certain level, if you had a contract on whether a particular piece of art in the National Gallery is going to be stolen within a period of time, those are unlawful acts.  If you had a contract on those events, it would fall within the scope of number one.
+
+I think it fits the text and I think it fits the context of the statute, and that's sort of an important point. It aligns it with the terrorism, assassination and war provisions that immediately follow it.  If you think about terrorism, assassination and war, the common denominator is they're bad.  Those are things we don't -- they're bad things. Congress is concerned about people profiting from bad things and about incentives to do bad things.  Right?
+
+Using my hypothetical of the D.C. murder rate, you don't want somebody to go hire a hit man to get the rate above a level so you can make money.  Bad incentives.  It also just feels offensive to have people profiting from, you know, there was a terrorist attack, I'm going to make a lot of money from that.  That's sort of the gist of 2, 3 and 4.
+
+If you read 1 the way we read 1, it lines up perfectly with that.  We don't want to incentivize crime, we don't want to have people profiting from crime, so it's all parallel.
+
+And, of course, that interpretation doesn't sweep in Kalshi's contracts.  Elections are not unlawful.  They don't even relate to unlawful activity.  So now let's consider the Commission's interpretation.
+
+As I understand it on this prong, what they're saying is some states prohibit betting on elections, either as part of their gambling statutes or in stand-alone provisions.  And the Commission admits that those state laws don't directly apply in the sense that they can't prohibit trading on a regulated exchange because of preemption principles.  But the way I understand what they're arguing is that they say, well, buying and selling those contracts sort of amounts to a betting on an election because you're staking something of value on the electoral outcome.  If you did that outside the context of a regulated exchange, then it would violate these state laws and therefore the trading of the contract relates to unlawful activity.
+
+So a couple problems with that.  Number one, unlike our interpretation, it doesn't align with the three that follow it, because the key move that they're making there is instead of looking at the underlying event and whether it is related to the enumerated activity, they're looking at the trading of the contract and whether it's related to the underlying activity. That is a, sort of just a different focus of the analysis, and it makes 1 sort of stand out relative to 2, 3 and 4.
+
+THE COURT:  Can I ask you about that, because I think that this defendant made this point -- the government made this point.  Where it says "agreements, contracts or transactions involved," what work do you argue "transactions" is doing in the statute as it relates to involve?
+
+MR. ROTH:  As I understand it, the agreement, contract or transaction sort of triplet, it appears throughout the statute.  It's just the way they refer to these types of instruments when they define it.  So I don't think that they have independent significance.  I think they're just capturing any different way you might structure the arraignment.
+
+THE COURT:  So you're not reading transactions to refer to the act of trading the thing, it's another way to say contract agreement; it is the contract, itself.
+
+MR. ROTH:  It's the instrument, and I think that follows from the fact that this is how it's used throughout the statute, the three together.
+
+And just to be clear, we're not saying that you couldn't have a statute that said transaction involving X, where what it meant was the act of contracting, it involves that activity.  It's not that that's semantically impossible. It's grammatically appropriate, it makes sense; it's just that it doesn't line up with the way the statute works for 2, 3 and 4, and so it makes it just an unusual, sort of strange way of speaking.
+
+The hypothetical I was thinking about as I was preparing, you could say, my lunch generally involves a sandwich, a salad, a pastry or robust conversation with my work colleagues.  You could say that, and yes, it could involve those things, but putting them together in that way is weird. It's not the way people normally speak.
+
+But I actually don't think that's the most problematic aspect of the Commission's reading of the unlawful category.  I think the most serious problem with it and the one that really is, I think, fatal is that it proves way too much, because as the Commission observes elsewhere in the briefing, there are a whole lot of states that prohibit betting on any contingent event.
+
+If we go to the second slide -- we've collected them -- there's at least 29 that we've found that prohibit staking something of value on an uncertain event or contingency, and of course, that defines an event contract.  It would mean that every event contract falls within the scope of Roman I and would involve unlawful activity, and that just can't be right because it makes the other five enumerated activities superfluous.  And it defeats the whole purpose of having enumerated activities in the first place because it would allow the Commission to subject every event contract to public interest scrutiny.
+
+So every kind of interpretation tells us that's wrong, and so does the statutory history, because sort of notably, prior to 2000, that is how the statute worked.  If we go to the next slide, we have that language.  They actually have to make this public interest determination for every contract.  That was repealed in 2000, and then in 2010 Congress enacted this more limit provision that singles out the categories.  So I think anything that covers the waterfront is necessarily an erroneous interpretation.  I think the Commission actually admits that.  They say on page 11 of their final reply brief that, sure, you can't read any of these to cover everything, that would not be tenable.
+
+And so they try to explain why their interpretation doesn't do that.  And just to be candid, I don't really understand what they're trying to do there.  To me, if Kalshi's contracts involve unlawful activity because some states prohibit betting on elections, then all event contracts involve unlawful activity because some states ban betting on contingent events.  So I think the bottom line on number 1 is our interpretation is the only one that sort of makes sense in context that gives this provision real work to do without swallowing everything else.
+
+THE COURT:  Can you respond -- and apologies if it's in your reply, the Commission gave an example of a circumstance in which they would say a contract involved war without the underlying event actually being about war.  And I think the example they gave is whether the Ukrainian military will acquire certain munitions in 2024.  Can you speak to that example?  They're saying, well, that would be, under their broader reading, involve something that relates to war, but the underlying event in the contract is not, itself, an act of war.
+
+MR. ROTH:  That may have been our example.  I'm not sure, because I think we agree with that.  It may have been theirs.
+
+THE COURT:  Maybe it was your example, sorry.
+
+MR. ROTH:  I'm not sure it's a point where the parties disagree.  I think it goes to the difference between "involve"
+
+and "based on."
+
+THE COURT:  I think that was your example.
+
+MR. ROTH:  So "based on" would speak literally about the underlying event.  That's too narrow for this, this says involve, so there's this broader scope.  Our point is that the broader scope is tethered around the event.
+
+THE COURT:  Okay.
+
+MR. ROTH:  So you're still looking at the event and saying does the event relate to unlawful activity, does it relate to war, does it relate to terrorism.  So you can sort of game it by circumventing -- by sort of making it technically something that's just a proxy, it would capture this.
+
+THE COURT:  I just wanted you to flesh that out. Okay.
+
+MR. ROTH:  Okay.
+
+THE COURT:  So when they say that you're reading or using the word involved too narrowly, you would dispute that. You're not disputing that involve means relate to -- all those other dictionary definitions of involve.  It's just relates to the underlying event in the contract.
+
+MR. ROTH:  It's what has to involve.  We don't actually disagree on what involve means; we disagree on what has to involve what.  Right?  It's a subtle but important point.
+
+Okay, that takes us through Roman I.  Unless Your Honor has further questions about unlawful activity, I'll move to gaming, which is the second one that they argue.  Again, the fight is about what does gaming mean in this statutory context.
+
+Our core point is really simple:  Gaming requires a game.  So if there's no underlying game, there's no gaming. And so for example, if you have a contract on who's going to win the Kentucky Derby, that's a game.  It's a horse race, it's a game.  If you have an event contract on who's going to win the Super Bowl or the point spread in the Super Bowl, it involves a game.  There's an underlying game.  Same thing with the lottery.  They have an underlying game that forms the basis for the contract.  And if you read it and you understand it that way, I think there are a number of benefits to that.
+
+Number one, going back to what we were talking about earlier, it lines it up with the others in the sense that there is this connection back to the underlying event rather than just talking about the act of trading in isolation.
+
+Number two, I think is most consistent with the text. The root word of gaming is game.  I think it aligns with the legislative history, the famous colloquy that gets a lot of discussion in the briefing between Senators Feinstein and Lincoln -- which by the way, if Your Honor wants to watch it on C-SPAN, you won't be able to find it.  I think it was inserted in writing after the fact.
+
+It wasn't literally a colloquy, but you can see it in the congressional record, and they give three examples of gaming contracts:  Football, horseracing and golf.  They're all games.  I don't think that's an accident.  I think that interpretation makes sense too, because what is a game?  It's something that has no inherent economic significance.  It's something that is done for amusement.  It may be done for sport.  It may be done purely to facilitate the betting itself, right, for its own sake.
+
+So I think it makes sense for Congress to have thought about that category.  Contracts that involve games are probably not the type of contracts that we want to be listed on an exchange, because they don't have any real economic value to them.  But again, what's tying that together is the existence of the game because the game is the thing that doesn't have intrinsic economic significance.
+
+Now, of course, elections are not games.  They're not done for amusement; they're not done for sport; they're not done to facilitate betting.  Elections matter.  They determine our government; they determine our governance.  Nobody would really call them games.  So in our view a contract relating to an election is not gaming.
+
+THE COURT:  I have never before this case considered the difference between gaming and gambling, but I'd love to hear more about your position on that, because I did look at the various dictionary definitions just to understand what these words mean that I have used many times.  And there are some definitions that you would say "cross reference" and they say "define as" gambling.
+
+So I understand your position to be, sure, gaming is part of gambling, but gambling is not gaming -- or gaming is a subset of gambling; gambling is not synonymous with gaming.
+
+MR. ROTH:  I do think that's the better understanding of the way the terms relate.  I think gaming has this more close tie to the game, whereas gambling can have a broader meaning.
+
+I will say when I went through the dictionary definitions closely, what I found was -- I think this is important.  Even if you look at the definition of gambling, there's generally two different definitions that are offered in the dictionaries.  There's a narrower one and there's a broader one.
+
+So for example, the Merriam-Webster, the first definition of gamble is "to play a game for money or property."
+
+The second definition is "to stake something on a contingency or take a chance."  Okay?
+
+So you've got one definition that is tied to a game and then one definition that is not tied to a game.  And the same is true of the Concise Oxford English Dictionary -- which I think is also cited in the briefs -- two definitions of gamble.  Number one:  Play games of chance for money.
+
+Number two:  Take risky action in the hope of a desired result.
+
+I think that's sort of fair, there are two different ways of understanding gambling.  One is tied to the existence of a game, and one is just colloquially sort of broader, right, a betting.  I think what's important here is that the broader definition does not work for the same reasons we talked about earlier.  If you sort of adopted and imported the broader definition of gambling and treated any contract that involves staking something of value on a contingency or an uncertain outcome, then you've covered the waterfront of event contracts. And so that can't be the right interpretation of gaming in the statute.  And I think that leaves us with the narrower interpretation in the dictionary, which incorporates the concept of a game.
+
+Now the CFTC, they recognized this problem with the broader definition and actually not -- I didn't fully understand this from the order, but from the briefing it became clear.  They're sort of disclaiming the broader definition, because they understand that that doesn't work in context.  And so instead they're sort of offering a intermediate approach where they say, well, it does require betting on a game or a contest, and then they say an election is a contest.  So voila, there we go.  It fits.
+
+In the brief we walk through each step of that logic. What I'd like to here is offer a few higher-level observations on that argument, because when you take a step back, especially, I think it's just too clever by half.  It's sort of this lawyerly attempt to parse it and get it in.  It's not really a serious attempt at statutory interpretation.  I'll just offer a few reasons for that.
+
+Number 1, if Congress was really trying to get at election contracts, the easy way to do that would have been to have a Roman VI or VII that said "elections."  Very easy.  One word.
+
+To say that they were trying to do it by saying gaming, which some definitions cross reference gambling, which you could say involves a game or contest, it's the most attenuated way of getting at this.  So strained that I don't think it's very credible.
+
+Second point is there's no support for this in the legislative history.  The colloquy, again, it's all games, nothing about politics.
+
+Third, if you look at where they're getting the word contest from, it's really instructive because they pull it from a few state statutes.  And if we pull up -- we've got the text of a couple of the samples of those.  But it's very clear when you look at them that they're talking about contests that are like games.
+
+So for example, this is the Delaware -- their version which is also materially identical to Florida -- and they talk about betting or wagering on the result of any trial or contests wherever conducted of skill, speed or power, of endurance or human or beast.
+
+I suppose there are some candidates for office who may be described as beasts, but it's really not -- I just don't think anyone would say in this context of the statute contest means election, just like you wouldn't say in the context of the statute that trial means a trial in this courtroom.  That's not what this is about.
+
+Same thing if you look at the next -- this is the Louisiana version, talks about conducting as a business any game, contest, lottery or contrivance.  When you put game and lottery next to contest it, I think, implies a certain meaning, and treating that as including elections is really a stretch. I think we wouldn't -- we don't dispute that you can refer to an election as a contest, just like you can refer to a corporate board fight as a contest.  You could refer to a lawsuit as a contest.  But in the context of these gambling statutes, that's not what they are talking about.
+
+And then the final point on this is I think it just leads to some really arbitrary results, because if you focus on gaming as involving a game, then there's a certain sense to it, right?  As I said earlier, like games don't have any external economic significance, generally speaking, so as a category it makes sense for Congress the carve that out.
+
+If you treat it as games plus elections, it's very strange because it means you could have event contracts on the weather, on whether somebody's going to be nominated for a cabinet role, on what color dress Taylor Swift is going to wear next week.  Any of those are fine, but elections would be swept up by the gaming category.  It's just weird because even if you think, look, elections are different and should be treated differently.  And I know my colleague is going to try to explain why that's misguided, but even if you accepted that, it has nothing to do with the word "gaming."
+
+So I think the, sort of, takeaway is the Commission is latching onto this word as sort of a convenient way to squeeze its desired policy outcome into the statute, but it's not a serious attempt to really understand what Congress meant by this term in this context.
+
+THE COURT:  When you're saying, and I would agree, that a game doesn't have any external economic significance, how does that -- how is that relevant for the specific argument you're making?  What exactly do you mean by that?
+
+MR. ROTH:  What I mean is if we're trying to think of what was Congress trying to get at with gaming -- 
+
+THE COURT:  Okay.
+
+MR. ROTH:  If we understand gaming to mean a contract that involves an underlying game, then there's a certain policy sense to treating that category differently, because Congress could have been thinking about it and saying well -- there is some of this in the legislative history, the colloquy, if you look at it -- well, games don't matter in the real word; they're games.  So we don't want people essentially gambling, right, on something that doesn't matter in a CFTC-regulated exchange.  So it gives some sense to the categorization that Congress laid out.  And the problem I have with the alternative interpretations is they don't have that, sort of, unifying policy rationale behind them.  Right?
+
+Again, the really broad version sweeps up everything; that doesn't work.  And then games plus elections, what is tying those things together?  It's not, it doesn't seem to me, a line that you could really seriously draw from this word.  So that's what I'm trying to get at.
+
+THE COURT:  Okay.
+
+MR. ROTH:  Okay.  So that takes care of Roman V, and so our position is that is then the end of the analysis and there's no need to go any further, but I will turn it over to my colleague, if Your Honor has no further questions on this piece, to address the arbitrary and capricious issue.
+
+THE COURT:  There are a lot of references by the Commission about kind of representations on your client's website about what it does.  Do you want to respond to that?
+
+MR. ROTH:  I think it's a page that just pulls press articles.
+
+THE COURT:  Okay.
+
+MR. ROTH:  So it's just like a collection of links to articles that have mentioned Kalshi.  It's not like a representation by the client about what --
+
+THE COURT:  What its business is.
+
+MR. ROTH:  It's like here, people are talking about us.  Here's a list of stories.
+
+THE COURT:  Okay.
+
+MR. ROTH:  Thank you, Your Honor.
+
+MS. RICE:  Good morning, Your Honor.  My name is Amanda Rice, and I'm here to talk briefly about the Commission's public interest analysis.  As my colleague explained, we think the statutory issue is dispositive, so you don't have to go this far, so I'll try to keep it pretty quick. But even if you disagree with us on the statutory argument, they are still required here because the Agency's public policy analysis was arbitrary and capricious.
+
+I'll start with just a brief note on the standard of review.  There was some back-and-forth on this issue in the brief, but as I think the Commission acknowledges in the end, the arbitrary and capricious standard applies to all final agency actions regardless of their form.  That's a deferential standard for sure, but it has some real teeth.  It means agencies have to engage in reasoned decision making, and agency actions are arbitrary and capricious if they apply the wrong standard or ignore relevant considerations or they don't explain themselves reasonably.
+
+Those are the kinds of arguments we're making here. And they go to both sides of the public interest analysis, the sort of benefits on the one hand and the alleged harms on the other.  So I'll take those two points in turn starting with the benefits.
+
+(Court reporter clarification.)
+
+MS. RICE:  I was trying to be quick but don't want to speak too quick.
+
+THE COURT:  Take your time.
+
+MS. RICE:  So the economic benefits all follow, I think, from one simple proposition, which is that partisan control of Congress has economic implications.  I think that's pretty commonsensical, but there's a ton of evidence in the record to support that point.  I've just got a couple of points highlighted on the slides here.  The first one is from Harvard professor, Jason Furman who's a former chairman of President Obama's Council of Economic Advisors.  He explains that Congressional control impacts legislation, policy and the business environment in ways that have direct economic consequences to businesses and workers.  He says this risk is conceptually identical to climate risk, business interruption risk and other risks that can be managed using financial markets.
+
+On the next slide we've got managing director of JPMorgan, so coming from a different perspective, who explains that election risk is one of the largest risks that their clients face, that the frequently engage proactively on how to minimize it or to hedge it.  Hedging is a word, as I understand it, for minimizing risk.
+
+Mr. Lisboa gives the example of specifically the coal industry, but there are a lot of other examples in the record that stand out on different sides.  So there's a software company serving green energy businesses.  It's at page 1597 of the record.  There's a recycling robotics firm.  That's at 1533 of the record.  These are just sort of common sense examples of businesses that have direct control of partisan control of Congress.
+
+And then take it from Sam Altman who's the CEO of OpenAI.  He explains here the different risks that biotech companies face.  Those are direct and they're predictable.  He explains they involve everything from the FDA and different approvals to research, funding and legislation.  So it's not just legislation, there's all kinds of other things that Congress is doing here.
+
+Because these risks are so significant, financial institutions already offer projections on the economic impacts of elections, and there's instruments for hedging against those risks.  You've already seen it from JPMorgan.  There's more examples of that on pages 42 to 44 of the record, if that's helpful.
+
+And then there are the noneconomic benefits. Researchers, policymakers, the public, everyone benefits from market-based data about elections.  These markets already exist.  I know Your Honor is familiar with in nonprofit forms because this information is so valuable.  So these are just a few examples from the record.  But that's really just tip of the iceberg.  I thought pages 40 and 41 of our opening brief and 68 to 70 of the record really tell this story of the noneconomic benefits.
+
+So the agency doesn't have much to say about either of those two points, so they respond mostly by trying to move the goal post.  They make what I understand to be two primary arguments.  The first one is about direct effects.  They say that the economic effects of elections, sure, that they exist but they're not direct enough.  I think Your Honor is using the language of too many intervening events to make a difference.
+
+We explained in our brief that the record says otherwise.  You've already seen some examples today.  I think more important and more fundamental is the idea that the whole point of having hedging with event contracts is to account for diffused risks.  This is not a one-to-one kind of hedging product like the way insurance works.  If there's a hurricane, for example.  That example helps me because you can see both the direct and indirect effects of a hurricane, right?  It might destroy property, but it does other stuff too.  It deters tourists.  You can't always predict exactly what those effects might be, but it's a feature, not a bug of these contracts. They allow you to capture anything that might follow from an event like this.
+
+THE COURT:  If I can just stop you right there.  So what I understood the argument on the other side to be is certainly if a hurricane hit, the extent of the damage or effect on tourism or property, that might not be able to be predicted in advance.  So whatever your worst fear might not materialize, but whatever effect there is will be direct. Meaning to the extent that there is property damage, you can trace that directly to the hurricane.  So maybe the result doesn't materialize in the way that it was predicted, but there is a direct effect.
+
+And my understanding is that, at least they would argue, with elections, particularly in this context where we're talking about control of a chamber of Congress by a party that, sure, whatever thought about what might happen may not materialize, but to the extent there is an effect, you may not be able to trace it directly to who controls a party at a given time or a chamber of Congress at a different time because there are so many variables:  Who's in office as president, kind of what the split is, if it's a more even split, kind of what the priorities are of Congress.  Despite control, legislation doesn't always get passed or become a priority.
+
+So what would you respond to their point about this not being the kind of direct economic effect that some of the other trading contracts have?
+
+MS. RICE:  I think you're right about what their argument is, but I think both pieces of it are wrong.  And starting with the hurricane example, I think hurricanes do have very similar indirect effects, so you're talking about property damage.  But that's not it.  There might also be decreases in tourism that might also have to do with other features of the weather, did an amusement park get built nearby.  Things like that might also affect tourism.  It's not going to be one-to-one.  There's actually a pretty helpful chart on pages 53 to 55 of the record that identifies some other event contracts and tries to explain exactly that point:  Here are the ways in which the economic impacts are not direct; they're indirect.  And that's true of temperature fluctuations.  So is it going to be hot in California this month, that might have some direct effects and then some indirect effects.  That's the first piece of it the way other contracts work.
+
+The way Congress works, there's also a lot of evidence in the record that there are direct effects here.  That just the election, a change of control in Congress affects stock prices immediately, affects the valuations of entities immediately without any legislation passing; that legislation passing is, of course, a piece of this, but these economic impacts happen even if no legislation passes.
+
+So I thought the discussion at 40 to 46 of the record is pretty helpful on that.  It has some examples.  I'll point to 1397, which shows that the green energy sector surged as a result of the democratic party senate takeover.  Again, before anything happened, it's just control of Congress that has these direct effects.
+
+So to circle back to your question, I think direct effects is a strange question to be asking for these contracts but not others when all event contracts have these sort of indirect economic effects.  But even if that were the question, I think it's pretty clear that there are direct effects here, if that answers your question.
+
+THE COURT:  Maybe you're about to get to this.  I don't want to distract you from your presentation, but can you speak to the manipulation and integrity piece, because I do think -- and obviously I'm going to look very closely at the statute and follow what it says, but I do think there is kind of a -- just to be honest, a gut reaction that people might have that, wow, betting on elections doesn't seem like a good idea.  It seems like there's a lot of room for manipulation, for kind of unsavory things happening.
+
+Can you speak to that directly and what your position is as it relates to the public interest concern?  Because I understand a significant part of the Commission's view that this is against public interest has to do with some of those concerns.
+
+MS. RICE:  Absolutely.  I'll skip right there.  I think you're right that that's what the Commission said, that it sort of feels icky or that there's a risk of election manipulation in some form.  And I think starting with the risk of manipulation, which I think is the more serious public interest analysis, the icky feeling I think is misguided, but I think it stems from the misunderstanding that these contracts could influence elections in some way or people will be buying votes or things like that.
+
+So I guess I'd start by pointing out that political event markets have existed forever, in unregulated forms but also in other democracies.  And I don't think there's a feeling in those places that somehow the existence of these markets affects the integrity of elections.  Then there's good research in the records showing that this kind of manipulation is not remotely plausible.
+
+I found the comment from the Center for Effective Altruism particularly helpful at this point.  That's at pages 1427 to 1436 of the record.  Kind of take each aspect of the election manipulation arguments and unpack them one at a time and explain why they're wrong.
+
+At that time most basic level I think the key point is that people try to influence elections because they matter. They matter for our lives, they matter for their economic effects, but for lots of other reasons.  And so there's lots of money and effort spent on influencing elections.  That's what campaign finance fights are all about.
+
+And there's a way in which you might think that some of that's icky, or you have the same reaction that spending money to try to get elections is icky, but I think it's important here to point out how much money and how many incentives there are in these elections because it makes manipulation seem pretty darn unlikely, particularly as Your Honor pointed out at the beginning, that this is a contract about control of Congress.  I think this is another place where that point is relevant.  So it's not particularly relevant to the statutory analysis, but on the public interest piece, if you're asking what's the public interest here, we're looking at this specific contract and asking whether there's a serious public interest harm on the other side, if there's some possibility that having a regulated event contract market as opposed to the unregulated ones that already exist could result in manipulation of control of Congress.
+
+It's just pretty hard to imagine -- I think if there were a way to manipulate control of Congress, someone would have tried.  It's hard to imagine that the event contract market could change all of the profound incentives that already exist.  It sort of circles back to the initial point that elections matter, they have real life consequences and that's why people try to impact elections.  I think the record is pretty clear that the possibility of manipulation is just pure speculation; that there's not evidence supporting that sort of intuition that you came up with at the beginning that there's something that feels a little bit strange about that.
+
+One last point, I think the Commission suggested, too, it would have to police elections if it approved these contracts.  My response to that is just the Agency regulates contracts that have underlying events of all kinds.  So an event contract on power plant emissions doesn't mean the CFTC has to become the EPA all of a sudden and regulate power plant emissions.  In the same way that an event contract that has to do with stock prices doesn't turn it into the SCC, all the Agency does is the same thing it does in any other context, it just regulates the market, not the underlying activity.  So insomuch as that's the other aspect of this, that there's a concern about manipulation and there's a concern about the Agency and what it would have to do as a result, I think there's no real reason to worry that its role would be any different here than it is in any other context.
+
+THE COURT:  Do you have anything to add to what your colleague was saying when I asked the question about the particular safeguards that your client has put into place and obviously deemed important?  For example, the one that sticks out is, well, if you're a paid member of a congressional staff then you obviously cannot trade these contracts.  And there are other safeguards that were put into place, but as I understand your position, the Commission wouldn't reach that because it's not enumerated in the statute so there would be no public interest inquiry, and so those kind of conditions or safeguards would not be required, nor is the fact that this is an election contract involving control of the House particularly relevant. A DCM could have this event contract for the upcoming presidential election, right?  So those things that you point to as evidence of, well, there are safeguards in place and this is about control of Congress, that's not really relevant to the statutory question, correct?
+
+MS. RICE:  You're right that it's not part of the statutory question.  It is relevant to the public interest analysis, if you get that far.  If you assume that we lose on the statutory analysis, which we don't think is the right answer here, but if you get to public interest so this is a gaming contract or unlawful activity contract, then you're looking at the public interest and it is relevant the kinds of safeguards we have in place and the fact that this is a contract involving --
+
+THE COURT:  I guess that's my point, if under your reading you wouldn't get to the public interest, so that's my point, the Commission would have no ability or interest in considering the fact that a contract didn't have such a safeguard.
+
+MR. ROTH:  I didn't want to cut you off, but I had to ask my colleague who actually knows the statutory framework better.
+
+THE COURT:  Okay.
+
+MR. ROTH:  What he clarified for me was that there are separate antifraud provisions, anti-manipulation provisions and what they call the core principles that you have to comply with.  And so that's where some of these other safeguards come from.  It's just not from this particular statute.
+
+Sorry, I didn't mean to -MS. RICE:  No, no, no.
+
+THE COURT:  Let me just make sure I understand.
+
+You're saying it's not implicated by this statutory provision that's at issue in the lawsuit, but as part of this scheme, generally, there's other safeguards.  And these are statutory from the Commission, meaning that you have to comply with these provisions?
+
+MR. ROTH:  Right.  That's right.
+
+THE COURT:  Okay.
+
+MS. RICE:  That's all consistent with my understanding, and there's some stuff in the record on this, too.  Pages 80 to 88 of the JA and 99 to 100, we talk about the core principles and the kind of background rules in place just to be a regulated market that this CFTC regulates, you have to have these protections.  You listed out the specific people that aren't allowed to trade, and all of that is exactly right, but there is separately and for all contracts a prohibition on any insider with any non-public information trading on these contracts.  So that's in addition to the specifically-enumerated categories.
+
+THE COURT:  That makes sense.  And that applies to any of these event contracts?
+
+MS. RICE:  Exactly.  To everything.  So where there is insider trading or manipulation, the Agency has the tools to go out and investigate those things.  They're just not relevant to the statutory analysis in the first instance, if that makes sense.
+
+Unless you have anything further, Your Honor, I'll just wrap up by reiterating that I don't think you need to get to public interest, but if you do, you still should vacate the order as arbitrary and capricious.
+
+THE COURT:  I do have another question.  I don't know whose, so I will let whoever answer this.  There is something in the Commission's brief that I thought was -- it's this point:  Unlike many hedging and risk management contracts, the payout on the contract at issue here is not in any way tied to actual or estimated losses incurred elsewhere and a loss on the contracts is not offset by a gain elsewhere.  I just thought that was interesting and wanted your response to that.
+
+MS. RICE:  I don't think that's as unusual as the Commission makes out.  The example that comes to mind immediately is the temperature-related contracts.  I think that works in the same way, that that's not a gain or a loss necessarily.  It's not clear even which way that cuts.  There may well be other examples, but my immediate reaction to that is I don't think that's particularly unusual in this context.
+
+THE COURT:  I'm learning more about this market through this case, but this whole futures market, it seems to me it's grown beyond the days in which only those who are interested in the commodity or directly affected are participating.  I mean, that's the case for all these contracts, right?
+
+MS. RICE:  That's true of all the contracts.  In fact, instruments to make money is actually necessary for the markets
+
+I think as the Commission's order, I think, acknowledges, some amount of speculation or people who are investing in these to be liquid, because if it was just hedgers, if it was 100 percent hedgers, you don't actually get someone willing to balance out the price and sell you or buy from you at the other side.
+
+So there are people in all of these market who don't have a direct hedging interest, but the hedging piece of it is certainly meaningful, and potentially more meaningful in this context than many of the others.
+
+THE COURT:  Is there anything else you want to say about their economic purpose test?  I'm trying to see what the daylight between the two parties is with respect to that test and how it's applied.
+
+MS. RICE:  So I think we agree that the Commission has discretion to consider the economic impacts of these contracts, that this statue and these instruments are about economic benefits.  I think where we diverge is the Commissions focus on, sort of, two things.  One is direct effects as opposed to indirect effect, we talked about.
+
+And the other is this predominately hedging or more than occasional hedging.
+
+THE COURT:  That's what I meant.
+
+MS. RICE:  The language shifts in the order, and I think the difference probably matters.  Occasional sounds to me like something less than predominant.  I'm not entirely clear which one the Commission is advocating for.  So I think part of the problem with that standard is that it's not clear what it means, whether it means a certain number of uses, how many dollars are going to be spent in a hedging way, is it a proportion of uses, is it some combination of the two and how much is occasional.  I don't know that you need to get into that, Your Honor, because I think by any metric, the record shows there will be more than occasional uses here.  But I think those are the two points on which we really disagree, not on whether economic benefits are relevant.
+
+THE COURT:  The same question.  I don't really understand there to be a dispute about my standard of review here and what the applicable review framework is.
+
+MS. RICE:  I agree with that, Your Honor.  There was some back and forth about rule-making cases versus adjudication cases.  Ultimately the standard is arbitrary and capricious for both.  There are more rule-making cases, and this proceeding is a bit unusual in that there were formal comments accepted and considered, which doesn't turn it into a formal rule-making. That's never been our argument.  But it looks a little bit more formal than informal adjudication does, but you're right that the standard is the same.
+
+THE COURT:  All right.  Thank you.
+
+MS. STUKES:  Good afternoon, Your Honor.  To reintroduce myself, I'm Ann Stukes on behalf of the Commodity Futures Trading Commission.  As we did in our briefs, I'm going to refer to my agency today as the CFTC, or the Commission. And I'll refer to the plaintiff simply as Kalshi. I have about an hour's worth of remarks for Your Honor today, if that is okay with you.
+
+THE COURT:  We may take just a court reporter break at some point, so I'll let you get started.
+
+MS. STUKES:  Thank you.  Any time you want me to jump to an issue, please just let me know.
+
+THE COURT:  Could I just ask you something I'm curious about to start?
+
+MS. STUKES:  Absolutely.  Sure.
+
+THE COURT:  With respect to this catchall category, the Commission specifically didn't make an argument that this contract falls within the catchall, and I was just curious as to -- I'm not saying it does, I'm just curious as to why that wasn't the position of the Commission.
+
+MS. STUKES:  In considering the case that was before it, the Commission examined these contracts and determined that two categories applied, enough to bring it within the statute and therefore didn't reach any further categories.
+
+THE COURT:  Okay.
+
+MS. STUKES:  So as the Court is aware, the CFTC's order that's at issue in this case determined under CEA section 5CC5C -- I call it 5CC5C, I'm talking about the same statutory language that's codified at 7 U.S.C. 78-2.  The CEA is, like many statutes, sort of odd where sometimes our statutory sections don't line up with the codification.
+
+In any event, the order at issue here determined under CEA 5CC5C, that Kalshi's proposed Congressional control contracts should not be offered on Kalshi's platform because the Commission determined that those contracts were contrary to the public interest.  And we submit that this Court should conclude that the Commission's decision was not arbitrary or capricious.
+
+The Commission's decision addressed four principle issues that the parties have briefed and I will discuss today. First, how does the word "involve" apply to activities enumerated in the statute.
+
+Second, do these proposed contracts involve the enumerated activity of gaming.
+
+Third, do the contracts involve the enumerated activity of activity unlawful under state or federal law.
+
+And four, are the contracts contrary to public interest.
+
+Before I get into the substance of each of these issues, I want to emphasize that the Commission's order is an informal adjudication, and Your Honor just asked about the standard of review.  This is not a rule-making and it's not even a formal adjudication, and that means in practical terms that the Commission was deciding just one issue, whether these particular proposed contracts should be listed on Kalshi's event contracts platform.  And the Commission didn't purport to address any other question larger than that.  So for instance, the order doesn't establish the full metes and bounds of how the statute might apply to any other event contract other than the ones that were before it.
+
+THE COURT:  And just for my own information, is it typical for the Commission to solicit comment in a circumstance like this?
+
+MS. STUKES:  It's not required.  It did so, I think, in an abundance of caution.
+
+THE COURT:  Is that an unusual event or not unusual?
+
+MS. STUKES:  I don't want to say something misleading, especially without talking to my colleagues about how frequently have we done this.  I wish I had a better answer for Your Honor.
+
+THE COURT:  It's more out of my curiosity.
+
+MS. STUKES:  I can see why.  I think the Commission did it really in an abundance of caution because of public interest associated with this topic generally.
+
+THE COURT:  Okay.
+
+MS. STUKES:  I'm emphasizing that this is an informal adjudication, because when Your Honor considers the question before you, which is rather the Commission ran afoul of what's required under the Administrative Procedures Act, the standard of review is a lenient one.
+
+The law requires only that the Agency acted within a zone of reasonableness.  Here the CFTC reasonably considered the relevant issues and reasonably explained its position and no more was required under the APA.  The APA gives the Agency deference on its predictive judgments and on its public interest determination.
+
+Now, there are questions of statutory interpretation in this case.  And Your Honor finds herself maybe in the unenviable position of having each party in this case tell you the statute is unambiguous, that the plain meaning advocated by each side supports each side.
+
+I submit that the Commission has the better of the argument on what the statute means and how it applies on involve, gaming and unlawful under state law, that the Court's review on the statutory interpretation questions is de novo.
+
+I'll get into now the first of the four issues that are before the Court that are briefed in the party's papers, and that is the Commission's reading of the word "involve" to have its ordinary meaning to relate to or affect, to relate closely, to entail or to have as an essential feature a consequence.
+
+These are the ordinary dictionary definitions of the term, and that is the definition that applies because the term involved is the -- the term involve is not defined in the statute.  And so case law has held for a long time that when there's -- when the statute doesn't define the term, its ordinary meaning applies and that means the ordinary meaning in dictionaries.
+
+So what that means for the statute here is that the plain meaning of "involve" when we're talking about the categories enumerated in the statute that would render an event contract eligible for public interest review, the word "involve" is broad enough by its plain meaning to cover event contracts whose underlying, meaning the event on which the contract is premised, here the outcome of congressional elections.  The statute is broad enough to cover contracts where whose underlying involved the enumerated activity, as well as contracts that relate closely, entail or have as their essentially feature or consequence the enumerated activity.
+
+THE COURT:  I don't understand the plaintiff to necessarily disagree with the definition that you've set forward, but I think when you say that closely relates to or entails, they're saying yes, to the subject matter or underlying activity of the contract.
+
+So can you just speak to that?  Because I had thought initially that there was some difference with how you were defining involve.  And now having heard from plaintiff and going back and reading their brief, reviewing those portions of the brief, I now see more clearly what they were saying, that those definitions have to relate to the activity at issue underlying the contract.
+
+So if you could just speak directly to that.
+
+MS. STUKES:  That is generally my understanding of the dispute between the parties here.  And that is, as I understand the plaintiff's -- and not to mischaracterize, but as I understand the plaintiff's position, they're saying involve, if it means anything, it has to mean that the underlying event involves an enumerated activity and it can't be a broader relationship involving the contract itself.
+
+So when we look at the statutory language and whether a contract is in the scope of the -- pardon me, of the statute at all, it's a two-step inquiry.  So the first step in the statutory language is, does the agreement, contract, transaction, or swap in an excluded commodity that is based upon, based upon -- that means the underlying, based upon the extent of an occurrence or contingency.
+
+So step one in other words asks, is the contract based on, does it -- is it based on -- is the underlying an event. Because this -- pardon me -- this statute applies only to event contracts.  So step one under the plain language of the statute which uses "based upon," meaning "underlying,"  in the same sentence that it uses "involve."
+
+Step one is is this an event contract at all, is the underlying an event.  If so, we're in the statute, at least this far.
+
+Step two is whether the agreements, contracts or transactions involve the enumerated activity.  And that's a broader question than whether just the underlying event involves the enumerated activities.
+
+"Based on," as used in the statute, unambiguously refers to the underlying event.  It must be an event, that's all.
+
+"Involve" is broader.  Any aspect of the contract, transaction or agreement, if it involves an enumerated activity, we submit that by the plain meaning of the word involve it's in the statute.  At least it gets you so far as to be eligible -- that's the relationship between the contract and the enumerated activities.  If the contract, transaction or agreement involves the enumerated activity, we're in the statute.  Underlying, what the contract is based upon, what the actual event is can be, can -- the underlying can involve the enumerated activities.  They're fairly easy to think of examples.
+
+If the event contract is based upon whether a war will break out, it's in an enumerated activity.
+
+THE COURT:  Is there an example of a contract that under this broader definition that you're advocating for would involve war where the underlying activity in the contract doesn't speak to war, itself.
+
+MS. STUKES:  The examples are -- the examples of how a contract could involve war but not involve an act of war have to do, and I think both parties cite this kind of example, will -- I hate to give these real world examples, will a foreign body be able to use U.S. weapons on its enemy's soil, something like that.  That involves -- oh gosh, I don't want to get too in the weeds -- will funding be allocated to a country that's at war, that involves war.
+
+THE COURT:  I think they would say yes --
+
+MS. STUKES:  I actually don't think we're too off base on that.  I think the real dispute between the parties is what are you looking at, what has to involve the enumerated activities, and the real rub here is that the Commission interprets the plain language of this statute to say if transacting in the contracts, if the feature or purpose of these contracts is one of the enumerated activities, gambling is the one -- gaming, pardon me, is the one that comes to mind. Is transacting in the contract, is that essential feature gaming.  And the Commission here said yes for gaming and for unlawful under state law.
+
+THE COURT:  So what is your best argument for their response that there are a lot of states, and they listed them for me, that make any type of betting stakes on any contingent event unlawful under state law such that that's what these event contracts are?  So every event contract should theoretically -- if the transaction of the contract in and of itself is what involve means and not the underlying activity at issue in the contract, than just the mere transacting event contracts would violate state law; how do you respond to that?
+
+MS. STUKES:  I want to say two things about that, and I can jump to the discussion of how we analyzed unlawful under state law.  The Commission is not saying that involve in every instance means anything other than its plain meaning.  Let me say that in a little more -- with a little better articulation.
+
+Involve is a broad term.  It's broad enough to cover event contracts whose underlying is one of the enumerated activities, and it's broad enough to cover an event contract whose essential feature is one of the enumerated activities, and here an essential feature of these contracts is betting or wagering on elections.
+
+THE COURT:  But an essential feature of some other contract could be betting or wagering on, fill in the blank.
+
+MS. STUKES:  Right.  So your Honor's concern, I think, is the plaintiff's argument:  What do we do with this, what I interpret as an extrapolation from what the Commission actually said, to say, well, that would be absurd in another context because other state laws say it's unlawful -- there are state laws that say it's unlawful to wager on any contingent event. And that would sweep in every event contract to a public interest review.
+
+THE COURT:  Right.
+
+MS. STUKES:  So I'm just getting to my notes where I have this.
+
+THE COURT:  Sure.  Take your time.
+
+MS. STUKES:  The Commission had before it the question of whether these contracts, which involve wagering on elections, involve activity under state law.  Here we have numerous state laws that forbid wagering on elections, and that was sufficient for the Commission to say state law forbids wagering on elections.  That's the essential feature of these contracts, and we can stop there.
+
+What the Commission didn't do is say state law forbids or makes unlawful wagering on any contingent event.  That was not the basis of the Commission's reasoning, and even if you can say if A is to B then C is to D, like some logical extrapolation, that's not what the Commission did here.  It just said we see under state law that wagering on elections is unlawful.  And that's the essential feature of these contracts, and that's enough.  That's enough that we're in the zone of the statute.
+
+THE COURT:  Right, but --
+
+MS. STUKES:  And it's not unreasonable -- I'm sorry, I've interrupted Your Honor.
+
+THE COURT:  I just wanted to -- because right now I think we're talking about what the meaning of the terms in the statute are, and their argument, as I understand it, is that the Commission's reading doesn't make sense; this is otherwise unambiguous and they're applying this word in a way that kind of means one thing in one subsection and another in another subsection.
+
+And what they're saying is elections is not on this enumerated list and that's full stop, end of case.  And you're saying, well, no, it fits under the first category because betting on or wagering on elections violates many state laws.
+
+And their response is wagering on any contingent event violates many state laws.  And if that were the reading, if that's how the statute was read, that would mean that every event contract would be subject to this two-step review, which was not the intent when the statute was amended to streamline this process and not make the DCM have to make an initial showing that the contract was in the public interest.
+
+So I'm just speaking more about the unlawful under state law.  What does that mean?  Does that mean that the act of trading the contract is unlawful under state law, in which case that would -- might relate to many contracts or all event contracts, or does the underlying activity -- for example, I think plaintiff gave an example whether or not some crime was going to occur, whatever it is, some specific criminal activity, where the subject of the contract relates to, involves something that is unlawful.
+
+So I just want to understand the difference -- your response to that, that your reading would put every event contract under this inquiry.
+
+MS. STUKES:  Respectfully, I don't believe that what the Commission held in this order would subject every event contract because what the Commission said is only that examining these contracts, whose essential feature is to bet on elections, that involves activity that many state laws prohibit.
+
+What the Commission did not say is these contracts involve wagering on a contingent event and many state laws make wagering on a contingent event unlawful.  Therefore, it is.
+
+THE COURT:  Hypothetically, let's say I'm a plaintiff, I'm a DCM, I want to post my event contract about whether or not a hurricane will hit in Florida.  And the Commission came back and said this is against public interest and it also falls under -- I'm doing this out of order.  It falls under category one because in Florida and elsewhere the state law prohibits people from posting or making bets or wagering on contingent events, and a hurricane is a contingent event and this contract involves a wager on a contingent event, so we're not going to allow it.  Would that be allowed under this statute?  Would that work?
+
+MS. STUKES:  I think it would be an unusual reading of the statute.
+
+THE COURT:  And why?
+
+MS. STUKES:  And it's because this statute sets forth in broad terms the categories that are the subject of public interest review, and none of those categories on their face suggest that Congress intended to capture all event contracts. And it --
+
+THE COURT:  Right, that's their point.  I think that's exactly what they're saying.
+
+MS. STUKES:  I think, actually, the parties agree.  I think where we're off is the Commission doesn't agree that that's what it concluded in this case.  It concluded that state laws forbid wagering on elections, and that's an important state interest that Kalshi is asking the Commission to undermine by allowing these contracts to trade on a federally-registered exchange -- a federally-regulated exchange.
+
+To be clear, the Commission's order didn't find that -- like if these contracts were allowed, it didn't find that purchasing one of Kalshi's congressional control contracts would be illegal in jurisdictions that prohibit betting on elections by statute or common law.
+
+Kalshi argues that the Commission was arbitrary and capricious or fell afoul of the law because it can't be illegal under state law to offer the contracts on a market regulated by the CFTC because Fransha (ph.).  But that, as the Commission held in its order, misses the point.
+
+The CEA is a federal statutory regime for the regulation of commodities derivatives markets, and it does preempt state laws that prohibit the trading of commodities contracts.  No state law can ban a contract that's lawfully listed on a CFTC-regulated market.  But what Kalshi asks the Commission to do here and what Kalshi is asking the Court to do is to order the CFTC to permit these contracts, when Kalshi's own website cites news articles that characterize them repeatedly as election gambling, betting on elections, when under state law it's illegal to gamble on elections.
+
+And this, by the way, is the reason we're here.  If Kalshi could lawfully offer election-betting contracts on CFTC markets, it could ignore any state law that disallows election gambling.  Even states that allow gambling prohibit betting on elections.  And that indicates that the concern is not so much gambling but election integrity.  You can't place a bet on an election in Las Vegas or Atlantic City.
+
+For the CFTC to allow the contracts, it would have had to undermine these important state interests.  And so when the Commission concluded in its order that, in considering whether a contract involves activity under state law, it considered whether the activity is unlawful under state laws that are not otherwise preempted by the CFTC, laws that go to state interest that are not overlapping with the CEA's regulatory authority. And when the Commission considers that it can consider whether the CFTC's exclusive jurisdiction over federal commodities markets, federal commodities derivatives markets, should be used to subvert important state interests.
+
+So this question of -- well, it's frustrating to me -well, I'm an advocate, I should be frustrated by my opponent's arguments.  But what's frustrating to me about that is this concept that the Commission's interpretation of the statute doesn't make sense because some state laws make it illegal to place a wager on any contingent event, it's a distraction. It's not what the Commission held here.
+
+The Commission went as far as it needed to go because this is an informal adjudication.  It's one case.  Under a different set of facts and a different proposed contract, it might look to that language.  It would be an unusual reading of the statute to say because many state laws prohibit wagering on any contingent event, that all event contracts are unlawful, it would be an usual reading of a statute that sets forth only enumerated categories.
+
+THE COURT:  I think they would agree with that. MS. STUKES:  Right.  I think we agree on that. THE COURT:  Well, I don't think you want to agree on -- if you do want to agree on that, I think you want to distinguish that from the election.
+
+MS. STUKES:  No.  What I am saying is the Commission didn't base its decision on the existence of state laws that make wagering on any contingent event unlawful.  The Commission based its decision on the existence of state laws that make election wagering unlawful.  It didn't consider in its decision and it didn't base its decision on the existence of these other broader state laws.
+
+And so it doesn't even factor in to the review here. Whether they exist or not, it wasn't the basis for the Commission's decision.  And even if you can extrapolate what the Commission was not doing here -- the Commission wasn't ruling here.  It went only as far as it needed to go to decide the issue before it.  I hope that that is coming through to Your Honor.
+
+So here, because these contracts have as their essential feature not that they're wagering on any contingent event but they are wagering on the outcome of elections, and wagering on elections is unlawful under numerous state laws, the Commission was reasonable in its determination that these contracts fit within that category of unlawful under state law to render them at least in the statute in subsection I.
+
+I can move on to talk about gaming, unless you want to talk about --
+
+THE COURT:  Let's talk about gaming.
+
+MS. STUKES:  Okay.  Again, with the term "gaming," the Commission applied the ordinary meaning of the term "gaming" to conclude that these contracts would fall within that enumerated category.  Again, "gaming" is not a defined term in the statute.
+
+And so what the Commission did reasonably is look to its ordinary meaning as defined in dictionaries and in ordinary meanings as defined in state law and federal law -- well, I'll talk about that in a second.  And concluded that it falls within the ordinary -- that those proposed contracts, which wager on the outcome of congressional elections, fall within the meaning of "gaming."
+
+First, the Commission looked at that the ordinary dictionary definition of gaming and found that gaming in its ordinary dictionary meaning is synonymous or interchangeable with gambling.  And that's actually supported in the congressional record when we see that colloquy between Senators Feinstein and Lincoln, where the first thing, I think, that Senator Lincoln's comment says is this section of the CEA, 5CC5C, is intended to prevent gambling, using the futures markets for gambling.
+
+THE COURT:  How do you define "gambling"?
+
+MS. STUKES:  Let me come back to the definition.  So "gaming" in ordinary dictionary definitions is synonymous with "gambling."  There's actually a Supreme Court case that we cite. in our brief, also, for that proposition.  They're interchangeable terms.
+
+THE COURT:  Okay.
+
+MS. STUKES:  So what's gambling?  The Commission looked at various definitions under state law of how "gambling" is defined.  And a common thread in many state law definitions of "gambling" is to stake something of value on a contest of others.  It's within a common thread, a frequently used phrasing included in the definition of "gambling," staking something of value on a contest of others.  A number of states linked the terms "gaming" or "gambling" to betting or wagering on elections.
+
+The Commission also looked at this Unlawful Internet Gambling Enforcement Act, which has the definition of "to bet" or "wager."  Betting or wagering is a common definition of "gambling."  And in that statute wagering on a contest -staking something of value on a contest of others is included in the definition.
+
+THE COURT:  Can I ask you a question.
+
+MS. STUKES:  Yeah, absolutely.
+
+THE COURT:  Besides elections, in your view, is there a contest of others that doesn't involve a game as plaintiff would define what game means?
+
+MS. STUKES:  I actually thought the horse race wasn't a game.  But there are contests, Academy Awards, award types of things that doesn't seem like a game, just seems like a contest.  So --
+
+THE COURT:  Okay.  So an event contract on something about one of these awards would fall under the gaming or gambling prong?
+
+MS. STUKES:  First of all, I don't want to get ahead of my Commission which -- the Commission didn't define it -didn't define -- didn't talk about whether the -- in this order didn't get into other examples because it was sufficient to determine that elections fall within this ordinary definition of staking something of value on a contest of others.
+
+THE COURT:  Right.  I'm trying to make sure that I understand what the terms mean in the statute.  So it's certainly relevant for me to understand how this would apply even beyond this case, while I know I'm only looking at the order in this case.
+
+So based on what you said, an event contract about any kind of contest, like an award show, Academy Award, Grammy's --
+
+MS. STUKES:  It's not a game.  It seems like a contest.
+
+THE COURT:  That would fall under the gaming prong.
+
+MS. STUKES:  Wagering on it, it sounds look it might, yeah.
+
+THE COURT:  Keep going.
+
+MS. STUKES:  So one of the criticisms that Kalshi levies at the Commission's decision here is they say that the definition is gerrymandered because it includes only wagering something or staking something of value on a contest of others.
+
+And gaming can be so much more than that.  Gaming can be games, gaming can be so much more than that.
+
+What the Commission did, however, is it looked at what are these contracts.  These contracts are staking something of value on the outcome of elections.  Does that fit in an ordinary definition of gaming?  We submit yes.  Because gaming is interchangeable with gambling and ordinary meaning of gambling is to stake something of value on a contest of others, and an election is a contest by its plain meaning.
+
+Dictionary definitions define "contest" to include elections.  The examples that we cite in our brief talk about the presidential election as a contest, the presidential contest, meaning an election.
+
+So "gaming" reasonably and plainly includes by its plain meaning staking something of value on the outcome of the contest of others.  This might not be to the exclusion of other types of gaming and gambling that were not at issue in this particular matter.  But these contracts are designed to wager on the outcome of congressional elections.
+
+THE COURT:  But the definitions don't change based on the contract at issue, right?  The statute says what it says. MS. STUKES:  The statute says what it says.
+
+THE COURT:  And it's your role to determine whether -if you undertake this type of review under the statute, then you decide or make a decision as to whether or not the contract fits the definition.  So the definition doesn't change; it's whether the contract fits the definition.
+
+So it can't be -- I'm not going to find gambling means contest here and then in another case be given a different definition from the Commission about what gambling might mean based on the contract at issue there.  That's not what you're suggesting.
+
+MS. STUKES:  What I am suggesting is that because this is not a rule making, that the Commission's determination of whether these contracts fit within the ordinary meaning of "gaming" did not require the Commission to define "gaming's" entire universe for it to determine that these contracts fit within an ordinary meaning of "gaming."
+
+THE COURT:  I guess that's what I'm having difficulty with because what I'm hearing you say is that there could be many definitions and we pick the one applicable here.  If there are many definitions -- I hope no one is asking me to find this is an ambiguous statute.  This is not the time to deal with ambiguities in statutory interpretation.
+
+So I guess -- I mean, I hope that the Commission is taking the position that "gaming" means X and that this contract fits X because of whatever argument.  You're not saying that you're adding a contest here, but in other circumstance you'd use another dictionary definition.  There should be a definition that applies that's unambiguous.
+
+MS. STUKES:  What the Commission found here is an ordinary definition of "gaming" includes wagering on a contest of others, because -- and that's not, as Kalshi puts it, gerrymandering.
+
+THE COURT:  I can accept that.
+
+MS. STUKES:  That's deciding what's before it.
+
+THE COURT:  I can accept that in the dictionary there may be one, two, three, and if it fits any of those prongs.  I just want to know the extent of what the definition of "gambling" is under the Commission's view.  So what you're saying is it includes this contest of others.  And so because an election, in your view, is a contest of others, then betting or wagering on that violates that provision of the statute.
+
+MS. STUKES:  Or at least brings it into that enumerated category of the statute, yes.
+
+THE COURT:  Okay.  But if there are other definitions of gambling -- and I'm losing track of whether I saw it myself or whether it's in the papers, but that would just say, for example, you might have said it earlier, betting or wagering on a contingent event.
+
+MS. STUKES:  On any contingent event.
+
+THE COURT:  On any contingent event.  Would that mean that every event contract involves gambling and, thus, gaming? MS. STUKES:  That's not what the Commission held here and it's unlikely to be what the Commission would hold in another context if it came up.  But that wasn't the question presented here.
+
+So what was presented here was:  Do these contracts, which are routinely characterized as election-betting contracts, fall within the ordinary meaning -- an ordinary meaning of "gaming," where gaming is synonymous with gambling and gambling includes wagering on a contest of others and a contest of others includes elections.  And that was enough --
+
+THE COURT:  Okay.
+
+MS. STUKES:  -- to be a reasonable interpretation of the plain meaning of the statute.
+
+We've talked about gaming and unlawful under state law and involve, and unless Your Honor wants to talk further about any of those subissues, I can move on to the public interest.
+
+THE COURT:  Sure.  Yes, please.
+
+MS. STUKES:  Okay.  So having determined that Kalshi's proposed contracts involve two enumerated activities under the statute, the Commission proceeded to determine that the contracts are contrary to public interest and, therefore, are prohibited from trading.  And in making this determination, the Commission considered the contract's economic purpose as well as other factors.  So I'll start with the economic purpose evaluation.
+
+So the parties point this out in our briefs, but our statute here, the CEA, codifies two public interests in commodities markets, hedging and price discovery.  So hedging, in general, means to use the commodity derivatives markets to manage risk of price fluctuations in commodities.  For example, we put in our brief an example of an airline.  They have to buy jet fuel to operate their business and they have a price sensitivity to movements in the price of jet fuel.
+
+So a market participant who wants to hedge their risk of price fluctuations, and they're worried that the price of a commodity will go up, will hedge that risk by entering into a commodity derivatives contract whose value will go up if the price of that commodity increases.  So in other words, hedging means you can enter into a derivatives contract in a CFTC-regulated market that will move in your financial interest if the commodity that you're sensitive to moves against your financial interest.  That's hedging.
+
+Price discovery, which is the other enumerated public interest in the CEA and in commodity derivatives markets generally, means to determine a price level for a commodity based upon its pricing in a CFTC-regulated market.  So for instance, futures contracts on, like, agricultural commodities can be used -- the trading on futures contracts can be used to discover the price of the actual commodity in the cash market.
+
+As noted in the order, the Commission considered the public interest of Kalshi's proposed contracts and considered their economic purpose.  So this statute, 5CC5C, doesn't define what it means to consider the public interest but because the CEA itself codifies economic interests, in the years before 2000, when the CFTC examined every derivatives contract for public interest, it looked at an economic purpose test that asked whether a contract can be reasonably expected to be or has been used for hedging or price basing on more than an occasional basis.  That was the test.
+
+And the CFTC looked at that test in considering whether these proposed contracts have an economic purpose, and the CFTC also mentioned this colloquy between Senators Feinstein and Lincoln in which Senator Feinstein asked if the Commission would have the power to determine that a contract is a gaming contract if the predominate use of the contract is speculative as opposed to hedging or economic use.
+
+So the Commission cited both of these formulations of considering the economic purpose of the contracts in evaluating these proposed contracts.
+
+And it considered comments that Kalshi highlighted for Your Honor that congressional control has economic effects.
+
+And it considered comments from commenters that said they would use these contracts to hedge.
+
+But, as the Commission found, the economic effects of one chamber of Congress or another are -- the word the Commission used is diffuse and unpredictable.  The price of these contracts is not correlated to the price of any commodity, and so the price of the contracts couldn't reasonably or predictably be used to establish commercial transaction prices for hedging or discovery.
+
+THE COURT:  Can I get a clarification?  Is the test -- is it the more than occasional language or is it the predominantly for commercial purpose?
+
+MS. STUKES:  The test -- the Commission evaluated both.  It looked at both and found that even considering the comments that suggested -- pardon me, that these contracts would be used for hedging purposes, most of the comments suggested that the hedging uses were not really related to the control of a single chamber of Congress, but rather the ultimate changes in law or policy that could be affected many steps down the line from control of a single chamber of Congress.
+
+So even taking all the commenters together who stated an intent to hedge economic risk by trading these contracts, it didn't establish that the contracts would be used for hedging on more than an occasional basis.
+
+But even if there were robust economic purposes for these contracts, the economic purpose of the contracts was just one aspect of the evaluation here, because a contract with economic purpose, an event contract, even if it has an economic purpose, it doesn't make it per se in the public interest.
+
+There's an example actually in the colloquy of the congressional record.  You can have a contract on whether a terrorist event will occur and it could be used for hedging, even.  If you're going to suffer an economic consequence from that, it doesn't make it in the public interest.  It doesn't make it a good idea.
+
+So the Commission here considered the alleged economic purposes of these contracts and it found that these contracts could not -- because control of a single chamber of Congress, the impact for economic hedging is so diffuse, there are so many steps that are involved between the election and actual enactment of legislation, that the economic purpose of these contracts did not weigh in favor of their public interest, but it considered other aspects too.
+
+I want to address one thing, that Kalshi argues that the Commission imposed an arbitrary and capricious direct-effects test.  Stating that these contracts don't have a direct economic effect, simply because a single chamber of Congress doesn't itself have the power to enact law, is not an arbitrary test.  It's a description of the limited hedging utility that these contracts would have.
+
+But again, even if these contracts had a robust economic purpose, other factors play in to the public interest determination, and they did here.  So I'll talk about election integrity, unless Your Honor would like to talk about the economic purpose --
+
+THE COURT:  I guess the only question is plaintiff made an argument in their briefs, and I talked to them a little today, about even putting aside any legislation that's passed, just the mere fact of elections that dictate who is in control of what chamber has maybe impact on the stock market or other direct economic consequences that are real and tangible and that can be observed in the aftermath of elections, and I wanted to know what your response was to that.
+
+MS. STUKES:  My response is maybe something you've already said, which is even if there are economic benefits to trading these contracts, the Commission determined in its discretion that those were not outweighed by the very serious public interest --
+
+THE COURT:  So you don't dispute that?
+
+MS. STUKES:  I find that even if it's true, it doesn't make a difference because the Commission was reasonable and not arbitrary and capricious in its determination that the concerns about election integrity here overwhelmingly are reasonable and not arbitrary or capricious.
+
+THE COURT:  Okay.  Let's go to the election integrity.
+
+MS. STUKES:  So factors including specific concerns about election integrity supported the Commission's determination that the contracts were contrary to public interest, and the principal concerns that the Commission identified included that these contracts could create monetary incentives for individuals or organized groups to vote for particular candidates for financial gain, to win a bet, not -regardless --
+
+THE COURT:  And before you said to win a bet, I was thinking you're describing what I think happens now in real life in terms of the financial incentives of people putting money behind elections and what motivates people to vote for certain candidates is often financial in nature, right?  But you're saying specifically to collect on these event contracts.
+
+MS. STUKES:  These event contracts, their very existence would establish -- could establish a financial incentive to vote in a particular way that doesn't presently exist because these contracts are not traded anywhere.  You can't gamble on elections.  So they can incentivize voting in particular ways that could influence how people vote.
+
+THE COURT:  How would we ever measure that? MS. STUKES:  Well, the --
+
+THE COURT:  The reason I'm asking is because I think the plaintiff's argument is that concern is so unlikely to happen it's -- and I thought that they made a good argument today that there are already so many incentives, financial and otherwise, behind elections that motivate people to do certain things -- I mean, the point being that if there were some way to get control over a -- if someone could figure out a way to ensure control of a chamber of Congress, that probably would have happened by now, right?  So what is your response to that? MS. STUKES:  My response is the existence of a federally-regulated derivatives contract on the outcome of elections could incentivize people to manipulate either that contract or the election itself for financial gain.
+
+I'll give you some examples to talk about the kind of thing we're concerned about.  And I'm skipping ahead to the -the order I was going to talk with you about these things.
+
+The Commission is not just a regulatory agency.  We're also a law enforcement agency.  And we're tasked under the CEA with antifraud authority.  And we're tasked under the CEA to ensure integrity in the markets that we oversee.  And because of that, the Commission could be drawn in to investigating manipulative conduct in these markets in a way that doesn't -is outside of its ordinary mission.
+
+So here's an example.  A political activist with a big social media following, they float a rumor on social media damaging to a candidate who is important to one party's control of the Senate.  In a couple of weeks, this rumor spins up and spins out and it turns out maybe it's untrue.  It turns out to be false.
+
+But during the weeks that the rumor was circulating, the congressional control contract on the other party goes up and many people make a lot of money by selling that contract when the market is high.  And then the CFTC gets a tip and says, well, that person put that rumor on social media in order to manipulate the congressional control contract.
+
+There's a couple of implications here.  The very availability of that contract has added one more reason, and maybe a big reason for some people, to disseminate false information about elections.  And that's certainly relevant to the public interest.
+
+Another thing that the Commission considered here is that it would draw the Commission into investigating these kinds of activities, and that's not farfetched.
+
+THE COURT:  Is that something that the Commission is tasked with doing now?  I'm assuming there are other contract -- I probably could come up with an example of any contract that could be subject to some manipulation where there's money involved.  Is that the kind of thing that the Commission would typically investigate if there was an issue with -- okay.
+
+MS. STUKES:  Absolutely, Your Honor.  As a federal regulator of commodities markets, the CFTC, as I said, is in charge of ensuring price integrity on our federally-regulated exchanges.  In the ordinary course, there's many ways to manipulate markets.
+
+Now, I say this in the same breath that I say I think the markets regulated by the CFTC are among the safest in the rule, but the limit of manipulation is really just the limit of human ingenuity.  Manipulation is attempted, and the CFTC, as a law enforcement agency, routinely investigates allegations of fraud and manipulation in the markets that it oversees.
+
+THE COURT:  I asked that because when I read your brief it sounded like one of the arguments you were making was that if you had to do that in this circumstance it would put you in a position that the CFTC is not equipped to do.  But it sound like, if it's part of your regular mission, it wouldn't put you in a position that you're not already required or routinely do.
+
+MS. STUKES:  My answer to that, Your Honor, is that there are two important differences because this is not a minimal concern.  It's not simple enough to say, oh, but you investigate manipulation in markets that you're not an expert in all the time.  And it's true, we have a division of enforcement that investigates alleged manipulation in a lot of markets on a lot of commodities.
+
+The difference here, there are two important differences.  First and most important, any government investigation and enforcement activity involving the political process is inherently sensitive.  There's a difference in the CFTC investigating economic activity related to commodity derivatives markets and the CFTC investigating acts that may be political speech or other conduct central to the political process.
+
+Second, as we briefed and as the Commission found in its order, most of the markets regulated by the CFTC have objective economic data that may not totally decide a case but at a minimum it provides some objective grounding through the CFTC's investigations of whether manipulation has occurred.
+
+The vast potential of these contracts to incentivize misinformation could absolutely draw the Commission into investigations of a vast array of possible manipulation.  The pricing of these congressional control contracts would be impacted by such a broad array of information.  Anything that could influence the election could influence the price of these contracts.  So polls, rumors, news, announcements, faked information, advertisement, I can't even think of it all.  And this would be for every congressional race in the country.
+
+Kalshi doesn't have jurisdiction to investigate any alleged manipulation on these contracts.  It would fall to the CFTC.  In its everyday operation, the CFTC receives tips of possible market manipulation and it would be drawn into investigating whether information disseminated about congressional elections illegally manipulated the market in these contracts, and that is not a role for which the Commission is equipped and it would greatly expand the jurisdiction of the CFTC.
+
+Assuming the role of an election cop raises very serious concerns about not only the misalignment of that role with the Commission's mission and its history but with election integrity.  And it was reasonable for the CFTC to have considered this.
+
+As another example, it's not farfetched.  It's not a de minimus concern.  Kalshi says, oh, it's not a big deal.  You do that anyway.  Or it's not likely to happen.
+
+The Commission's predicted judgment based upon its existence as a law enforcement agency that routinely investigates manipulation and as a regulatory agency that is entrusted with ensuring the integrity of its markets, it was a reasonable predictive judgment to say that that would draw the CFTC into investigating conduct that relates to elections.
+
+There's another example.  There's another example I wanted to talk with Your Honor about, and that would be you asked Kalshi's counsel about the limits that it proposed to put on who could trade these contracts.  As far as I read that list, it wouldn't prohibit people who count the votes from trading in these contracts.
+
+So imagine a scenario -- and the position limits, meaning how much can be traded on these contracts, the position limits proposed would allow trading of up to $5 million if you're a company or entity.  So imagine a group of poll workers -- and I don't mean people that are involved in surveys.  I mean people that count the votes.  They form a company of some kind and they're accused of putting their money together and putting a $5 million position on these congressional-control contracts.  These are the people counting the votes.
+
+Someone refers this to the CFTC because they think the vote counting has been manipulated to make a profit in the event contract.  So here would be the CFTC being drawn into whether the vote count is accurate.
+
+THE COURT:  Or whether there was fraud in connection with the event contract, right?
+
+MS. STUKES:  Correct.  Because it would ask the question of whether there was fraud in the event contract. Because that would be manipulating -- manipulative or fraudulent conduct that unduly influenced the event contract.
+
+And that's an example of the CFTC's concern.  Because these contracts could -- their very existence could incentivize conduct designed to artificially affect the electoral process for the purpose of manipulating the price of the contract for financial gain or they could incentivize the manipulation of the market for the purpose of artificially affecting the election or perceptions of the election.
+
+I want to mention one thing that Kalshi talks about and that is -- oh, actually, before I get there, research in the record -- one comment submitted in the record involved the actual manipulation of a political event contract by false information.  There was -- it's a bizarre fact pattern.  The pop singer Kid Rock was shown to be ahead in the polls in a match-up against a sitting senator before he had ever -- he had not even declared a candidacy for the Senate, but he was shown in a poll to be ahead of a sitting senator, and that caused the price of a corresponding event contract to drop and it caused trading volume to surge, and users were later, on social media, bragging about how that poll trolled the news media and influenced the election event contract.
+
+Researchers have theorized that that kind of fake information could be used to generate market movement in other election event contracts.  So it's not farfetched to say that this is a serious concern.  Over 600 comment letters were received by the agency, including from Senators and members of the House of Representatives, expressing significant concerns about election integrity and the improper commodification of our elections.
+
+And I don't say commodification just as rhetorical flourish.  When you have an event contract trading on a CFTC-regulated market and the underlying event of that contract is an election, the election is a commodity under the Commodity Exchange Act.
+
+Where a large number of states have specifically disallowed gambling on elections by either statute or common law, and that reflects the view of a large number of states that this kind of wagering is against the public interest, the Commission grants significant weight to any threat to election integrity, as well as the threat to the perception of election integrity.
+
+And this is especially important at a point in time where so many people question the validity of elections.  The Commission is not required to let threats to election integrity happen before recognizing election integrity as a public interest concern with respect to these contracts.
+
+There's one other value that Kalshi argues -- that Kalshi and Amici and commenters argue that these contracts have, and that is that they could provide beneficial market-based predictive data.  And that that's societally valuable information.  The Commission considered that but it didn't find that generation of such data outweighed the very real and grave concerns about the threat to election integrity that these contracts would pose.
+
+The CFTC's predictive judgment about possible negative consequences that could arise from these proposed contracts are entitled to deference under APA law.  The Commission didn't ignore evidence.  It didn't refuse to engage with contrary positions.  It found that any economic utility of the contracts didn't outweigh the very serious risks that the contracts could be manipulated and could incentivize the spread of misinformation or be used to undermine election integrity or the perception of election integrity.
+So for all of these reasons, the CFTC submits that Your Honor should deny Kalshi's motion for summary judgment and grant judgment to the CFTC.
+
+THE COURT:  Okay.  Thank you.
+
+Any brief rebuttal?
+
+MR. ROTH:  Very brief.  Very, very brief.
+
+THE COURT:  Yes.
+
+MR. ROTH:  I appreciate the Court's time.  I will be very, very brief.  Three quick points.  First Your Honor asked about the catchall category, why they didn't rely on the catchall.
+
+THE COURT:  Yes.
+
+MR. ROTH:  The catchall requires a rule making.  It's by rule or regulation.  They haven't done a rule making.  And so that's -- they couldn't rely on the catchall.
+
+THE COURT:  They could not rely on the catchall.
+
+MR. ROTH:  Yes.  So they would first have to do a rule making to determine some activity is similar to the others. They have not done that.  So that's the answer to that.
+
+THE COURT:  Thank you.  I appreciate that.
+
+MR. ROTH:  On unlawful, I still did not really hear a theory as to why their reading doesn't sweep in everything. What I heard was, you don't have to worry about that because that's not this case.  That's not how statutory interpretation works.  We need to understand what the statute means.  Counsel admitted that's a de novo question for this Court to consider. And, of course, in considering what the statute means, the
+
+Court is going to look at how it would apply in other contexts.
+
+That doesn't mean you need to figure out the answer to every other hypothetical case that might exist.  But the Supreme Court, whenever it's considering a question of statutory interpretation, looks at how it's going to apply elsewhere, and if it's going to be absurd in a wide variety of other cases that means it's a bad interpretation.  That, I think, covers unlawful.
+
+The only thing I'll say about gaming, to add to earlier, Your Honor asked if their interpretation of contests would sweep in anything that isn't a game other than elections. And counsel's response was potentially awards shows, like who's going to win the Emmy or the Oscar, which I thought was a fascinating example because Kalshi offers those and has offered those for a long time, and they have never subjected those to the review process.
+
+And I think that really underscores the sort of outcome-driven aspect of this.  It's not a good-faith statutory interpretation.  It's an attempt to get it in without a real coherent theory of what the statute means.
+
+That's all I have, Your Honor, unless you have further questions.
+
+THE COURT:  No.  Thank you.  I appreciate the briefs were very good and helpful and I appreciate your time. Before we leave, I'm going to embarrass Ms. Franklin because -- this is my courtroom deputy, Ms. Franklin, and this is her last in-person hearing.  She's going to be retiring after over 30 years on the court.
+
+## (Applause)
+
+So I did not know there were going to be this many people here.  I brought cupcakes for the parties and for us.  I am sorry to the people in the audience.  I do not know if I can accommodate everyone.  There's more coming.
+
+I'm sad but happy for Ms. Franklin.  After 32 years on the court, she certainly deserves to retire but we're going to miss her.  And so I just wanted to recognize her for this last hearing of hers in this courtroom.  So thanks everyone.
+
+## (Applause)
+
+We're waiting for more cake.
+
+There's not a song that we can sing.  I don't know if people blow out candles for retirement.  We just wanted to say thank you so much.  We're going to miss you.  Please don't leave us too in the wind, and I hope you come back.
+
+(Off-the-record discussion.)
+
+THE COURT:  I'll take this matter under advisement. Thank you, everyone.
+
+(Proceedings concluded at 3:03 PM)
+
+## C E R T I F I C A T E
+
+- I, Stacy Johns, certify that the foregoing is an accurate transcription of the proceedings in the above-entitled matter.
+
+/s/ Stacy Johns               Date: June 3, 2024
+
+Stacy Johns, RPR Official Court Reporter

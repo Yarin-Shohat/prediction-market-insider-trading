@@ -1,0 +1,81 @@
+I am writing to express my opposition to the Commodity Futures Trading Commission's (CFTC) proposed rule on event contracts. This proposal, as it currently stands, poses significant challenges to the development and utility of event contracts, particularly those related to elections. Below, I outline my concerns and urge the CFTC to reconsider its approach.
+
+## Hedging Use Cases
+
+Event contracts, especially those related to elections, provide essential tools for hedging against uncertainties that have profound impacts on policy, the economy, and daily life. Elections can lead to significant shifts in regulatory and economic environments, affecting businesses and individuals alike. Just as hedge funds utilize complex strategies to hedge election outcomes, Main Street investors should also have access to tools that allow them to manage these risks effectively. These contracts enable individuals and businesses to protect themselves against potential adverse effects of electoral outcomes, ensuring stability and informed decision-making. The ability to hedge these risks is not just a luxury for sophisticated investors but a necessity for all market participants.
+
+The current stance of the CFTC, as reflected in its recent orders, suggests that event contracts related to elections do not have sufficient hedging utility due to their binary nature and the unpredictability of election outcomes. However, this perspective overlooks the broader economic impacts that election results can have, affecting industries, markets, and individual financial positions. Market participants, such as media companies and consultancies, may find significant value in hedging against the direct risks stemming from electoral outcomes. The CFTC's role should not be to deny market participants the choice of financial products that meet their hedging needs simply because they are deemed not "effective enough" by the Commission.
+
+## Questions for the CFTC
+
+Given these concerns, I urge the CFTC to address the following questions:
+
+1. What specific criteria does the CFTC use to determine the hedging utility of event contracts, and how does it account for the broader economic impacts of election outcomes?
+2. How does the CFTC plan to ensure that its regulatory approach does not inadvertently push market participants towards unregulated platforms, thereby increasing systemic risk?
+3. What steps will the CFTC take to engage with market participants to better understand their hedging needs and the potential utility of event contracts in meeting those needs?
+4. Can the CFTC provide examples of event contracts that have been deemed to have sufficient hedging utility, and explain the rationale behind these determinations?
+5. How will the CFTC balance its concerns about the commoditization of the electoral process with the need to provide market participants with legitimate hedging tools?
+
+By addressing these questions, the CFTC can provide greater clarity and ensure that its regulatory framework supports a balanced and effective market environment without unnecessarily restricting beneficial trading activities. It is crucial that the Commission recognizes the importance of these markets in providing essential hedging tools and considers how they can be regulated to maximize their utility while ensuring transparency, security, and compliance.
+
+## Legal and Regulated Markets
+
+The existence of event contracts on unregulated platforms like Polymarket highlights a critical gap in customer protection and market integrity. It is paradoxical that such markets can operate without oversight while regulated exchanges, which have systems in place for customer protection, KYC (Know Your Customer), surveillance, and AML (Anti-Money Laundering), are restricted from offering these contracts. The CFTC should focus on regulating these markets to ensure they operate within a legal framework, rather than pushing them to unregulated environments that lack necessary safeguards. Regulated exchanges are equipped with robust mechanisms to protect market participants and ensure fair trading practices. By prohibiting event contracts on these platforms, the CFTC inadvertently encourages the growth of unregulated markets, where participants are exposed to higher risks of fraud, manipulation, and lack of recourse in case of disputes. This approach undermines the CFTC's mission to ensure market integrity and protect consumers. Instead, the Commission should leverage its regulatory expertise to establish guidelines that allow event contracts to be traded safely and transparently on regulated exchanges.
+
+## Questions for the CFTC
+
+Given these concerns, I urge the CFTC to address the following questions:
+
+1. What specific measures does the CFTC plan to implement to ensure that event contracts can be offered on regulated exchanges with appropriate customer protection and market integrity safeguards?
+2. How does the CFTC justify the prohibition of event contracts on regulated platforms while allowing their existence on unregulated markets, which lack essential oversight mechanisms?
+3. What steps will the CFTC take to engage with stakeholders, including exchanges and market participants, to develop a regulatory framework that supports the safe and legal trading of event contracts?
+4. Can the CFTC provide examples of successful regulatory frameworks from other jurisdictions that have effectively managed the risks associated with event contracts while ensuring customer protection?
+5. How will the CFTC balance its concerns about the potential misuse of event contracts with the need to provide market participants with legitimate and regulated avenues for trading these instruments?
+
+## Forecasting and Data
+
+Prediction markets generate data that is invaluable and often more accurate than traditional polling methods. Numerous studies have shown that these markets offer unbiased and reliable forecasts, making them a superior tool for anticipating future events. The market-based price discovery they provide is crucial for businesses and individuals relying on accurate forecasts to make informed decisions. By restricting event contracts, the CFTC limits access to this valuable data, which could enhance decision-making processes across various sectors. Instead of banning these markets, the CFTC should welcome this innovation and find ways to regulate them effectively, ensuring their utility for all participants.
+
+Prediction markets have consistently demonstrated their ability to aggregate diverse information and opinions into a single, market-based forecast that often surpasses the accuracy of conventional methods like opinion polls. The mechanism of trading contracts based on the likelihood of future events creates a financial incentive for participants to leverage all available information, resulting in a more accurate and unbiased forecast. This is particularly valuable in areas such as elections, where traditional polling can be subject to biases and inaccuracies. The insights gained from prediction markets can inform strategic decisions in business, policy-making, and risk management, providing a competitive edge to those who utilize this data effectively.
+
+## Questions for the CFTC
+
+Given these concerns, I urge the CFTC to address the following questions:
+
+1. What specific evidence does the CFTC have to support its position that prediction markets do not provide valuable and reliable data, and how does this compare to the extensive research demonstrating their forecasting accuracy?
+2. How does the CFTC plan to balance its concerns about speculation and market manipulation with the need to provide market participants access to high-quality, market-based data?
+3. What regulatory measures can the CFTC implement to ensure the integrity of prediction markets while allowing them to operate and provide valuable data to businesses and individuals?
+4. Can the CFTC provide examples of successful regulatory frameworks from other jurisdictions that have effectively managed the risks associated with prediction markets?
+5. What steps will the CFTC take to engage with academic researchers and industry experts to better understand the value and potential of prediction markets in providing accurate forecasts?
+
+## Invalid CFTC Arguments
+
+The CFTC's arguments against election markets lack empirical support and are based on broad assertions rather than concrete data. The claim that these markets pose a "threat to democracy" is not substantiated by any rigorous analysis or evidence. Such sweeping statements do not provide a valid basis for a blanket ban on event contracts. The CFTC's reluctance to act as an "election cop" does not justify restricting a market that could provide valuable tools for hedging and forecasting. Instead of prohibiting these markets outright, the CFTC should engage in the hard work of developing a regulatory framework that addresses its concerns while allowing these markets to operate.
+
+The assertion that allowing event contracts would commoditize the electoral process overlooks the potential benefits of a regulated market. By creating a legal and transparent environment for trading these contracts, the CFTC could mitigate risks associated with unregulated platforms, ensuring consumer protection and market integrity. A ban is a simplistic solution that fails to recognize the complexities of the issue and the potential for innovation within a regulated framework.
+
+Moreover, the CFTC has not adequately considered the broader implications of its proposed ban. By restricting event contracts, the Commission risks pushing market participants toward unregulated platforms, where oversight and consumer protections are minimal. This could lead to increased risks of fraud and manipulation, ultimately undermining the very integrity the CFTC seeks to protect.
+
+## Questions for the CFTC
+
+Given these concerns, I urge the CFTC to address the following questions:
+
+1. What specific empirical evidence does the CFTC have to support its assertion that election markets pose a "threat to democracy"?
+2. How does the CFTC plan to differentiate between legitimate market activities that provide valuable hedging and forecasting tools and those that may be deemed harmful or speculative?
+3. What steps will the CFTC take to ensure that its regulatory framework allows for innovation and the development of event contracts while addressing concerns about potential market manipulation?
+4. Can the CFTC provide examples of other markets or sectors where it has successfully implemented regulations that balance consumer protection with the promotion of market innovation?
+5. How will the CFTC engage with stakeholders, including market participants and researchers, to gather input on the potential benefits and risks associated with event contracts before finalizing its rule?
+
+## Flawed Process
+
+The process leading to this proposed rule has been flawed. The CFTC is currently involved in two lawsuits related to topics closely associated with the rule, and the courts have not yet made a final decision. It is inappropriate for the CFTC to propose a rule while the legal framework is still being determined. Furthermore, the CFTC has not engaged adequately with stakeholders or the industry, rushing the rulemaking process without fully understanding the benefits of these markets and their broad public interest implications.
+
+Given these concerns, I urge the CFTC to address the following questions:
+
+1. How does the CFTC plan to accommodate the legitimate hedging needs of businesses and individuals if event contracts are prohibited?
+2. What specific evidence does the CFTC have to support its position that prediction markets do not provide valuable and reliable data, and how does this compare to the extensive research demonstrating their forecasting accuracy?
+3. What steps will the CFTC take to engage with market participants to better understand their hedging needs and the potential utility of event contracts in meeting those needs?
+4. How does the CFTC plan to ensure that its regulatory approach does not inadvertently push market participants towards unregulated platforms, thereby increasing systemic risk?
+5. What steps will the CFTC take to engage with academic researchers and industry experts to better understand the value and potential of prediction markets in providing accurate forecasts?
+
+Thank you for considering my comments and questions.

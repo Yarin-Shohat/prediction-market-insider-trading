@@ -1,0 +1,23 @@
+I am an economics professor at the University of Chicago. In my opinion, the Commission should approve this contract. Political elections are a major source of economic risk. There are good reasons to expect that election prediction markets will be a beneficial tool for improving hedging and efficiency of economic decision making that is contingent on such risks. Existing evidence suggests that such contracts have performed well in the past. It is worthwhile to experiment with this contract, and to expand the use of such contracts in the event that this experiment has a positive outcome.
+
+Important insights into these issues are provided in a special symposium of the Journal of Economic Perspectives (Spring 2004): 'Prediction Markets' (Justin Wolfers and Eric Zitzewitz, pp. 107-126); 'Historical Presidential Betting Markets' (Paul Rhode and Koleman Strumpf, pp. 127-142). Both papers provide many additional relevant citations.
+
+- Do these contracts involve, relate to, or reference gaming as described in Commission regulation 40.11(a)(1) and section 5c(c)(5)(C) of the Commodity Exchange Act, or in the alternative, involve, relate to, or reference an activity that is similar to gaming as described in regulation 40.11(a)(2) or section 5c(c)(5)(C) of the Commodity Exchange Act?
+
+It is not appropriate to view any election contract as gaming. 'Gaming' involves betting on outcomes that are intrinsically enjoyable but have no economic effect, such as sporting events. Elections have far-reaching economic effects. A better analogy is trading on futures contracts for interest rates or commodities prices.
+
+- Do the contracts serve a hedging function? Are the economic consequences of congressional control predictable enough for a contract based on that control to serve a hedging function? Please provide tangible examples of commercial activity that can be hedged directly by the contracts or economic analysis that demonstrates the hedging utility of the contracts.
+
+These types of contracts can be extremely valuable for hedging. The economic effects of election outcomes are enormous - even with respect to local elections, but certainly for national elections. This implies large economic uncertainties and risks associated with elections. Election prediction markets can be a valuable tool to help many types of economic agents to hedge their risks.
+
+Even if the market or transaction size is too small for direct hedging of risks, prediction markets hedge risks more deeply, because they can provide more accurate, real-time predictions of the likelihood of various outcomes. That provides better information which can be used to improve the quality of decision-making, investments, etc. For example, consider a firm contemplating a large capital investment, with value contingent on the outcome of an election. Better quality predictions about the election can improve the timing, type, and magnitude of investment, increasing economic efficiency.
+
+- Are there unique economic risks tied to the outcome of congressional control that cannot be hedged via derivative products on equities, debt, interest rates, tax rates, asset values, and other commodity prices?
+
+The economic risks of election outcomes can be imperfectly hedged via other means currently available. However, prediction markets on these enormously significant events can greatly improve the ability to hedge (directly, and via improved economic decision making, as described above).
+
+Moreover, evidence from academic research suggests that these types of contracts are a very promising tool. They tend to outperform other methods (e.g., polling). Moreover, there is little evidence that attempts to manipulate such markets succeed. These points are discussed in Wolfers &amp; Zitzewitz; Rhode &amp; Strumpf.
+
+- Should the Commission consider the contract design and payout when trying to assess the economic utility of the contract? For example, are binary contracts useful for hedging nonbinary economic events?
+
+Binary contracts are useful, and have the virtue of simplicity in design and execution. However, the Commission should consider future applications with non-binary contracts. That includes markets with multiple possible outcomes (e.g., a set of competing Presidential candidates), but also index and spread contracts (see Wolfers &amp; Zitzewitz, Table 1).

@@ -1,0 +1,522 @@
+﻿Term,Category,Notes,Alternative_Forms,Weight
+Rule 10b-5,Formal Legal Terminology,Direct SEC rule reference,"10b-5,Rule 10b5",3
+10b-5,Formal Legal Terminology,SEC rule acronym,,3
+Rule 10b5,Formal Legal Terminology,Alternative spelling,,3
+Securities Exchange Act of 1934,Formal Legal Terminology,Foundational securities law,"Exchange Act,1934 Act",3
+Exchange Act,Formal Legal Terminology,Common shorthand,,3
+Section 10(b),Formal Legal Terminology,Specific statutory section,"Section 10b,10(b)",3
+Rule 10b5-1,Formal Legal Terminology,Safe harbor rule,"10b5-1 plan,10b5-1",3
+10b5-1 plan,Formal Legal Terminology,Trading plan under rule,,3
+Regulation FD,Formal Legal Terminology,Fair Disclosure regulation,"Reg FD,Regulation Fair Disclosure",3
+Regulation Fair Disclosure,Formal Legal Terminology,Full name of Reg FD,,3
+Reg FD,Formal Legal Terminology,Common acronym,,3
+insider trading,Formal Legal Terminology,Core legal term - exact phrase only,,3
+securities fraud,Formal Legal Terminology,Related violation,,3
+market manipulation,Formal Legal Terminology,Combine with information context check,,3
+tipper-tippee liability,Formal Legal Terminology,Legal theory,tippee liability,3
+tippee liability,Formal Legal Terminology,Derivative liability,,3
+classical insider trading,Formal Legal Terminology,Traditional theory,,3
+misappropriation theory,Formal Legal Terminology,Alternative legal theory,misappropriation doctrine,3
+misappropriation doctrine,Formal Legal Terminology,Alternative phrasing,,3
+breach of fiduciary duty,Formal Legal Terminology,Requires trading context check,,3
+material non-public information,Formal Legal Terminology,Core legal standard,"MNPI,material nonpublic information",3
+material nonpublic information,Formal Legal Terminology,Alternative spacing,,3
+MNPI,Formal Legal Terminology,Acronym - case sensitive,,3
+non-public information,Formal Legal Terminology,Key component,"nonpublic information,non public information",3
+nonpublic information,Formal Legal Terminology,Alternative spacing,,3
+confidential information,Formal Legal Terminology,Requires trading context,,3
+personal benefit test,Formal Legal Terminology,Legal standard from Dirks,,3
+constructive insider,Formal Legal Terminology,Legal classification,,3
+temporary insider,Formal Legal Terminology,Legal classification,,3
+duty of trust and confidence,Formal Legal Terminology,Misappropriation element,,3
+duty of confidentiality,Formal Legal Terminology,Alternative phrasing,,3
+fiduciary duty,Formal Legal Terminology,Requires trading context,,3
+inside information,Core IT Concepts,Most common informal term,insider information,3
+insider information,Core IT Concepts,Alternative phrasing,,3
+private information,Core IT Concepts,Requires market context,,3
+privileged information,Core IT Concepts,Requires market context,,3
+proprietary information,Core IT Concepts,Requires trading context,,3
+non-public data,Core IT Concepts,Data-focused terminology,,3
+asymmetric information,Core IT Concepts,Economics term,"information asymmetry,information asymmetries",3
+information asymmetry,Core IT Concepts,Singular form,,3
+information asymmetries,Core IT Concepts,Plural form,,3
+information imbalance,Core IT Concepts,Alternative description,,3
+informational advantage,Core IT Concepts,Key concept,"information edge,information advantage",3
+information edge,Core IT Concepts,Trading terminology,,3
+information privilege,Core IT Concepts,Access-based description,informational privilege,3
+informational privilege,Core IT Concepts,Alternative form,,3
+unfair information access,Core IT Concepts,Fairness concern,,3
+unequal access to information,Core IT Concepts,Inequality framing,,3
+differential information access,Core IT Concepts,Neutral description,differential access,3
+differential access,Core IT Concepts,Shortened form,,3
+exclusive information,Core IT Concepts,Access-based,,3
+restricted information,Core IT Concepts,Limitation-based,,3
+embargoed information,Core IT Concepts,Media/disclosure term,,3
+pre-release information,Core IT Concepts,Timing-based,,3
+advance information,Core IT Concepts,Timing advantage,"advanced knowledge,advance notice",3
+advanced knowledge,Core IT Concepts,Knowledge before others,,3
+advance notice,Core IT Concepts,Notification before public,advance warning,3
+advance warning,Core IT Concepts,Alternative form,,3
+prior knowledge,Core IT Concepts,Temporal advantage,"foreknowledge,early knowledge",3
+foreknowledge,Core IT Concepts,Knowledge in advance,,3
+early knowledge,Core IT Concepts,Timing-based,,3
+preemptive knowledge,Core IT Concepts,Acting before others know,,3
+superior information,Core IT Concepts,Requires trading context,,3
+trading on inside information,Core IT Concepts,Action description,"trading on insider information,trading on confidential information",3
+trading on insider information,Core IT Concepts,Alternative form,,3
+trading on confidential information,Core IT Concepts,Alternative form,,3
+trading on privileged information,Core IT Concepts,Alternative form,,3
+trading on non-public information,Core IT Concepts,Legal phrasing,,3
+trading ahead of announcement,Core IT Concepts,Timing-based,"trading ahead of public announcement,trading before public disclosure",3
+trading ahead of public announcement,Core IT Concepts,More specific,,3
+trading before public disclosure,Core IT Concepts,Disclosure-focused,trading before announcement,3
+trading before announcement,Core IT Concepts,Shortened form,,3
+pre-announcement trading,Core IT Concepts,Hyphenated form,,3
+front-running,Core IT Concepts,CAUTION: Multiple meanings - requires context,"front running,frontrunning,running ahead",3
+front running,Core IT Concepts,Alternative spacing,,3
+frontrunning,Core IT Concepts,One word form,,3
+running ahead,Core IT Concepts,Informal description,,3
+trading in advance,Core IT Concepts,Temporal description,advance trading,3
+advance trading,Core IT Concepts,Shortened form,,3
+anticipatory trading,Core IT Concepts,Expectation-based,,3
+preemptive trading,Core IT Concepts,Acting first,,3
+opportunistic trading,Core IT Concepts,Requires MNPI context,,3
+access to confidential information,Information Access,Access language,"access to non-public information,access to inside information",2.5
+access to non-public information,Information Access,Legal phrasing,,2.5
+access to inside information,Information Access,Common phrasing,,2.5
+access to privileged information,Information Access,Alternative form,,2.5
+privileged access,Information Access,Shortened form,"insider access,special access",2.5
+insider access,Information Access,Insider-focused,,2.5
+special access,Information Access,Preferential treatment,preferential access,2.5
+preferential access,Information Access,Favoritism implication,,2.5
+exclusive access,Information Access,Exclusivity-based,,2.5
+direct access,Information Access,Unmediated access,,2.5
+backdoor access,Information Access,Improper channel,"back door access,back-channel access",2.5
+back door access,Information Access,Alternative spacing,,2.5
+back-channel access,Information Access,Indirect channel,,2.5
+behind-the-scenes information,Information Access,Hidden information,,2.5
+internal information,Information Access,Organization-internal,,2.5
+corporate information,Information Access,Requires trading context,,2.5
+company information,Information Access,Requires trading context,,2.5
+government information,Information Access,Prediction market specific,political information,2.5
+political information,Information Access,Prediction market specific,,2.5
+market-moving information,Information Access,Price impact,,2.5
+price-sensitive information,Information Access,Materiality indicator,outcome-sensitive information,2.5
+outcome-sensitive information,Information Access,Prediction market specific,,2.5
+sensitive information,Information Access,Requires market context,,2.5
+corporate insiders,Information Access,Role description,"company insiders,market insiders",2.5
+company insiders,Information Access,Alternative form,,2.5
+market insiders,Information Access,Market-focused,,2.5
+political insiders,Information Access,Prediction market relevant,government insiders,2.5
+government insiders,Information Access,Government employees,regulatory insiders,2.5
+regulatory insiders,Information Access,Agency/regulator employees,,2.5
+congressional insiders,Information Access,Legislative branch,legislative insiders,2.5
+legislative insiders,Information Access,Legislative context,,2.5
+agency insiders,Information Access,Administrative agencies,,2.5
+connected individuals,Information Access,Network-based,"well-connected traders,well-connected individuals",2.5
+well-connected traders,Information Access,Trading focus,,2.5
+well-connected individuals,Information Access,General description,,2.5
+informed traders,Information Access,Knowledge-based,informed parties,2.5
+informed parties,Information Access,Alternative form,,2.5
+those in the know,Information Access,Colloquial,"individuals in the know,people in the know",2.5
+individuals in the know,Information Access,More formal,,2.5
+people in the know,Information Access,Common phrasing,,2.5
+individuals with inside knowledge,Information Access,Descriptive,"people with advance knowledge,people with inside knowledge",2.5
+people with advance knowledge,Information Access,Timing-based,,2.5
+people with inside knowledge,Information Access,Knowledge-based,,2.5
+parties with special information,Information Access,Formal description,parties with privileged information,2.5
+parties with privileged information,Information Access,Alternative form,,2.5
+platform insiders,Information Access,Prediction market specific,"exchange insiders,market operators",2.5
+exchange insiders,Information Access,Exchange employees,,2.5
+market operators,Information Access,Platform operators - context dependent,,2.5
+market creators,Information Access,Context dependent - may be legitimate,,2.5
+contract designers,Information Access,Context dependent,,2.5
+platform employees trading,Information Access,Specific concern,"exchange employees trading,market operators trading",2.5
+exchange employees trading,Information Access,Exchange-specific,,2.5
+market operators trading,Information Access,Operator conflict,,2.5
+market designers trading,Information Access,Designer conflict,,2.5
+event creators trading,Information Access,Creator conflict,,2.5
+settlement committee members trading,Information Access,Committee conflict,,2.5
+tipping,Information Transmission,Core tipping term,"tippee,tipper",3
+tippee,Information Transmission,Recipient of tip,,3
+tipper,Information Transmission,Provider of tip,,3
+tip-off,Information Transmission,Warning/notification,tipped off,3
+tipped off,Information Transmission,Past tense,,3
+selective disclosure,Information Transmission,Reg FD violation,"preferential disclosure,non-public disclosure",3
+preferential disclosure,Information Transmission,Favoritism in disclosure,,3
+non-public disclosure,Information Transmission,Disclosure to select parties,,3
+private disclosure,Information Transmission,Limited disclosure,confidential disclosure,3
+confidential disclosure,Information Transmission,Restricted disclosure,,3
+leaked information,Information Transmission,Unauthorized release,"leaking information,information leakage",3
+leaking information,Information Transmission,Active leaking,,3
+information leakage,Information Transmission,General leaking,information leak,3
+information leak,Information Transmission,Singular leak,,3
+leak,Information Transmission,Requires market context,leaks,3
+leaks,Information Transmission,Plural form,,3
+tip,Information Transmission,Requires market context,tips,3
+tips,Information Transmission,Plural form,,3
+inside tip,Information Transmission,Insider-based tip,inside tips,3
+inside tips,Information Transmission,Plural form,,3
+hot tip,Information Transmission,Valuable/time-sensitive tip,hot tips,3
+hot tips,Information Transmission,Plural form,,3
+information sharing,Information Transmission,Check for illicit context,sharing confidential information,3
+sharing confidential information,Information Transmission,Specific violation,"sharing non-public information,sharing inside information",3
+sharing non-public information,Information Transmission,Legal terminology,,3
+sharing inside information,Information Transmission,Common phrasing,,3
+passing information,Information Transmission,Transfer language,passing tips,3
+passing tips,Information Transmission,Tip transfer,,3
+conveying inside information,Information Transmission,Formal language,conveying confidential information,3
+conveying confidential information,Information Transmission,Alternative form,,3
+disseminating non-public information,Information Transmission,Broader distribution,,3
+channeling information,Information Transmission,Directing information flow,,3
+feeding information,Information Transmission,Providing information,,3
+providing inside information,Information Transmission,Supply language,providing confidential information,3
+providing confidential information,Information Transmission,Alternative form,,3
+divulging confidential information,Information Transmission,Disclosure language,divulging proprietary information,3
+divulging proprietary information,Information Transmission,Alternative form,,3
+off-the-record communication,Information Transmission,Informal disclosure,off the record,3
+off the record,Information Transmission,Shortened form,,3
+backchannel communication,Information Transmission,Alternative channel,back-channel communication,3
+back-channel communication,Information Transmission,Hyphenated form,,3
+private channels,Information Transmission,Non-public communication,,3
+confidential communications,Information Transmission,Restricted communication,,3
+insider communication,Information Transmission,Among insiders,insider communications,3
+insider communications,Information Transmission,Plural form,,3
+internal communications,Information Transmission,Check for external disclosure context,,3
+non-public communications,Information Transmission,Not publicly available,undisclosed communications,3
+undisclosed communications,Information Transmission,Hidden communications,,3
+unfair advantage,Unfair Advantages,Core fairness concern,"undue advantage,improper advantage",2
+undue advantage,Unfair Advantages,Excessive advantage,,2
+improper advantage,Unfair Advantages,Wrong advantage,"illegitimate advantage,illicit advantage",2
+illegitimate advantage,Unfair Advantages,Invalid advantage,,2
+illicit advantage,Unfair Advantages,Illegal advantage,"unlawful advantage,illegal advantage",2
+unlawful advantage,Unfair Advantages,Against law,,2
+illegal advantage,Unfair Advantages,Prohibited advantage,,2
+unfair edge,Unfair Advantages,Competitive terminology,"informational edge,trading edge",2
+informational edge,Unfair Advantages,Information-based edge,,2
+trading edge,Unfair Advantages,Trading advantage,,2
+competitive advantage through information,Unfair Advantages,Competition-focused,competitive advantage through inside information,2
+competitive advantage through inside information,Unfair Advantages,More specific,,2
+head start,Unfair Advantages,Requires trading context,,2
+first-mover advantage,Unfair Advantages,Check for MNPI context,,2
+superior information,Unfair Advantages,Better information quality,better information,2
+better information,Unfair Advantages,Information quality,,2
+special knowledge,Unfair Advantages,Unique knowledge,"privileged knowledge,insider knowledge",2
+privileged knowledge,Unfair Advantages,Access-based knowledge,,2
+insider knowledge,Unfair Advantages,Insider-based knowledge,,2
+information privilege,Unfair Advantages,Access privilege,,2
+unlevel playing field,Unfair Advantages,Inequality metaphor,"uneven playing field,not a level playing field",2
+uneven playing field,Unfair Advantages,Alternative form,,2
+not a level playing field,Unfair Advantages,Negative formulation,,2
+tilted playing field,Unfair Advantages,Biased system,,2
+rigged market,Unfair Advantages,Manipulation claim,"rigged system,rigged in favor",2
+rigged system,Unfair Advantages,System-level rigging,,2
+rigged in favor,Unfair Advantages,Favoritism language,,2
+two-tiered market,Unfair Advantages,Stratified access,"two-tier market,two tier system",2
+two-tier market,Unfair Advantages,Alternative form,,2
+two tier system,Unfair Advantages,System-level stratification,dual system,2
+dual system,Unfair Advantages,Two-part system,,2
+unequal footing,Unfair Advantages,Inequality language,"unequal standing,unequal terms",2
+unequal standing,Unfair Advantages,Position inequality,,2
+unequal terms,Unfair Advantages,Terms inequality,,2
+disadvantaged investors,Unfair Advantages,Investor harm,"disadvantaged traders,disadvantaged participants",2
+disadvantaged traders,Unfair Advantages,Trader harm,,2
+disadvantaged participants,Unfair Advantages,Participant harm,,2
+information disadvantage,Unfair Advantages,Information-based harm,informational disadvantage,2
+informational disadvantage,Unfair Advantages,Alternative form,,2
+market fairness,Market Integrity,Fairness principle,"fair markets,fair market",2
+fair markets,Market Integrity,Plural form,,2
+fair market,Market Integrity,Singular form,,2
+market integrity,Market Integrity,Core integrity concept,"integrity of markets,integrity of the market",2
+integrity of markets,Market Integrity,Plural form,,2
+integrity of the market,Market Integrity,Singular form,,2
+level playing field,Market Integrity,Fairness metaphor,,2
+equal access to information,Market Integrity,Access equality,equal information access,2
+equal information access,Market Integrity,Alternative form,,2
+equal opportunity,Market Integrity,Opportunity equality,,2
+fair dealing,Market Integrity,Conduct standard,fair trading,2
+fair trading,Market Integrity,Trading fairness,,2
+market transparency,Market Integrity,Openness principle,information transparency,2
+information transparency,Market Integrity,Information openness,,2
+fair competition,Market Integrity,Competition fairness,,2
+market abuse,Market Integrity,Broad violation category,,2
+abusive practices,Market Integrity,Conduct violations,abusive trading,2
+abusive trading,Market Integrity,Trading violations,,2
+manipulative practices,Market Integrity,Manipulation category,,2
+market exploitation,Market Integrity,Exploitation language,exploitative practices,2
+exploitative practices,Market Integrity,Alternative form,,2
+information inequality,Market Integrity,Information disparity,informational inequality,2
+informational inequality,Market Integrity,Alternative form,,2
+systemic advantage,Market Integrity,System-level bias,systemic advantages,2
+systemic advantages,Market Integrity,Plural form,,2
+structural advantages,Market Integrity,Built-in advantages,structural advantage,2
+structural advantage,Market Integrity,Singular form,,2
+built-in advantages,Market Integrity,Inherent design flaw,built-in advantage,2
+built-in advantage,Market Integrity,Singular form,,2
+inherent advantages,Market Integrity,Natural advantages,inherent advantage,2
+inherent advantage,Market Integrity,Singular form,,2
+unequal market structure,Market Integrity,Structural inequality,asymmetric market structure,2
+asymmetric market structure,Market Integrity,Imbalanced structure,,2
+playing with marked cards,Colloquial Language,Cheating metaphor,marked cards,1.5
+marked cards,Colloquial Language,Requires market context,,1.5
+stacked deck,Colloquial Language,Rigged game metaphor,deck is stacked,1.5
+deck is stacked,Colloquial Language,Alternative form,,1.5
+loaded dice,Colloquial Language,Rigged game metaphor,dice are loaded,1.5
+dice are loaded,Colloquial Language,Alternative form,,1.5
+insider club,Colloquial Language,Exclusive group,insiders' club,1.5
+insiders' club,Colloquial Language,Possessive form,,1.5
+old boys' club,Colloquial Language,Elite network,old boys network,1.5
+old boys network,Colloquial Language,Alternative form,,1.5
+in the loop,Colloquial Language,Information access,out of the loop,1.5
+out of the loop,Colloquial Language,Lack of access,,1.5
+in on the secret,Colloquial Language,Secret knowledge,,1.5
+privy to information,Colloquial Language,Access to knowledge,privy to knowledge,1.5
+privy to knowledge,Colloquial Language,Alternative form,,1.5
+in the know,Colloquial Language,Informed status,,1.5
+know something others don't,Colloquial Language,Knowledge asymmetry,know something others do not,1.5
+know something others do not,Colloquial Language,Formal version,,1.5
+having the inside scoop,Colloquial Language,Exclusive information,inside scoop,1.5
+inside scoop,Colloquial Language,Shortened form,,1.5
+inside track,Colloquial Language,Advantaged position,inside lane,1.5
+inside lane,Colloquial Language,Racing metaphor,,1.5
+insider's advantage,Colloquial Language,Advantage from insider status,,1.5
+being wired in,Colloquial Language,Connected status,wired in,1.5
+wired in,Colloquial Language,Shortened form,,1.5
+connected,Colloquial Language,Requires information context,well-connected,1.5
+well-connected,Colloquial Language,Strong connections,,1.5
+having connections,Colloquial Language,Network access,,1.5
+having sources,Colloquial Language,Information sources,,1.5
+having contacts inside,Colloquial Language,Internal contacts,having inside contacts,1.5
+having inside contacts,Colloquial Language,Alternative form,,1.5
+gaming the system,Colloquial Language,Exploiting rules,"working the system,playing the system",1.5
+working the system,Colloquial Language,Alternative form,,1.5
+playing the system,Colloquial Language,Alternative form,,1.5
+exploiting information,Colloquial Language,Information exploitation,,1.5
+capitalizing on inside knowledge,Colloquial Language,Profiting from knowledge,capitalizing on insider knowledge,1.5
+capitalizing on insider knowledge,Colloquial Language,Alternative form,,1.5
+profiting from inside information,Colloquial Language,Profit-focused,profiting from insider information,1.5
+profiting from insider information,Colloquial Language,Alternative form,,1.5
+cashing in on confidential information,Colloquial Language,Converting to profit,cashing in on inside information,1.5
+cashing in on inside information,Colloquial Language,Alternative form,,1.5
+trading on tips,Colloquial Language,Tip-based trading,,1.5
+acting on inside information,Colloquial Language,Action-focused,acting on insider information,1.5
+acting on insider information,Colloquial Language,Alternative form,,1.5
+using inside information,Colloquial Language,Utilization language,using insider information,1.5
+using insider information,Colloquial Language,Alternative form,,1.5
+leveraging inside information,Colloquial Language,Strategic use,leveraging insider information,1.5
+leveraging insider information,Colloquial Language,Alternative form,,1.5
+event manipulation,Prediction Market Specific,Outcome manipulation,,3
+event creators trading,Prediction Market Specific,Creator conflict,,3
+platform operators trading,Prediction Market Specific,Operator conflict,,3
+exchange employees trading,Prediction Market Specific,Employee conflict,,3
+market makers with inside information,Prediction Market Specific,MM conflict,market makers with privileged information,3
+market makers with privileged information,Prediction Market Specific,Alternative form,,3
+outcome manipulation,Prediction Market Specific,Result manipulation,,3
+contract manipulation,Prediction Market Specific,Contract-level manipulation,,3
+settlement manipulation,Prediction Market Specific,Settlement process manipulation,,3
+advance knowledge of outcomes,Prediction Market Specific,Outcome foreknowledge,advance knowledge of results,3
+advance knowledge of results,Prediction Market Specific,Result foreknowledge,,3
+preknowledge of outcomes,Prediction Market Specific,Prior outcome knowledge,preknowledge of results,3
+preknowledge of results,Prediction Market Specific,Prior result knowledge,,3
+early awareness of events,Prediction Market Specific,Timing advantage,,3
+prior notice of outcomes,Prediction Market Specific,Advance notification,,3
+prior knowledge of outcomes,Prediction Market Specific,Outcome knowledge before public,,3
+knowledge of event outcomes,Prediction Market Specific,Event result knowledge,,3
+predetermined outcomes,Prediction Market Specific,Requires trading context,,3
+government employees trading on policy knowledge,Prediction Market Specific,Government employee conflict,government employees trading on inside information,3
+government employees trading on inside information,Prediction Market Specific,Alternative form,,3
+federal employees trading,Prediction Market Specific,Federal worker conflict,,3
+political insiders trading on election information,Prediction Market Specific,Election market concern,political insiders trading on inside information,3
+political insiders trading on inside information,Prediction Market Specific,Alternative form,,3
+regulatory insiders trading,Prediction Market Specific,Regulator conflict,,3
+congressional trading on inside information,Prediction Market Specific,Congressional conflict,congressional insider trading,3
+congressional insider trading,Prediction Market Specific,Formal term,,3
+legislative insider trading,Prediction Market Specific,Legislative branch,legislative insiders trading,3
+legislative insiders trading,Prediction Market Specific,Alternative form,,3
+agency insider trading,Prediction Market Specific,Agency employee conflict,agency employees trading,3
+agency employees trading,Prediction Market Specific,Alternative form,,3
+committee members trading on inside information,Prediction Market Specific,Committee conflict,committee members trading,3
+committee members trading,Prediction Market Specific,Shortened form,,3
+staff trading on legislative information,Prediction Market Specific,Staff conflict,staffers trading on inside information,3
+staffers trading on inside information,Prediction Market Specific,Alternative form,,3
+hill staffers trading,Prediction Market Specific,Capitol Hill staff,,3
+white house staff trading,Prediction Market Specific,Executive branch staff,,3
+administration officials trading,Prediction Market Specific,Executive officials,,3
+elected officials trading on inside information,Prediction Market Specific,Elected official conflict,,3
+politicians trading on inside information,Prediction Market Specific,Political trading,,3
+market manipulation,Related Misconduct,Broad manipulation,,1.5
+price manipulation,Related Misconduct,Price-focused manipulation,,1.5
+wash trading,Related Misconduct,Check for information context,,1.5
+pump and dump,Related Misconduct,Check for inside information basis,,1.5
+spoofing,Related Misconduct,Check for inside knowledge context,,1.5
+layering,Related Misconduct,Check for information advantage context,,1.5
+misrepresentation,Related Misconduct,General fraud,,1.5
+fraud,Related Misconduct,Requires trading context,trading fraud,1.5
+trading fraud,Related Misconduct,Trading-specific fraud,,1.5
+deceit,Related Misconduct,Requires market context,,1.5
+deception,Related Misconduct,Requires market context,,1.5
+fraudulent trading,Related Misconduct,Trading fraud,,1.5
+coordinated trading based on inside information,Related Misconduct,Coordinated insider trading,,1.5
+collusion,Related Misconduct,Cooperative violation,collusive trading,1.5
+collusive trading,Related Misconduct,Trading collusion,,1.5
+conspiracy to trade,Related Misconduct,Trading conspiracy,conspiracy to trade on inside information,1.5
+conspiracy to trade on inside information,Related Misconduct,More specific,,1.5
+trading rings,Related Misconduct,Organized trading groups,insider trading rings,1.5
+insider trading rings,Related Misconduct,Insider-specific rings,,1.5
+information rings,Related Misconduct,Information sharing rings,,1.5
+insider networks,Related Misconduct,Insider groups,trading networks,1.5
+trading networks,Related Misconduct,Trading groups,,1.5
+coordinated tipping,Related Misconduct,Organized tipping,,1.5
+organized insider trading,Related Misconduct,Structured violation,organized trading scheme,1.5
+organized trading scheme,Related Misconduct,Organized scheme,,1.5
+risk of insider trading,Concern Language,Risk identification,"risks of insider trading,insider trading risk",2
+risks of insider trading,Concern Language,Plural form,,2
+insider trading risk,Concern Language,Alternative form,insider trading risks,2
+insider trading risks,Concern Language,Plural form,,2
+susceptible to insider trading,Concern Language,Vulnerability language,,2
+vulnerable to insider trading,Concern Language,Vulnerability language,"vulnerable to insider abuse,vulnerable to information abuse",2
+vulnerable to insider abuse,Concern Language,Abuse-focused,,2
+vulnerable to information abuse,Concern Language,Information abuse,,2
+potential for insider trading,Concern Language,Possibility language,potential for insider abuse,2
+potential for insider abuse,Concern Language,Abuse potential,,2
+opens door to insider trading,Concern Language,Enabling language,opens the door to insider trading,2
+opens the door to insider trading,Concern Language,Alternative form,,2
+creates opportunities for insider trading,Concern Language,Opportunity creation,creates opportunity for insider trading,2
+creates opportunity for insider trading,Concern Language,Singular form,,2
+facilitates insider trading,Concern Language,Facilitation language,,2
+enables insider trading,Concern Language,Enablement language,,2
+allows insider trading,Concern Language,Permission language,permits insider trading,2
+permits insider trading,Concern Language,Alternative form,,2
+lack of safeguards against insider trading,Concern Language,Missing protection,lack of protection against insider trading,2
+lack of protection against insider trading,Concern Language,Alternative form,,2
+inadequate protections against insider trading,Concern Language,Insufficient protection,,2
+insufficient controls against insider trading,Concern Language,Insufficient controls,insufficient safeguards against insider trading,2
+insufficient safeguards against insider trading,Concern Language,Alternative form,,2
+no barriers to insider trading,Concern Language,Absence of barriers,,2
+no protections against insider trading,Concern Language,Absence of protection,no safeguards against insider trading,2
+no safeguards against insider trading,Concern Language,Alternative form,,2
+unlike traditional securities markets,Concern Language,Comparative concern,"unlike securities markets,unlike stock markets",2
+unlike securities markets,Concern Language,Alternative form,,2
+unlike stock markets,Concern Language,Alternative form,unlike equity markets,2
+unlike equity markets,Concern Language,Alternative form,,2
+without SEC oversight,Concern Language,Regulatory gap,,2
+without securities regulation,Concern Language,Lack of regulation,without insider trading rules,2
+without insider trading rules,Concern Language,Missing rules,,2
+absence of regulation,Concern Language,No regulation,absence of insider trading regulation,2
+absence of insider trading regulation,Concern Language,Specific to insider trading,,2
+less regulated than stock markets,Concern Language,Regulatory comparison,less regulated than securities markets,2
+less regulated than securities markets,Concern Language,Alternative form,,2
+weaker protections than equity markets,Concern Language,Protection comparison,weaker protections than securities markets,2
+weaker protections than securities markets,Concern Language,Alternative form,,2
+more vulnerable than traditional exchanges,Concern Language,Vulnerability comparison,more vulnerable than securities markets,2
+more vulnerable than securities markets,Concern Language,Alternative form,,2
+no insider trading prohibitions,Concern Language,Absence of prohibition,lack of insider trading prohibitions,2
+lack of insider trading prohibitions,Concern Language,Alternative form,,2
+someone could trade on inside information,Concern Language,Hypothetical concern,,2
+what if someone trades on inside information,Concern Language,Question form,,2
+what prevents insider trading,Concern Language,Challenge question,,2
+nothing prevents insider trading,Concern Language,Absence of prevention,"nothing stops insider trading,nothing prohibits insider trading",2
+nothing stops insider trading,Concern Language,Alternative form,,2
+nothing prohibits insider trading,Concern Language,Alternative form,,2
+a person with knowledge could,Concern Language,Hypothetical actor,,2
+an insider could,Concern Language,Insider hypothetical,,2
+those with access could,Concern Language,Access-based hypothetical,,2
+imagine if someone had inside information,Concern Language,Imagination prompt,,2
+consider if insiders traded,Concern Language,Consideration prompt,,2
+suppose someone had advance knowledge,Concern Language,Supposition,,2
+insider trading surveillance,Regulatory Terms,Monitoring system,surveillance for insider trading,2.5
+surveillance for insider trading,Regulatory Terms,Alternative form,,2.5
+monitoring for insider trading,Regulatory Terms,Monitoring language,,2.5
+detection of insider trading,Regulatory Terms,Detection system,insider trading detection,2.5
+insider trading detection,Regulatory Terms,Alternative form,,2.5
+enforcement of insider trading rules,Regulatory Terms,Rule enforcement,insider trading enforcement,2.5
+insider trading enforcement,Regulatory Terms,Alternative form,,2.5
+prohibition on insider trading,Regulatory Terms,Prohibition language,prohibition of insider trading,2.5
+prohibition of insider trading,Regulatory Terms,Alternative form,,2.5
+ban on insider trading,Regulatory Terms,Ban language,insider trading ban,2.5
+insider trading ban,Regulatory Terms,Alternative form,,2.5
+insider trading rules,Regulatory Terms,Rules framework,insider trading regulations,2.5
+insider trading regulations,Regulatory Terms,Regulations framework,,2.5
+insider trading policies,Regulatory Terms,Policy framework,,2.5
+trading restrictions,Regulatory Terms,General restrictions,trading prohibitions,2.5
+trading prohibitions,Regulatory Terms,Prohibition language,,2.5
+information barriers,Regulatory Terms,Structural control,,2.5
+pre-clearance requirements,Regulatory Terms,Approval process,pre-clearance for trading,2.5
+pre-clearance for trading,Regulatory Terms,Trading-specific,,2.5
+blackout periods,Regulatory Terms,Restricted timeframes,trading blackout periods,2.5
+trading blackout periods,Regulatory Terms,Trading-specific,,2.5
+cooling-off periods,Regulatory Terms,Waiting periods,,2.5
+restricted periods,Regulatory Terms,Limitation periods,restricted trading periods,2.5
+restricted trading periods,Regulatory Terms,Trading-specific,,2.5
+trading windows,Regulatory Terms,Permitted periods,permitted trading windows,2.5
+permitted trading windows,Regulatory Terms,More specific,,2.5
+violation of insider trading laws,Regulatory Terms,Legal violation,violation of insider trading rules,2.5
+violation of insider trading rules,Regulatory Terms,Rule violation,,2.5
+breach of insider trading rules,Regulatory Terms,Rule breach,,2.5
+insider trading violation,Regulatory Terms,Singular violation,insider trading violations,2.5
+insider trading violations,Regulatory Terms,Plural violations,,2.5
+insider trading offense,Regulatory Terms,Criminal term,insider trading offenses,2.5
+insider trading offenses,Regulatory Terms,Plural offenses,,2.5
+civil penalties for insider trading,Regulatory Terms,Civil enforcement,,2.5
+criminal penalties for insider trading,Regulatory Terms,Criminal enforcement,,2.5
+disgorgement,Regulatory Terms,Requires insider trading context,,2.5
+sanctions for insider trading,Regulatory Terms,Penalty language,,2.5
+enforcement actions for insider trading,Regulatory Terms,Enforcement proceedings,,2.5
+prosecution for insider trading,Regulatory Terms,Criminal prosecution,,2.5
+insider trading safeguards,Safeguards,Protection measures,safeguards against insider trading,2
+safeguards against insider trading,Safeguards,Alternative form,,2
+protections against insider trading,Safeguards,Protection language,,2
+controls against insider trading,Safeguards,Control measures,controls to prevent insider trading,2
+controls to prevent insider trading,Safeguards,Prevention-focused,,2
+compliance measures for insider trading,Safeguards,Compliance framework,,2
+monitoring systems for insider trading,Safeguards,System monitoring,,2
+surveillance systems for insider trading,Safeguards,Surveillance framework,,2
+detection mechanisms for insider trading,Safeguards,Detection systems,,2
+chinese walls,Safeguards,Information barriers - note capitalization,Chinese walls,2
+Chinese walls,Safeguards,Capitalized form,,2
+information barriers,Safeguards,Barrier systems,ethical walls,2
+ethical walls,Safeguards,Alternative term,,2
+firewalls,Safeguards,Requires information context,,2
+restricted lists,Safeguards,Trading restrictions,,2
+watch lists,Safeguards,Monitoring lists - requires trading context,,2
+no safeguards against insider trading,Safeguards,NEGATIVE - Absence of safeguards,,2
+lack of safeguards,Safeguards,NEGATIVE - Missing safeguards,,2
+lack of protection against insider trading,Safeguards,NEGATIVE - Missing protection,,2
+absence of controls,Safeguards,NEGATIVE - No controls,absence of insider trading controls,2
+absence of insider trading controls,Safeguards,NEGATIVE - Specific absence,,2
+missing protections,Safeguards,NEGATIVE - Lacking protections,,2
+inadequate safeguards,Safeguards,NEGATIVE - Insufficient safeguards,,2
+insufficient monitoring,Safeguards,NEGATIVE - Inadequate monitoring,insufficient surveillance,2
+insufficient surveillance,Safeguards,NEGATIVE - Inadequate surveillance,,2
+no oversight for insider trading,Safeguards,NEGATIVE - Missing oversight,lack of oversight,2
+lack of oversight,Safeguards,NEGATIVE - Absence of oversight,,2
+unmonitored trading,Safeguards,NEGATIVE - No monitoring,,2
+unregulated trading,Safeguards,NEGATIVE - No regulation,,2
+no enforcement mechanism,Safeguards,NEGATIVE - Missing enforcement,,2
+weak enforcement,Safeguards,NEGATIVE - Inadequate enforcement,,2
+no risk of insider trading,Denial Patterns,DISMISSIVE - Track separately,,0
+insider trading is not a concern,Denial Patterns,DISMISSIVE - Track separately,,0
+insider trading is not an issue,Denial Patterns,DISMISSIVE - Track separately,,0
+insider trading is not a problem,Denial Patterns,DISMISSIVE - Track separately,,0
+insider trading is not relevant,Denial Patterns,DISMISSIVE - Track separately,,0
+different from securities,Denial Patterns,DISMISSIVE - Distinction argument,,0
+not securities,Denial Patterns,DISMISSIVE - Classification argument,,0
+not subject to securities laws,Denial Patterns,DISMISSIVE - Jurisdiction argument,,0
+information is public,Denial Patterns,DISMISSIVE - Public info claim,information is already public,0
+information is already public,Denial Patterns,DISMISSIVE - Alternative form,,0
+no material non-public information,Denial Patterns,DISMISSIVE - No MNPI claim,no MNPI,0
+no MNPI,Denial Patterns,DISMISSIVE - Acronym form,,0
+everyone has equal access,Denial Patterns,DISMISSIVE - Equal access claim,equal access for all,0
+equal access for all,Denial Patterns,DISMISSIVE - Alternative form,,0
+level playing field,Denial Patterns,DISMISSIVE when used defensively - Context check needed,,0
+not insider trading,Denial Patterns,DISMISSIVE - Definitional denial,,0
+does not constitute insider trading,Denial Patterns,DISMISSIVE - Legal distinction,,0
+would not be insider trading,Denial Patterns,DISMISSIVE - Hypothetical denial,,0
+less of a concern than in securities markets,Denial Patterns,DISMISSIVE - Minimization,,0
+not as serious as securities insider trading,Denial Patterns,DISMISSIVE - Severity minimization,,0
+different type of information,Denial Patterns,DISMISSIVE - Information distinction,,0
+information is not material,Denial Patterns,DISMISSIVE - Materiality denial,,0
+information is not non-public,Denial Patterns,DISMISSIVE - Public status claim,,0
+participants are sophisticated,Denial Patterns,DISMISSIVE - Sophistication defense,,0
+self-correcting market,Denial Patterns,DISMISSIVE - Market efficiency claim,,0
+market mechanisms prevent abuse,Denial Patterns,DISMISSIVE - Self-regulation claim,,0

@@ -1,0 +1,46 @@
+August 8, 2024
+
+## BY ELECTRONIC SUBMISSION
+
+Mr. Christopher Kirkpatrick Secretary of the Commission Commodity Futures Trading Commission Three Lafayette Centre 1155 21st Street, NW Washington, DC 20581
+
+Re: Comments on the Proposed Amendments to Event Contract Rules, CFTC Regulation 40.11 (RIN 3038-AD54) (the 'Proposed Rule')
+
+Dear Secretary Kirkpatrick,
+
+Dragonfly  Digital  Management,  LLC  ('Dragonfly')  respectfully  requests  the  opportunity  to comment  on  the  Commodity  Futures  Trading  Commission's  ('CFTC'  or  the  'Commission') proposed amendments to regulation 40.11, which aim to further specify the types of event contracts that are contrary to the public interest.  Respectfully, we offer the following comments on the Proposed Rule.
+
+We  commend  the  CFTC's  efforts  to  provide  clarity  regarding  event  contracts  under  the Commodity Exchange Act ('CEA') Section 5c(c)(5)(C).  However, we urge the Commission to reconsider the extent of its interpretive authority in light of the recent Supreme Court decision in Loper Bright Enterprises v. Raimondo (Loper Bright Enterprises et. al. v. Raimondo, Secretary of Commerce, et. al. , No. 22-451 603 U.S. ___, (June 28, 2024).
+) , which overturned the Chevron Doctrine.
+
+## IMPACT OF CHEVRON OVERTURN ON GOVERNMENT AGENCIES
+
+The Supreme Court's ruling in Loper Bright fundamentally alters the legal landscape in which the CFTC operates. The Court held that matters of statutory interpretation are to be resolved de novo by the judiciary, thereby eliminating the presumption of deference that agencies like the CFTC previously enjoyed under Chevron U.S.A., Inc. v. Natural Resources Defense Council, Inc. (Chevron U.S.A., Inc. v. Natural Resources Defense Council, Inc. et al. , 467 U.S. 837 (1984).) Courts must now use 'traditional tools of statutory construction' to determine the 'best reading' of a statute  and  ensure  the  agency's  action  aligns  with  it.    While  an  agency's  opinion  can  still  be considered  if  found  to  be  persuasive,  any  ambiguities  in  statutes  must  now  be  addressed  by Congress rather than agency interpretations.  This shift necessitates that an agency's interpretations
+
+align closely with the statutory text and legislative intent of the relevant statute.  This is what is required of the CFTC in relation to the CEA vis-à-vis the Proposed Rule.
+
+## THE PROPOSED RULE EXCEEDS THE AGENCY'S STATUTORY AUTHORITY AND REQUIRES JUDICIAL REVIEW
+
+In this context, the Proposed Rule's categorical rejection of event contracts betting on election results as "contrary to the public interest' (equating them with illicit contracts on war, terrorism, and assassination) demands a thorough review by the courts.  Specifically, our concerns are the following:
+
+1. Definition  of  'Gaming:' The  Proposed  Rule  seeks  to  define  'gaming'  under  CEA Section 5c(c)(5)(C) as 'the staking or risking by any person of something of value upon: (i) the outcome of a contest of others, (ii) the outcome of a game involving skill or chance, (iii) the performance of one or more competitors in one or more contests or games, or (iv) any  other  occurrence  or  non-occurrence  in  connection  with  one  or  more  contests  or games.' (Event Contracts, 89 Fed. Reg. 48968 (June 10, 2024) at 48974.) The Commission has made clear this definition would include political contests, and in its view, an election-related event contract would be contrary to the public interest.
+
+We disagree with that perspective.  Political event contracts should not be equated with gambling on games of chance like the Super Bowl.  Rather, elections have significant economic  implications.    These  contracts  were  designed  to  serve  crucial  risk  hedging functions, aligning with the requirements of the CEA, and offer valuable predictive data to the public.  For these reasons, they should not be considered contrary to the public interest. Furthermore,  the  Proposed  Rule  exceeds  the  CFTC's  purview  by  partially  regulating election-related issues in violation of the Administrative Procedure Act (the 'APA'). (5 U.S.C. § 706(2)(A), (C).)
+
+2. Public  Interest  Determination: The  CFTC's  categorical  determination  that  election event  contracts  are  contrary  to  the  public  interest  must  be  re-evaluated  in  light  of  the Supreme Court's ruling in Loper .  The statutory language of the CEA does not explicitly preclude all such contracts, and thus, each category should be examined with a nuanced understanding of its potential benefits and risks.  Instead of responsibly regulating these new markets, the Commission plans to ban a broad range of them.  A blanket ban on certain event contracts misinterprets the CEA,  which  requires a two-step process: first, determining if a contract involves an enumerated activity, and second, assessing whether it  is  contrary to the public interest.  The Proposed Rule bypasses this two-step process. Financial regulation should rely on data and law, not uninformed preconceptions. (7 U.S.C. § 7a-2(c)(5)(C).)
+
+Such  sweeping  prohibitions  create  uncertainty  and  drive  individuals needing  risk management  tools  to  offshore,  unregulated  venues,  exposing  consumers  to  harm. Moreover, the United States risks falling behind other countries.  The Proposed Rule bans most event contracts without (i) reviewing their specific terms, (ii) understanding their hedging utility, or (iii) evaluating the merits of prediction markets as innovative platforms that promote democratic values.
+
+3. Judicial  Interpretation: Given  that  the  courts  are  now  the  final  arbiters  of  statutory interpretation with the overturning of the Chevron Doctrine, the CFTC must ensure that its regulations are defensible under judicial scrutiny.  This includes providing clear, evidencebased justifications for why certain event contracts should be prohibited and demonstrating how such prohibitions align with the CEA's intent and objectives.   The CFTC is neither a gambling nor an election regulator and is not equipped to regulate this market; whether the CFTC has jurisdiction over election events contracts requires a court's determination.  As such,  we  recommend  that  the  Commission  wait  for  the  conclusion  of  the  lawsuit  with Kalshi (KalshiEX LLC v. Commodity Futures Trading Commission , No.1:23-cv-03257 (D.D.C.).) so that a judge can properly rule on statutory interpretation.
+
+* * * *
+
+Thank you for your attention in considering our perspectives on the Proposed Rule.  We welcome discussing our comments with the CFTC and its staff.
+
+Yours sincerely,
+
+## Jessica Furr
+Jessica Furr Associate General Counsel
+
+## Bryan Edelman
+Bryan Edelman Associate General Counsel

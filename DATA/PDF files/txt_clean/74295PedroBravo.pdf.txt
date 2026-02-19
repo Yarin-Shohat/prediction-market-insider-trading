@@ -1,0 +1,16 @@
+Dear CFTC,
+
+My name is Pedro Bravo, and I am a recent graduate of Wake Forest University, where I studied Economics and Computer Science. During my time there, I had the opportunity to take an economics class on prediction markets (ECN 345) with Dr. Koleman Strumpf. This class opened my eyes to the utility of prediction markets, demonstrating their unique ability to distill information and gauge market sentiment in ways traditional polls often cannot. Research by economists like Dr. Strumpf and Dr. Justin Wolfers has shown that prediction markets can provide remarkably accurate forecasts of future events by aggregating diverse opinions.
+
+The insights I gained from prediction markets proved invaluable during my job interviews as a senior in college, ultimately helping me secure a position as an equity research analyst-a role I am passionate about. These markets, like all financial markets, are not without their challenges; they can attract gamblers driven by addiction and individuals who attempt to exploit inside information. However, the benefits they offer are unparalleled.
+
+When I seek insights into the future federal funds rate, I turn to prediction markets instead of relying solely on potentially flawed analyst predictions. Similarly, to gauge the likely outcome of an election, I look to platforms like PredictIt. Although prediction markets are not infallible such as their performance during the 2016 presidential election-they are often more accurate than alternative forecasting methods.
+
+In summary, prediction markets are a powerful tool for understanding and anticipating the outcomes of various events, and their role in providing actionable insights is invaluable. Additionally I have listed some research papers that I believe can be extremely helpful to the CFTC in making their decisions.
+
+https://www.aeaweb.org/articles?id=10.1257/0895330041371277
+https://www.econstor.eu/bitstream/10419/262583/1/wp181.pdf
+file:///C:/Users/pedro/Downloads/w6634g725.pdf
+
+Best,
+-Pedro Bravo

@@ -1,0 +1,232 @@
+## IN THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA
+
+KALSHIEX LLC, Plaintiff, 
+594 Broadway, New York, NY 10012,
+v.
+COMMODITY FUTURES TRADING COMMISSION, 1155 21st St NW, Washington, DC 20581,
+Defendant.
+
+## INTRODUCTION
+
+1. This action challenges a final order by the Commodity Futures Trading Commission (CFTC or Commission) prohibiting Plaintiff KalshiEX LLC (Kalshi) from offering certain event contracts for trading on its federally regulated exchange.  The Commission's order (Order) exceeds its  statutory  authority  under  the  Commodity Exchange Act (CEA), 7 U.S.C. § 1 et seq. , and is arbitrary, capricious, and otherwise contrary to law.  This Court should therefore vacate it.
+
+2. Event contracts are financial instruments that entitle a purchaser to payment based on the occurrence or non-occurrence of a real-world event.  Like other derivatives, they are used as a tool to mitigate risk.  For example, consider a yes/no contract on whether a major hurricane will make landfall on the Gulf Coast.  A hotel chain might acquire 'yes' contracts as a hedge against closed beaches.  Conversely, a construction firm focused on storm repair work might buy 'no' positions as a hedge against lost revenue.  If a major hurricane does hit, the hotel chain will receive a payout; if not, the construction company will.  Each has hedged its risks.
+
+3. This case involves event contracts based on political events, meaning those relating to the composition or activities of government.  Political events carry enormous financial implications for businesses and individuals.  Will Congress pass funding legislation before an impending shutdown?  Will the EPA promulgate a new limit on tailpipe emissions?  Will the Federal Reserve cut interest rates by the end of the year?  Those are real examples of event contracts offered in the market, by Kalshi and others.  For good reason: Uncertainty surrounding these events poses economic risk, no less than uncertainty over hurricanes, pandemics, or oil supply.
+
+4. Beyond their economic hedging benefits, political event contracts serve the interests of the public by harnessing the unparalleled power of free markets to produce  high-quality,  dynamic  predictive  data.    They  offer  the  public  a  unique window into traders' perceptions of future political developments.  Commentators and media thus often cite-alongside polling data-prediction market data, including from two institutions that offer contracts based on the results of elections: PredictIt and the University of Iowa's Iowa Electronic Markets (IEM) platform.
+
+5. Under the CEA, exchanges registered and regulated by the CFTC may list event contracts for trading by the public.  Congress made the judgment that these derivatives should be presumptively permissible.  The CFTC is empowered to prohibit event contracts only if they (1) 'involve' illegal activity, terrorism, assassination, war, gaming, or a 'similar activity' that the CFTC determines by rule or regulation to be contrary  to  the  public  interest,  and  (2)  are  determined  by  the  Commission  to  be 'contrary to the public interest.'  7 U.S.C. § 7a-2(c)(5)(C).
+
+6. Kalshi operates a regulated exchange that allows members of the public to trade event contracts.  Its mission is to create opportunities for individuals and small businesses to hedge risk in ways previously available only to large corporations using bespoke products designed by investment banks.
+
+7. In June 2023, Kalshi sought to list contracts contingent on whether a particular party will control the House of Representatives or Senate as of a particular date (Congressional Control Contracts).  Those contracts do not involve unlawful acts, terrorism, assassination, war, or gaming.  The CFTC thus has no power to prohibit them.  Nor are they in any way contrary to the public interest.  Congressional Control Contracts would enable hedging against economic risks associated with one party's control of Congress.  And their fluctuating prices would provide useful predictive data to the public.  Hundreds of public comments-from noted academics, real business owners, and former CFTC officials, among others-explained all of this.
+
+8. The  CFTC  blocked  Kalshi's  contracts  anyway.    It  reasoned  that  the statute empowers it to ban event contracts whenever the act of trading on the contract would amount  to one  of  the  enumerated  activities-not  merely  when  the event underlying the contract involves such an activity.  Trading on a contract that depends on the result of an election, the Commission continued, amounts to 'gaming' and may also violate some state gambling laws, because it stakes money on a contingent event. Having found the Congressional Control Contracts subject to public-interest scrutiny, the CFTC concluded that the contracts fail it, because they supposedly would further no 'economic purpose' while threatening election integrity.
+
+9. The Order's analysis fails at every step.  It contorts and misapplies the CEA's text, ignores its structure and purpose, allows a narrow exception to swallow the rule, and engages in faulty and unsupported reasoning.
+
+10. To start, the Commission's 'amounts to' test bungles the statute's text. Trading an event contract can never amount to terrorism, assassination, or warfare. Accordingly, the only way to make sense of the provision as a whole is to read the CEA's reference to contracts that 'involve' those activities as focused on the contract's underlying event .  For example, the Commission may prohibit a contract contingent on  whether  the  President  will  be  assassinated,  because  the  contract's  underlying event involves an assassination, and the CFTC may reasonably determine that it would be contrary to the public interest for a contract to pay out if the President is assassinated.  On that common-sense reading, the Congressional Control Contracts are not subject to public-interest review, because partisan control of a congressional chamber involves neither 'gaming' nor 'unlawful' activity.
+
+11. On its flawed reading of 'involve,' however, the Commission found that buying a  Congressional  Control  Contract  would  amount  to  'gaming'  or  gambling prohibited by state law because purchasers would stake money on a contingent event, which some states define as gambling.  But buying one of these contracts is nothing like betting on a game of chance or even the Super Bowl.  Elections are not a game; they have real economic consequences.  Nor did Congress implicitly empower 50 state legislatures to ban event contracts through the backdoor; just the opposite, Congress gave the CFTC exclusive jurisdiction and preempted contrary state law.
+
+12. The Commission's interpretations of 'involve,' 'gaming,' and 'unlawful' cause the CEA's narrow exceptions to swallow its general rule.  If the CFTC may ban any event contract so long as buying or selling that contract would amount to illegal 'gaming,' and if illegal gaming includes staking money on any contingency, the CFTC could prohibit any event contract based solely on its view of the public interest.  Had Congress intended to confer such sweeping authority on the CFTC, it would have said so.    Instead,  it  authorized  the  Commission  to  undertake  public-interest  review  of event contracts only if they fall into one of the enumerated categories.
+
+13. The  CFTC's  public-interest  analysis-which  it  had  no  authority  to conduct in the first place-is just as flawed as its statutory construction.  Applying an  invented  'economic  purpose'  test,  the  Commission  dismissed  comments  from economists, investment bankers, and real business owners, all of whom identified demonstrable hedging benefits associated with the Congressional Control Contracts. The Commission instead improvised heightened requirements that fundamentally misunderstand how risk hedging works-and then ignored the evidence that Kalshi's proposed contracts meet even those requirements.  It likewise ignored the established price-basing  function  of  these  contracts.    And  it  followed  up  with  unfounded  and implausible speculation about election integrity, as if businesses and individuals did not already have significant economic exposure to electoral outcomes.  Much of the CFTC's public-interest reasoning would equally condemn most event contracts.  Once again,  that  approach  is  fundamentally  irreconcilable  with  the  statute  Congress enacted.
+
+14. At bottom, it is undeniable that election outcomes have consequences for everyone;  they  play  a  pivotal  role  in  determining  our  collective  future.    Allowing people to trade safely on election outcomes will give them the freedom to protect their financial interests.  A legitimate market will also yield more credible and transparent election forecasting, especially relative to the bias of polling.  Election markets offer transparency, clarity, and truth-equipping Americans to filter out the noise and the nonsense, and empowering  them  to  make  informed decisions and navigate uncertainties.  Trustworthy election forecasts, rooted in enabling people to put their money where their mouth is, are not just valuable; they are essential.  And they are most certainly lawful.  Kalshi has built the protective rails to comply with U.S. law. It expects the Commission to comply too.
+
+15. Instead, the Order is an unlawful agency power grab that corrupts and dramatically  expands  the  Commission's  statutory  mandate.    In  rejecting  Kalshi's event contracts, the CFTC exceeded its lawful authority and engaged in arbitrary and capricious  reasoning.    This  Court  should  therefore  set  aside  the  Order  under  the Administrative Procedure Act (APA), and declare that Kalshi is entitled by law to list the Congressional Control Contracts on its regulated exchange.
+
+## PARTIES
+
+16. Kalshi  is  a  financial  services  company  with  its  principal  place  of business in New York.  Kalshi operates a federally regulated derivatives exchange that allows the public to buy and sell event contracts.
+
+17. Defendant CFTC is a federal agency that regulates derivatives markets, including for event contracts.  The CFTC is headquartered in this district.
+
+## JURISDICTION AND VENUE
+
+18. This Court has jurisdiction pursuant to 28 U.S.C. § 1331, because this case arises under the APA, 5 U.S.C. §§ 703-06.
+
+19. Sovereign immunity poses no bar to this action. See 5 U.S.C. § 702.
+
+20. Venue is proper under 28 U.S.C. § 1391(e), because the CFTC resides in this district.
+
+## FACTUAL ALLEGATIONS
+
+## A. Event Contracts Are Established Tools for Hedging Risks.
+
+21. Many  derivatives  contracts  are  tools  to  mitigate  risk,  including  risk associated with the occurrence of events.  Event contracts are the purest expression of  that  concept.    They  are  financial  instruments  that  specify  a  future  event  with different  potential  outcomes,  a  payment  structure  for  those  outcomes,  and  a  date when the contract expires.  These contracts typically center on a yes-or-no question e.g. , whether the Federal Reserve will cut its target federal funds rate range before a certain date, or whether 30-year mortgage rates will exceed 8% by a certain date.
+
+22. An event contract can typically be bought or sold at a price between 1¢ and 99¢.  Every transaction has a counterpartyi.e. , every 'yes' position corresponds to a 'no' position.  At the contract's expiration, it will be worth $1 if the underlying event occurs, and $0 if it does not.  Until that datei.e. , while it remains uncertain whether  the  underlying  event  will  transpire-the  contract's  price  will  fluctuate. Event contracts trade on a centralized exchange, similar to a stock market.  Their prices are determined by market forces, not by the exchange.  Traders can buy and sell a contract at any time before its expiration.
+
+23. As in other markets, traders arrive at prices for event contracts based on all available information at the time.  If new information arises related to the likelihood of an event, the price of a contract contingent on that event will change. As a result, the market prices of event contracts reflect real-time probabilistic beliefs about whether the underlying event will occur.  For example, if a 'yes' contract on a government shutdown occurrence is trading for 60¢ (and thus the corresponding 'no' position is trading for 40¢), that means the market currently believes there is a 60% chance the shutdown will occur (and a 40% chance that it will not).
+
+24. Event contracts give traders direct exposure to the outcome of real-world events with economic ramifications.  No other instrument perfectly captures the risks inherent in the occurrence or non-occurrence of an event.  For example, a trader can use a futures contract on the S&P 500 stock index to take a position on whether the economy will grow generally.  But that contract would be a very imprecise way of addressing  whether  the  next  GDP  report  will  identify  economic  growth  above  a certain level.  Only an event contract on the next GDP announcement would do that.
+
+25. Like other forms of derivatives, event contracts thus allow businesses and individuals to hedge against risks.  For example, a beachfront property owner in a city might buy contracts predicting that a hurricane will hit that city, because the payout could offset economic losses the owner is more likely to incur if a hurricane hits.  Or a firm in a regulated industry might buy contracts predicting that a very aggressive nominee will be confirmed as its lead regulator, to help mitigate the risks associated with that official's adverse regulatory agenda.
+
+26. Event contracts are distinct from insurance.  The property owner in the example above could buy insurance to cover actual property losses, including from a hurricane.  An event contract would instead hedge the diffuse risk of losses associated with  a  hurricane,  including  property  damage,  a  decline  in  Airbnb  revenues,  and higher costs of food and water.  Meanwhile, the regulated firm might be able to buy insurance for the cost of legal defense, but an event contract would directly hedge the manifold risks associated with a hostile regulator.
+
+27. Beyond  economic  benefits  to  traders,  event  contracts  also  generate informational value for the public, as their prices can be understood as a collective prediction by the market.  The expectations and willingness of traders to put their money on the line form the price, which reflects the market's view of the odds that an event will occur.  Prediction markets therefore serve as high-powered (and highly effective) information-aggregation tools, generating crucial insights for researchers, businesses, individuals, and governments.  And the resulting data about the market's perception of the event's likelihood can be used, in turn, to determine prices for assets whose value depends on the occurrence or non-occurrence of the underlying event.
+
+## B. Political  Event  Contracts  Allow  for  Hedging  of  Political  Risk  and Aggregation of Useful Predictive Data.
+
+28. Politics-no less than agriculture, weather, or inflation-is beset with uncertainty.  And given the many ways in which governments influence the economy, political events can have just as profound an effect on a firm's bottom-line as spikes in energy prices or interest rates.  Businesses and individuals thus have good reason to use derivatives to hedge political risks, just as they hedge other risks.  And no financial instrument is better suited to hedge risks associated with political events than contracts that reference the events themselves.
+
+29. Indeed,  Kalshi  has  offered  event  contracts  based  on  whether  certain legislation  would  be  enacted,  whether  certain  presidential  nominees  would  be confirmed by the Senate, and whether the federal government would shut down-all of  which are political events that carry obvious economic repercussions for a wide range of businesses and individuals.
+
+30. Like other political events, election outcomes have vast consequences for businesses and individuals.  To quote Harvard University Professor Jason Furman, the former Chairman of the Council of Economic Advisors under President Obama: 'Congressional control impacts legislation, policy, and the business environment in ways that have direct economic consequence to businesses and workers.  This risk is conceptually identical to climate risk, business interruption risk, and other similar risks that can and should be managed using the financial markets.'
+
+31. Large financial institutions already design bespoke derivatives for large corporate  customers  to  hedge  against  these  risks.    They  used  complex  structured products to prepare  for  risks  associated  with  Brexit,  the  2016  election,  and  other world-changing political events.  Event contracts on regulated exchanges like Kalshi's offer the same opportunities to smaller enterprises and individuals.
+
+32. Political event contracts also have other benefits.  Researchers, public organizations, businesses, and governments continuously seek information about the likelihood of future political events.  Among other things, that information helps to determine prices for assets that are exposed to political risk.  But traditional opinion polls  and  other  methods  of  measuring  public  attitudes  often  cannot  replicate  the robustness,  flexibility,  or  neutrality  of  market-based  indicia.    That  is  why  media outlets  routinely  rely  on  political  event  marketplaces  when  reporting  on  political developments.
+
+33. Indeed, political event markets are already widespread.  The best known example, PredictIt, 'is a futures market for politics' that allows trading on electoral outcomes. Clarke v. CFTC , 74 F.4th 627, 633 (5th Cir. 2023).  CFTC staff have long permitted it to operate under a no-action letter; the Fifth Circuit recently enjoined the Commission's effort to retract that authorization. Id. at 633-44.  The University of Iowa's IEM platform is another well-known market for political event contracts. Created before the 1988 presidential election, the IEM is a derivatives market where contract payoffs are based on real-world events, including political outcomes.  The CFTC has permitted the IEM to offer political event contracts for decades too.
+
+34. Political election markets have also existed for decades or longer in the United Kingdom, and are widespread in other democracies.  Indeed, in Canada and elsewhere, one can take positions on the outcome of elections in the United States.
+
+35. Of course, there are also unregulated, illegal markets providing similar services online and offshore.  Those illicit markets lack the safeguards and oversight that traders enjoy on CFTC-regulated exchanges like Kalshi's.
+
+## C. Congress Permits Regulated Markets To List Event Contracts, Subject to a Narrow List of Exceptions.
+
+36. Under  federal  law,  '[e]vent  contracts'  are  'agreements,  contracts, transactions, or swaps in excluded commodities.'  7 U.S.C. § 7a-2(c)(5)(C)(ii).  While agricultural products like ' wheat, cotton, rice, corn, oats,' etc., are the most familiar commodities, the CEA also defines 'excluded commodities' to include interest rates, certain financial instruments, economic indices, and risk metrics. Id . § 1a(9), (19)(i)(iii).
+
+37. Relevant  here,  'excluded  commodities'  also  include events -in  the statutory parlance, any 'occurrence, extent of an occurrence, or contingency' that is 'beyond the  control  of  the  parties  to  the  relevant  contract'  and  'associated  with' economic consequences. Id. § 1a(19)(iv). Accordingly, event contracts are defined and regulated as swaps in excluded commodities. See id. § 1a(47)(A)(ii), (iv), (vi).
+
+38. An  entity  must  seek  and  receive  the  Commission's  designation  as  a contract market to offer such derivatives for public trading. Id. §§ 2(e), 7(a); 17 C.F.R. § 38.100.  The Commission has 'exclusive jurisdiction' over those derivatives that are traded on regulated markets.  7 U.S.C. § 2(a)(1)(A).
+
+39. A regulated exchange is subject to comprehensive CFTC oversight and must  comply  with  numerous  requirements  governing  recordkeeping,  reporting, liquidity,  system  safeguards,  conflicts  of  interest,  disciplinary  procedures,  market surveillance, compliance resources, and more. Id . § 7(d); 17 C.F.R. pt. 38.
+
+40. A regulated exchange may generally list an event contract without the Commission's pre-approval by self-certifying the contract's compliance in a filing with the Commission, and the Commission may choose to initiate a review. See 7 U.S.C. § 7a-2(c)(1); 17 C.F.R. §§ 40.2(a), 40.11(c).  Alternatively, a market may submit a new contract  to  the  agency  for  advance  review.    7  U.S.C.  §  7a-2(c)(4)(A);  17  C.F.R. §§ 40.3(a), 40.11(c).
+
+41. Either way, the Commission 'shall approve' any event contract that it reviews unless it  affirmatively  finds  that  the  contract  violates  the  CEA  or  CFTC regulations.  7 U.S.C. § 7a-2(c)(5)(B); 17 C.F.R. § 40.3(b).
+
+42. In 2010, Congress amended the CEA to prohibit the listing of certain event contracts 'determined by the Commission to be contrary to the public interest.' 7 U.S.C. § 7a-2(c)(5)(C)(ii).  But the Commission's authority in this regard is limited. It 'may determine' that an event contract is contrary to the public interest only if the contract 'involve[s]' one of six enumerated activities: 'activity that is unlawful under any Federal or State law,' 'terrorism,' 'assassination,' 'war,' 'gaming,' or 'other similar activity determined by the Commission, by rule or regulation, to be contrary to the public interest.' Id. § 7a-2(c)(5)(C)(i).  The Commission cannot undertake any public-interest review unless the contract involves one of the enumerated activities.
+
+43. The process for reviewing event contracts therefore proceeds in two basic steps: First , the Commission determines whether the contract 'involves' one of the six enumerated 'activit[ies].' Id. § 7a-2(c)(5)(C).  If not, the contract may be listedperiod. Second ,  if  the  contract does 'involve'  a  listed  activity,  the  CFTC  'may determine' that it is 'contrary to the public interest,' and bar its listing. Id.
+
+44. For example, a contract that entitles the buyer to payment if a terrorist group  carries  out  an  attack  on  U.S.  soil  would  'involve  …  terrorism.' Id. § 7a2(c)(5)(C)(i)(II).  A contract contingent on whether the President will be assassinated would 'involve … assassination.' Id. § 7a-2(c)(5)(C)(i)(III).  And one contingent on the progress of Russian forces against a Ukrainian target would 'involve … war.' Id. § 7a-2(c)(5)(C)(i)(IV).  The CFTC would be empowered to review those contracts to determine whether they are 'contrary to the public interest,' and to block them if it concludes that they are. Id. § 7a-2(c)(5)(C)(ii).  Although those examples may sound far-fetched, foreign websites are currently offering contracts on, among other things, 'Will a nuclear bomb explode in Ukraine in 2023?'  Congress thus had good reason to provide the CFTC with a means to block these dangerous contracts.
+
+45. The CFTC has promulgated an implementing regulation.  It provides that a market 'shall not list for trading' any event contract 'that involves, relates to, or references terrorism, assassination, war, gaming, or an activity that is unlawful under any State or Federal law,' or 'an activity that is similar to an [enumerated] activity … that the Commission determines, by rule or regulation, to be contrary to the public interest.'  17 C.F.R. § 40.11(a)(1)-(2).
+
+46. The Commission has not exercised its authority to determine, 'by rule or regulation,' that a contract involving any activity 'similar' to the five enumerated ones is 'contrary to the public interest.'  7 U.S.C. § 7a-2(c)(5)(C)(i)(VI).  As a result, the Commission may subject a contract to public-interest scrutiny only if it 'involves' illegal activity, terrorism, assassination, war, or gaming.
+
+47. The CEA does not authorize special scrutiny of political event contracts or those relating to elections.  Congress could have added 'elections' or 'politics' to its list of enumerated activities, but did not-despite the long history of political event markets both in the United States and around the world.
+
+## D. Kalshi Proposes To List Contracts on Congressional Control.
+
+48. Kalshi is a regulated exchange that allows people to buy and sell event contracts.    Kalshi  utilizes  its  innovative,  proprietary  technology  to  democratize investing  opportunities  for  everyone.    The  Commission  unanimously  authorized Kalshi to operate its regulated exchange in 2020.
+
+49. Contracts traded on Kalshi's market involve events that run the gamut from economics to culture, climate, public health, and transportation.  For example, traders on Kalshi's platform may buy and sell contracts based on the number of major hurricanes that will form over the Atlantic next year, or whether China's GDP growth will exceed a certain rate.
+
+50. Kalshi also lists contracts on political outcomes, such as whether the government  will  shut  down,  whether  the  debt  ceiling  will  be  lifted,  or  whether nominees will be confirmed.  Earlier this year, Kalshi sought to offer contracts-the Congressional Control Contracts-that enable participants to take positions on which political party will control the House of Representatives or the Senate on a particular future date following the 2024 federal elections.
+
+51. These are cash-settled, yes/no contracts based on the question:  'Will <chamber of Congress> be controlled by <party> for <term>?'  The contract defines control by reference to the party affiliation of the Speaker (for the House) or President Pro Tempore (for the Senate).  On settlement, those who purchased the winning side of  the  contract  receive  payment;  those  who  purchased  the  side  that  selected  the minority party receive no payment.
+
+52. To illustrate: Imagine a green-energy start-up worried that Republicans will cut subsidy programs if they gain control of the Senate in 2025.  It might hedge its risk by buying 50,000 contracts to that effect.  Of course, a Republican Senate does not make it certain the subsidies will be phased out-but it does increase the risk of that loss, and the event contracts would hedge against that risk.  If the Senate elects a Republican President Pro Tempore, the start-up would receive $50,000.  Its profit would be the difference between that payout and the price it paid for the contracts, which will reflect the market's perception of the likelihood of Republican control at the time of the purchase.
+
+53. The Congressional Control Contracts' terms prohibit trading by candidates  for  federal  or  statewide  public  office;  paid  staffers  on  congressional campaigns; paid employees of Democratic and Republican Party organizations; paid employees of PACs and Super PACs; paid employees of major polling organizations; existing  members  of  Congress;  paid  staffers  of  existing  members  of  Congress; household members and immediate family members of any of the above; and any of the above listed institutions themselves.
+
+54. On  June  12,  2023,  Kalshi  self-certified  to  the  Commission  that  its Congressional Control Contracts complied with the CEA and CFTC regulations.
+
+55. On June 23, 2023, the Commission initiated a review of the contracts by a 3-2 vote.  Announcing the review, the Commission indicated that the Congressional Control Contracts may 'involve, relate to, or reference' an activity enumerated in Rule 40.11(a).  In dissent, Commissioner Mersinger highlighted that the review was 'fundamentally unfair' and inappropriate since the contracts did 'not fall within the categories enumerated in the CEA.'  Commissioner Pham dissented too, concluding that Kalshi should 'be allowed to operate [its] political control markets.'
+
+56. During a public comment period, academics, other firms in the industry, former CFTC and SEC officials, human rights activists, and nonprofits all expressed support for the Congressional Control Contracts.  Many commenters attested that they would use the contracts to hedge risk.  Overall, the comments explained that Congressional Control Contracts and similar instruments are not merely legal -and therefore must be approved for trading-but also carry significant societal value.
+
+## E. The CFTC Issues a Flawed Order Rejecting Kalshi's Contracts.
+
+57. The CFTC disagreed.  On September 22, 2023, the CFTC issued an order prohibiting Kalshi from listing its Congressional Control Contracts.  Three members joined the Order.  One dissented.  The last Commissioner abstained, citing the recent Fifth Circuit defeat in the CFTC's litigation against PredictIt. Clarke , 74 F.4th 627. The Order and separate statements are attached as Exhibit A.
+
+58. The Order begins by reciting that 'the Commission may determine that contracts in certain excluded commodities … are contrary to the public interest if the contracts involve' any of the six enumerated activities.  Order at 3.
+
+59. The Commission found that Kalshi's Congressional Control Contracts 'involve' two enumerated activities: 'gaming' and 'unlawful' activity. See 7 U.S.C. § 7a-2(c)(5)(C)(i)(I), (V).  But, of course, the Commission did not and could not find that elections, or the selection of a Speaker or President Pro Tempore, themselves involve 'gaming' or 'unlawful' activity.  Rather, the Commission reasoned that an event contract 'involve[s]' those activities if trading in the contract would amount to 'gaming' or illegal activity. See Order at 5-7.
+
+60. The Commission then declared that buying or selling Kalshi's contracts would amount to gaming and activity that is unlawful under state law.  To reach that conclusion, the Commission relied on dictionary definitions and state statutes that broadly define illegal 'gambling' to include staking money on the outcome of any 'game, contest, or contingent event.' Id. at 8.
+
+61. Finally,  having  found  that  the  Congressional  Control  Contracts  were subject to public-interest review, the Commission determined that those contracts were 'contrary to the public interest.' Id. at 13-23.
+
+62. Every step of the Order's analysis is fatally flawed.
+
+63. First , the heart of the Commission's reasoning is its implausibly broad (and shifting) interpretation of 'involve.'  The Commission concluded that a contract 'involves' one of the enumerated activities 'if trading in the contract amounts to the enumerated activity.' Id. at  7  n.19  (emphases  added).    In  other  words,  an  event contract need not be contingent on the occurrence of an event that involves crime, a terrorist attack, an assassination, an act of war, or gaming.  Instead, a contract is subject to public-interest review and potential rejection if engaging in the transaction would amount to one of those activities.
+
+64. That  interpretation  of  'involves'  fundamentally  misunderstands  the statutory structure.  The activities enumerated in § 7a-2(c)(5)(C)(i) describe events that underlie a contract; if the event underlying a contract involves an enumerated activity, the CFTC may block it.  The enumerated activities do not describe the act of trading on the contract itself .
+
+65. That is most apparent from the fact that trading on an event contract could never constitute an act of terrorism, war, or assassination-for those activities, the focus must be on the contract's underlying event.  To justify rejection of Kalshi's contracts, the Commission therefore had to embrace a radically different meaning of the word 'involve' with respect to two (and only two) of the statute's six enumerated activities: 'gaming' and 'unlawful' acts.  For those activities alone, the theory goes, Congress referred to the act of contracting , rather than to the contract's underlying event .  That tortured approach-under which the same operative text toggles back and forth between two inconsistent meanings over five subparagraphs-is a sure sign that the Order misconstrues the CEA.
+
+66. Second ,  turning  to  the  enumerated  activities,  the  Commission  again adopted definitions that statutory context forecloses.  The Commission reasoned that 'gaming' means 'gambling,' and that 'gambling' encompasses any wager on a 'game, contest, or contingent event.' Id. at 8.  Because those who trade on Kalshi's contracts 'stak[e] something of value' on the outcome of an election, the Commission continued, that act of trading amounts to gambling-and thus, 'gaming.' Id. at 10.
+
+67. But, especially in this context, 'gaming' does not and cannot sweep that broadly.  Rather, it refers to betting on games , and especially to betting on games of chance.  An election is not a game at all, let alone the equivalent of bingo or roulette. It  is  the  foundational exercise of  democratic governance.  Unlike games, elections have independent and meaningful political and economic consequences.
+
+68. As  a  group  of  distinguished  economics  scholars  (including  a  Nobel laureate) told the CFTC in a comment letter: 'An election prediction market is no more gaming than traditional financial markets, including commodity, futures, and derivatives markets, due to the vast economic utility of the contracts.'
+
+69. The  Commission's  contrary  interpretation  fundamentally  upends  the CEA's entire approach.  After all, every event contract by definition stakes money on a contingent event.  As a result, under the Commission's reading of 'involve' and 'gaming,' no event contract would escape public-interest scrutiny.  That would render the remaining enumerated activities entirely superfluous.  And it would cause this one narrow exception to swallow the rule, flipping the statute's default by authorizing CFTC public-interest review of every event contract.
+
+70. Similarly, the Commission reasoned that trading in Kalshi's contracts would be 'unlawful under state law' because gambling on elections is illegal in some States. Id. at  11-12.    The  Commission's  'unlawful  activity'  analysis  (all  two sentences of it) fares no better than its approach to 'gaming.'
+
+71. Once again, the Commission jeopardizes the entire statutory structure, this time by giving States veto power over the federal regime.  The CEA preempts state law in this area in favor of 'exclusive' CFTC jurisdiction.  7 U.S.C. § 2(a)(1). But the Order's reasoning empowers States to trump federal law and effectively ban trading in event contracts merely by broadly defining 'gambling.'  Indeed, some state laws already forbid staking money on any contingent event. See Order at 8 n.22.  So in this respect too, the agency's interpretation-taken seriously-would shut down the entire national market in event contracts.  That is patently not what Congress intended by conferring on the CFTC targeted authority to prohibit contracts involving war, assassination, and the other tailored categories.
+
+72. In her dissent, Commissioner Mersinger pointed out yet another flaw in the Commission's analysis: It presumes that Kalshi's contracts 'are premised on the outcome of Congressional election[s].' Id. at 10.  But Kalshi's contracts do not turn solely on the results of any one election.  They turn on the aggregate results of all relevant elections in that year's cycle, plus the chamber's previous composition, plus internal  party  machinations.    As  recent  events  illustrate,  internal  factions  can prevent even a majority party from electing a Speaker.  At most, congressional control is highly correlated with the outcomes of many elections-but that is equally true of many event contracts that the CFTC has never derided as 'gaming.'
+
+73. Finally ,  having decided that Kalshi's contracts 'involve' both gaming and illegal activity, the Commission deemed them 'contrary to the public interest.' Here too, the Order's analysis fails the standards for reasoned decision-making.
+
+74. The Commission began with an 'economic purpose' inquiry found in no statute, regulation, or judicial decision. Id. at 13.  It claimed the economic effects of congressional control are too 'diffuse and unpredictable' to warrant hedging or price basing. Id. at 16.  That logic is demonstrably flawed on at least three levels.
+
+75. For one, certain effects of congressional control are not diffuse.  Think of a consulting firm with deep ties to one party.  Congressional control by the other party would directly harm its business.  The Congressional Control Contracts would allow it to hedge against that risk, and it would allow others to more accurately determine the economic value of that firm.  The public comments are full of real examples of assets and markets where a direct link to electoral outcomes has been demonstrated.
+
+76. For another, it is simply wrong to say that 'diffuse' risks do not justify hedging or permit price-basing.  The purpose of hedging is to mitigate risks , not (like insurance) to offset precise losses.  That is why award-winning economists submitted comments explaining the hedging value of election contracts; it is why a managing director at a leading investment bank commented that he regularly assists clients with hedging election risk; and it is why a host of commenters from a wide range of industries  (from  cannabis  to  green  energy)  affirmatively  stated  they  would  use Kalshi's contracts to hedge risk.  For all of the same reasons, the market's ability to aggregate information about the likelihood of election results would allow that data to play a role in determining prices for assets that face particular political risks ( e.g. , oil companies or cryptocurrency firms).  The Commission rejected all this evidence without explanation, resting on its own say-so in the face of concrete contrary proof.
+
+77. For a third, financial products (including event contracts) are often used to  hedge 'diffuse' risks.    Consider  futures  based  on  a  price  volatility index  (VIX), which measures expected market volatility using S&amp;P 500 options contracts.  It is hard to imagine anything more 'diffuse.'  But volatility is associated with economic risks, which is why derivatives are offered and traded based on it (including on the Chicago Mercantile Exchange, a large and well-established derivatives exchange).
+
+78. In short, even if 'economic purpose' were a legally appropriate inquiry, it was irrational for the Commission to subject election event contracts to a uniquely higher showing of economic purpose than other event contracts.
+
+79. The CFTC next accused Kalshi of undermining American democracy. Parroting six Senators who submitted comments, the Commission intoned that the contracts threaten to ''profoundly undermine the sanctity and democratic value of elections.'' Id. at 19.  Why?  Because someone might vote for a candidate he despises in a Quixotic bid to swing settlement of a contract on control of Congress. Id. at 20. That is unsubstantiated: The CFTC can point to no example of such behavior despite the prevalence of prediction markets both in the United States and abroad.  It is also implausible: Why would anyone buy a contract favoring a party they oppose and then bootstrap that purchase to change their voting intentions?
+
+80. Worse  yet,  the  Commission  warned,  malicious  actors  might  'spread misinformation' to 'manipulate the market in the Congressional Control Contracts.' Id. True, in an environment with 'unregulated' 'informational sources'i.e. , a free society-lies are unavoidable.  But that is already true; there are already enormous incentives to engage in political dirty tricks.  The Commission's ploy to link Kalshi's contracts to the bogeyman of 'misinformation' is feeble-consisting of a single blog post expressing 'worri[es]' about fake polling companies. See id. at 22 n.39.
+
+81. The Commission's supposed fears about election integrity also ignore the reality that businesses and individuals already face  economic risks associated with elections.  Political spending on the 2020 federal elections reportedly exceeded $14 billion.  Elections matter; individuals and businesses already act accordingly. Allowing event contracts based on electoral outcomes would not increase the risks of manipulation; if anything, it would decrease them by allowing the risks associated with elections to be hedged.  And the existence of a neutral, market-driven measure of public opinion would likewise reduce the threat of fake polls and disinformation. Contract markets create a financial incentive to separate the wheat from the chaff in political discourse, and limit the salience of any particular piece of 'fake news.'
+
+82. Venturing even deeper into the realm of speculation, the Commission offered a final reason to ban Kalshi's contracts: the prospect of playing ''election cop.'' Id. at 23.  The Commission fretted that approving these contracts might one day force it to 'investigat[e] election-related activities-potentially including the outcome of an election itself.' Id. at 22.  Once again, the Commission's rationale proves too much. The CFTC already regulates countless derivatives markets involving commodities over which the agency lacks independent expertise or authority.  For example, the CFTC oversees trading in futures contracts on the S&amp;P 500.  Yet the Commission does not regulate stocks ; that is the job of the Securities and Exchange Commission, which  the  CFTC  relies  on  to  prevent  manipulation  of  the  underlying  market. Likewise, it is the role of the Federal Election Commission and numerous state and federal  regulators  to  supervise  the  integrity  of  elections.    They  already  take  that responsibility incredibly seriously, as they should.  Event contracts based on political outcomes would not somehow change that, or thrust this role onto the CFTC.
+
+## CLAIMS
+Violation of APA
+
+83. Kalshi realleges all prior paragraphs.
+
+84. The APA provides that the Court 'shall ... hold unlawful and set aside agency action' that is 'arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law' or that is 'in excess of statutory jurisdiction, authority, or limitations, or short of statutory right.'  5 U.S.C . § 706(2)(A), (C).
+
+85. The CFTC is an 'agency' under the APA, id. § 551(1), and the Order is a final, reviewable 'agency action for which there is no other adequate remedy in a court,' id. § 704.  The Order represents the consummation of the CFTC's decisionmaking process with respect to Kalshi's Congressional Control Contracts.
+
+86. Kalshi has been adversely affected or aggrieved by the CFTC's Order and therefore can sue under the APA. Id . § 702.
+
+87. The Order exceeds the Commission's statutory authority, is contrary to law, and is arbitrary and capricious.
+
+88. The Order fundamentally misconstrues every relevant statutory term. To start, it misconstrues § 7a-2(c)(5)(C)(i) to authorize public-interest review anytime trading in the contract would amount to an enumerated activity.  But the only reading of the provision that makes sense as applied to all the listed activities is that an event contract 'involves' illegal activity, terrorism, assassination, war, or gaming only if its settlement is contingent on the occurrence of such an event.  The events underlying the Congressional Control Contracts do not 'involve' any of those activities.
+
+89. The  Order  compounds  its  error  by  distorting  the  two  enumerated categories that it invokes. First , it converts the 'gaming' category from a narrow but important limit on using derivatives markets to bet on games into an all-purpose tool for banning any event contract. Second , the Order construes the 'unlawful activity' category in a way that empowers state legislatures to dictate the legality of event contracts, even though the CEA preempts state laws insofar as they interfere with the Commission's exclusive jurisdiction over derivatives markets.
+
+90. The  Commission's  misreadings  of  the  CEA  arrogate  authority  found nowhere in the statute, enabling the agency to review and reject a potentially vast array of event contracts-indeed, potentially all of  them.  Any interpretation that gives the Commission carte blanche to  reject  any  event contracts it wishes cannot seriously be defended as consistent with the CEA's text, purpose, or structure.
+
+91. The Order again employs faulty and overreaching reasoning to deem Kalshi's contracts 'contrary to the public interest.'  Here, too, the Order concocts a test that has no basis in the statute and proceeds to misapply it.  Ignoring the record evidence of private and public benefits associated with political event contracts, the Order traffics in rank speculation about their supposed harms.  It offers rationales that are untethered to the statutory purpose and would prove far too much.
+
+92. The CEA entitles Kalshi to list its Congressional Control Contracts for trading on its market.  The contracts do not 'involve' any of the activities enumerated in § 7a-2(c)(5)(C)(i), and are therefore not subject to public-interest review.  And in any event, Kalshi's contracts are not 'contrary to the public interest.'
+
+93. Accordingly, the Court should vacate the Order.
+
+## PRAYER FOR RELIEF
+
+Now, therefore, Kalshi requests a judgment in its favor as follows:
+
+1. Vacating the Order;
+2. Declaring that Kalshi's Congressional Control Contracts can be listed;
+3. Awarding reasonable attorneys' fees and costs, plus interest accruing thereon, under 28 U.S.C. § 2412; and
+4. Granting such other relief as the Court may deem appropriate.
+
+Dated: November 1, 2023
+
+Respectfully submitted,
+
+| Amanda K. Rice (D.C. Bar 1019208)* JONES DAY 150 W. Jefferson Avenue, Suite 2100 Detroit, MI 48226 (313) 733-3939   | /s/ Jacob (Yaakov) M. Roth Jacob (Yaakov) M. Roth (D.C. Bar 995090) Joshua B. Sterling (D.C. Bar 479320) John Henry Thompson (D.C. Bar 90013831) JONES DAY
+
+Samuel V. Lioi* JONES DAY 901 Lakeside Avenue Cleveland, Ohio 44114-1190 (216) 586-3939
+51 Louisiana Avenue N.W. Washington, DC 20001 (202) 879-3939

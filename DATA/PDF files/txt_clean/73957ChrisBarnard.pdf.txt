@@ -1,0 +1,45 @@
+Dear Mr. Kirkpatrick.
+
+Thank you very much for giving us the opportunity to comment on your Notice of proposed rulemaking on Event Contracts.
+
+The CFTC is proposing amendments to its rules concerning event contracts in certain excluded commodities. The CFTC is proposing amendments to further specify types of event contracts that fall within the scope of section 5c(c)(5)(C) of the Commodity Exchange Act (CEA or the Act) and are contrary to the public interest, such that they may not be listed for trading or accepted for clearing on or through a CFTC -registered entity. Among other things, the CFTC proposes to further specify the types of event contracts that involve 'gaming'. The CFTC also proposes to amend certain language in its event contract rules to further align with statutory text, and to make certain technical changes to its event contract rules in order to enhance clarity and organization.
+
+I strongly support your proposals, which codify the CFTC's views around what event contracts may be impermissible gaming under the CEA.
+
+## Congressional intent
+
+Section 745(b) of the Dodd-Frank Act amended Section 5c of the Commodity Exchange Act by adding the following under new (c)(5)(C)(i) concerning event contracts, which states that:
+
+'EVENT CONTRACTS.-In connection with the listing of agreements, contracts, transactions, or swaps in excluded commodities that are based upon the occurrence, extent of an occurrence, or contingency
+
+(other than a change in the price, rate, value, or levels of a commodity described in section 1a(2)(i)), by a designated contract market or swap execution facility, the Commission may determine that such agreements, contracts, or transactions are contrary to the public interest if the agreements, contracts, or transactions involve-
+- (I) activity that is unlawful under any Federal or State law;
+- (II) terrorism;
+- (III) assassination;
+- (IV) war;
+- (V) gaming; or
+- (VI) other similar activity determined by the Commission, by rule or regulation, to be contrary to the public interest.'
+
+You propose to define 'gaming' in new § 40.11(b)(1) as 'the staking or risking by any person of something of value upon:
+(i) The outcome of a contest of others;
+(ii) The outcome of a game involving skill or chance;
+(iii) The performance of one or more competitors in one or more contests or games; or
+(iv) Any other occurrence or non-occurrence in connection with one or more contests or games.'
+
+Furthermore, proposed § 40.11(b)(2) states that gaming 'includes, but is not limited to, the staking or risking by any person of something of value upon the outcome of a political contest, including an election or elections, an awards contest, or a game in which one or more athletes compete, or an occurrence or non-occurrence in connection with such a contest or game, regardless of whether it directly affects the outcome.'
+
+I strongly support these proposals, which specify the types of event contracts that fall within the scope of Commodity Exchange Act (CEA) section 5c(c)(5)(C) and are contrary to the public interest. This will increase regulatory clarity and reduce the likelihood that a registered entity would list for trading an event contract that is contrary to the public interest.
+
+## Lack of definite economic rationale
+
+Certain event contracts may serve a useful economic purpose. For example, weather derivatives covering snowfall or hurricanes offer protection against actual suffered losses. Entities can use such derivatives in risk management to protect against actual suffered losses caused by adverse or unexpected weather conditions. I would argue that contracts that are based on the outcome of a political contest, including an election or elections, offer no such reliable or predictable protection against actual suffered losses. Whilst weather is purely random, political contests, including an election or elections, and their ramifications, are based on future human decisions, which can vary, but are certainly not random. I must say that I find the concept of using such contracts to protect against actual suffered losses caused by political contests, including an election or elections, to be quite perverse, and not in line with the public interest.
+
+## Role of the CFTC
+
+I agree with CFTC Chair Rostin Behnam's statements about the impact that political event contracts could have on the role of the CFTC. During an Odd Lots podcast, Behnam stated that: 'Imagine a situation where we have alleged fraud or alleged manipulation of an election, and someone coming to the CFTC and saying you know you have a contract listed on an election in X District in Y State, and we believe there was fraud because of hardware, software, news  - you name it. You need to police that fraud. So without being too indirect what I'm trying to say is the CFTC could end up being an election cop and I don't think that's what Congress meant or intended for us to do'. 1
+
+I agree with these statements. It would not be in the public interest for the CFTC to assume the role of 'election cop'. Therefore I would strongly recommend and support that the CFTC should forbid all such contracts.
+
+Yours sincerely
+
+Chris Barnard

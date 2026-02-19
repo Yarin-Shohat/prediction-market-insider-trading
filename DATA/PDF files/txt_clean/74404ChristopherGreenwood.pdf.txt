@@ -1,0 +1,51 @@
+September 23, 2022
+
+## SUBMITTED VIA CFTC COMMENT PORTAL
+
+Secretary of the Commission Office of the Secretariat U.S. Commodity Futures Trading Commission Three Lafayette Centre 1155 21st Street, N.W. Washington, D.C. 20581
+
+## Re: Commission Review of KalshiEX Proposed Congressional Control Contracts Under CFTC Regulation 40.11
+
+To whom it may concern,
+Railbird Technologies Inc. ('Railbird') appreciates the opportunity to submit comments in response to the Commodity Futures Trading Commission's ('CFTC' or 'Commission') request for public comment related to the KalshiEX LLC's ('Kalshi') proposed Congressional Control Contracts. Railbird submits this comment in support of the Kashi contracts.
+
+## About Railbird
+
+Railbird aims to build the first federally regulated exchange for events adjacent to the sports industry, and intends to deliver unique risk management, price discovery, and data solutions to market participants. Although Railbird intends to work with the Commission to offer unique event contracts, it has no plans to offer contracts related to political outcomes.
+
+In its request for comment, the Commission put forth a list of 17 questions. This comment addresses many of the questions raised in the Commission's request, but is primarily intended to address questions 1, 6, 7, and 8 - those specifically related to the hedging potential for Kalshi's Congressional Control Contracts.
+
+- Question 1: Do these contracts involve, relate to, or reference gaming as described in Commission regulation 40.11(a)(1) and section 5c(c)(5)(C) of the Commodity Exchange Act, or in the alternative, involve, relate to, or reference an activity that is similar to gaming as described in regulation 40.11(a)(2) or section 5c(c)(5)(C) of the Commodity Exchange Act?
+- Question 6: Do the contracts serve a hedging function? Are the economic consequences of congressional control predictable enough for a contract based on that control to serve a hedging function? Please provide tangible examples of commercial activity that can be hedged directly by the contracts or economic analysis that demonstrates the hedging utility of the contracts.
+- Question 7: Are there unique economic risks tied to the outcome of congressional control that cannot be hedged via derivative products on equities, debt, interest rates, tax rates, asset values, and other commodity prices?
+- Question 8: What standard should the Commission use in reviewing the contact's hedging function? Is it sufficient that a contract could theoretically be used for hedging or, should an exchange provide evidence of demonstrated need by likely hedgers in the market? How often must a contract be used for hedging or what percentage of market participants or open interest must represent hedging use?
+
+## Event Contracts Provide an Innovative and Targeted Hedging Tool for Market Participants
+
+Event contracts serve as an innovative, novel, and targeted method for individuals and companies to hedge economic risks. Importantly, event contracts allow participants a means to hedge risk that is not otherwise addressed by more traditional financial instruments. Given the unique hedging opportunity that such contracts provide, the Commission should reassess its finding in the Nadex Order from 2012 that political control contracts do not provide hedging utility to market participants. (See In the Matter of the Self-Certification by North American Derivatives Exchange, Inc. (Order Prohibiting the Listing or Trading of Political Event Contracts), Comm. Fut. L.P. 32148 (CCH), 2012 WL 12347216 (Apr. 2, 2012).) Railbird submits that political control contracts, like many event contracts, provide a helpful means to hedge real economic risk.
+
+The CFTC has interpreted the public interest test in Section 5c(c)(5)(C) of the Commodity Exchange Act ('CEA') to reinsert the economic purpose test for certain event contracts and require that an exchange 'demonstrate that transactions for future delivery in a commodity are, or reasonably can be expected to be, quoted and disseminated for price basing, or utilized as a means of hedging against possible loss through fluctuations in price.' (Economic and Public Interest Requirements for Contract Market Designation , 47 Fed. Reg. 49,832, 49,836 (Nov. 3, 1982).) This economic purpose test requires that a contract 'reasonably can be expected to be, or has been, used for hedging and/or price basing on more than an occasional basis.' (Economic and Public Interest Requirements for Contract Market Designation , 64 Fed. Reg. 29,217, 29,222 (June 1, 1999).) The plain language of the Commission's existing economic purpose test does not require that all, or even most, trading activity be for hedging or price basing purposes. Rather, use of the contracts for price basing or hedging must be 'on more than an occasional basis.' (Supra n. 2.)
+
+There are myriad individuals and companies that could utilize Kalshi's proposed contracts to offset the potential economic impacts of one party controlling Congress. For example, a person could utilize the contracts to hedge the risk associated with the potential passage or failure of legislation championed by a certain party. Politicians make clear their public policy priorities prior to being elected, and public policy decisions - like industry-specific investment or changes in tax - have significant economic impacts. Commercial entities and the broader public should be allowed the ability to hedge the risks associated with these public policy decisions.
+
+More broadly, the Commission should consider that event contracts enable commercial entities and the public to more directly hedge certain economic risks, rather than rely on proxies that may not adequately address the risk's underlying nature. For example, consider a wheat farmer who is concerned about diminished production resulting from reduced rainfall. The farmer could indirectly hedge this risk using the wheat existing futures market, but that hedge would not address impacts to production volume from inclement weather. An event contract based upon rainfall quantity could benefit the farmer by providing a hedge that more directly addresses the risk of variable weather. Similarly, although the likelihood of one party controlling Congress may be obliquely factored into the futures market, the price of commodities in the futures markets may not address the specific risk to a company of one party controlling Congress.
+
+## Event Contracts Have Other Benefits
+
+In addition to generating new hedging opportunities, event contracts have other economic and social benefits that the Commission should consider when assessing the public interest of listing event contracts. As the Commission itself has recognized, event contracts, including the Congressional Control Contracts, have the ability to further an 'educational public interest purpose' and gauge public sentiment on a variety of events. (CFTC Letter No. 14-130, No-Action re Victoria University of Wellington's Request for No-Action Letter regarding the Operation of a Small-Scale, Not-For-Profit Market for the Trading of Event Contracts for Educational Purposes at 3 (Oct. 29, 2014).) The ability for event contracts, including the ones proposed by Kalshi, to advance 'information gathering and predictive capabilities of markets' should not be understated. (Id. at 5.)
+
+Additionally, the public benefits when the Commission fosters access to safe, regulated markets. As Commissioner Pham noted in her dissenting statement, individuals can currently access contracts similar to the Congressional Control Contracts via markets that are not registered with or otherwise regulated by the Commission; the public would benefit greatly by gaining access to exchanges fully regulated by the Commission. (Dissenting Statement of Commissioner Caroline D. Pham Regarding the Review and Stay of KalshiEX LLC's Political Event Contracts (Aug. 26, 2022).)
+
+## Kalshi's Proposed Contracts Do Not Involve Gaming
+
+Railbird supports Commissioner Pham's interpretation of CEA Section 5c(c)(5)(C) and CFTC Rule 40.11(a) set forth in her dissenting statement on Kalshi's proposed contracts. (Id.) When determining whether the provisions of CEA Section 5c(c)(5)(C) apply, the Commission should assess whether the activity underlying the event contract involves an activity that is unlawful under any Federal or State law, terrorism, assassination, war, gaming, or other similar activity determined by the Commission, by rule or regulation, to be contrary to the public interest. Here, the contracts are based upon the underlying activity of political control. In turn, we share Commissioner Pham's view that political control is not gaming, and that the Commission has not otherwise promulgated a rule or regulation to determine that political control is similar to one of the activities enumerated under CEA Section 5c(c)(5)(C). Accordingly, we support Commissioner Pham's reasoning that Rules 40.11(a)(1) and (2) do not apply to Kalshi's proposed contracts.
+
+## Conclusion
+
+The Commission has recognized that 'innovative event markets have the capacity to facilitate the discovery of information, and thereby provide potential benefits to the public,' advancing the Commission's purpose to 'provid[e] certainty and stability to existing and emerging markets so that financial innovation and market development can proceed in an effective and competitive manner' pursuant to Section 4(c)of the Commodity Exchange Act. (Commodity Futures Trading Commission, Concept Release on the Appropriate Regulatory Treatment of Event Contracts, (May 7, 2008).) Railbird urges that Commission to continue to support, through active regulation and oversight, the innovative risk management function that event contracts provide.
+
+Railbird appreciates the opportunity to provide these comments and is grateful for the Commission's time and attention to this important matter. Should you have any questions about this letter, please feel free to contact Miles Saffran at miles.saffran@railbirdexchange.com or Edward Tian at edward.tian@railbirdexchange.com.
+
+Sincerely,
+Miles Saffran Co-Founder: Railbird Exchange
+Edward Tian Co-Founder: Railbird Exchange

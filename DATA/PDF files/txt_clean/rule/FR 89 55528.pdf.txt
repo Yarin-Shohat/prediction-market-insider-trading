@@ -1,0 +1,125 @@
+Flight Standards District Office, as appropriate. If sending information directly to the manager of the International Validation Branch, mail it to the address identified in paragraph (k)(1) of this AD or email to: 9AVS-AIR-730-AMOC@faa.gov. If mailing information, also submit information by email. Before using any approved AMOC, notify your appropriate principal inspector, or lacking a principal inspector, the manager of the local Flight Standards District Office/ certificate holding district office.
+
+## (k) Additional Information
+
+(1) For more information about this AD, contact Gabriel Kim, Aviation Safety Engineer, FAA, 1600 Stewart Avenue, Suite 410, Westbury, NY 11590; phone: (516) 2287300; email: 9-avs-nyaco-cos@faa.gov.
+
+(2) FAA Advisory Circular 43.13-1B, ''Acceptable Methods, Techniques, and Practices-Aircraft Inspection and Repair,'' Change 1, dated September 8, 1998, may be found at drs.faa.gov.
+
+## (l) Material Incorporated by Reference
+
+(1) The Director of the Federal Register approved the incorporation by reference (IBR) of the material listed in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51.
+(2) You must use this material as applicable to do the actions required by this AD, unless the AD specifies otherwise.
+(i) Diamond Aircraft Industries Mandatory Service Bulletin MSB 40-091 Rev. 0, dated January 18, 2021, published with Diamond Aircraft Industries Work Instruction WI-MSB 40-091 Rev. 0, dated January 18, 2021 (issued as one document).
+(ii) Diamond Aircraft Industries Mandatory Service Bulletin MSB F4-038 Rev.0, dated January 18, 2021, published with Diamond Aircraft Industries Work Instruction WI-MSB F4-038 Rev. 0, dated January 18, 2021 (issued as one document).
+(3) For Diamond Aircraft Industries material contact Diamond Aircraft Industries Inc., 1560 Crumlin Sideroad, London, ON, Canada, N5V 1S2; phone: (519) 457-4041; email: support-canada@ diamondaircraft.com; website: diamondaircraft.com .
+(4) You may view this material at the FAA, Airworthiness Products Section, Operational Safety Branch, 901 Locust, Kansas City, MO 64106. For information on the availability of this material at the FAA, call (817) 222-5110.
+(5) You may view this material at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, visit www.archives.gov/federal-register/cfr/ ibr-locations or email fr.inspection@nara.gov.
+
+## Victor Wicklund,
+
+Deputy Director, Compliance &amp; Airworthiness Division, Aircraft Certification Service.
+
+[FR Doc. 2024-14140 Filed 7-3-24; 8:45 am]
+
+BILLING CODE 4910-13-P
+
+## COMMODITY FUTURES TRADING COMMISSION
+
+17 CFR Part 40
+
+RIN 3038-AF14
+
+## Event Contracts
+
+AGENCY: Commodity Futures Trading Commission.
+
+ACTION: Extension of comment period.
+
+SUMMARY: On May 10, 2024, the Commodity Futures Trading Commission (''Commission'' or ''CFTC'') issued a notice of proposed rulemaking (''NPRM'') titled Event Contracts. The comment period for the NPRM was scheduled to close on July 9, 2024. The Commission is extending the comment period for the NPRM by an additional thirty days.
+
+DATES: The comment period for the NPRM titled Event Contracts is extended through August 8, 2024.
+
+ADDRESSES: You may submit comments, identified by ''Event Contracts, RIN 3038-AF14,'' by any of the following methods:
+
+- Mail: Send to Christopher Kirkpatrick, Secretary of the Commission, Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st Street NW, Washington, DC 20581.
+- CFTC Comments Portal: https:// comments.cftc.gov/. Select the ''Submit Comments'' link for this rulemaking and follow the instructions on the Public Comment Form.
+- Hand Delivery/Courier: Follow the same instructions as for Mail, above.
+
+Please submit your comments using only one of these methods. To avoid possible delays with mail or in-person deliveries, submissions through the CFTC Comments Portal are encouraged.
+
+All comments must be submitted in English, or if not, accompanied by an English translation. Comments will be posted as received to https:// comments.cftc.gov. You should submit only information that you wish to make available publicly. If you wish the Commission to consider information that you believe is exempt from disclosure under the Freedom of Information Act (''FOIA''), a petition for confidential treatment of the exempt information may be submitted according to the procedures established in § 145.9 of the Commission's regulations. See 17 CFR 145.9.
+
+The Commission reserves the right, but shall have no obligation, to review, pre-screen, filter, redact, refuse, or remove any or all of your submission from https://comments.cftc.gov that it may deem to be inappropriate for publication, such as obscene language. All submissions that have been redacted or removed that contain comments on the merits of the rulemaking will be retained in the public comment file and will be considered as required under the Administrative Procedure Act and other applicable laws, and may be accessible under the FOIA.
+
+## FOR FURTHER INFORMATION CONTACT:
+
+Nora Flood, Chief Counsel, Division of Market Oversight, Commodity Futures Trading Commission, (202) 418-6059, nflood@cftc.gov, Three Lafayette Centre, 1151 21st Street NW, Washington, DC 20581.
+
+SUPPLEMENTARY INFORMATION: On May 10, 2024, the Commission approved proposed amendments to its rules concerning event contracts in certain excluded commodities. (See ''CFTC to Hold a Commission Open Meeting May 10,'' CFTC Rel. No. 8906-24, available at https://www.cftc.gov/PressRoom/PressReleases/ 8906-24.) The proposed amendments would further specify types of event contracts that fall within the scope of section 5c(c)(5)(C) of the Commodity Exchange Act (''CEA'') and are contrary to the public interest, such that they may not be listed for trading or accepted for clearing on or through a CFTC-registered entity. Among other things, the proposed amendments would further specify the types of event contracts that involve ''gaming.'' In addition, the proposed amendments would further align the language of the Commission's event contract rules with the statutory text of CEA section 5c(c)(5)(C), and make certain technical changes to the rules in order to enhance clarity and organization.
+
+The NPRM was published on the Commission's website on May 10, 2024, and was made available for public comment through July 9, 2024, for a total comment period of 60 days. (See ''CFTC Issues Proposal on Event Contracts,'' CFTC Rel. No. 8907-24, available at https:// www.cftc.gov/PressRoom/PressReleases/8907-24.) The NPRM was subsequently published in the Federal Register on June 10, 2024. (See Event Contracts, 89 FR 48968 (June 10, 2024).) The Commission is extending the comment period by an additional thirty days, until August 8, 2024, in order to allow interested persons additional time to analyze the proposal and prepare their comments.
+
+Issued in Washington, DC, on June 27, 2024, by the Commission.
+
+## Christopher Kirkpatrick,
+
+Secretary of the Commission.
+
+Note: The following appendix will not appear in the Code of Federal Regulations.
+
+## Appendix to Event Contracts (Extension of Comment Period)-Commission Voting Summary
+
+On this matter, Chairman Behnam and Commissioners Johnson, Goldsmith Romero, Mersinger, and Pham voted in the affirmative. No Commissioner voted in the negative.
+
+[FR Doc. 2024-14610 Filed 7-3-24; 8:45 am] BILLING CODE 6351-01-P
+
+## DEPARTMENT OF ENERGY
+
+Federal Energy Regulatory Commission
+
+## 18 CFR Part 39
+
+[Docket No. RM21-12-000]
+
+## Electric Reliability Organization Performance Assessments; Withdrawal
+
+AGENCY: Federal Energy Regulatory Commission.
+
+ACTION: Withdrawal of notice of proposed rulemaking and termination of rulemaking proceeding.
+
+SUMMARY: The Federal Energy Regulatory Commission (Commission) is withdrawing a notice of proposed rulemaking, which proposed to amend its regulations pursuant to section 215 of the Federal Power Act to require the Commission-certified Electric Reliability Organization (ERO) to submit performance assessments every three years; to include in its performance assessment a detailed discussion of any areas of the ERO's responsibilities and activities, or a Regional Entity's delegated functions, beyond those required by the Commission's regulations, that the Commission has identified at least 90 days prior to the expected performance assessment submission date; and to formalize the method for the ERO and Regional Entities to receive and respond to recommendations by the users, owners, and operators of the Bulk-Power System, and other interested parties for improvement of the ERO's operations, activities, oversight, and procedures.
+
+DATES: The notice of proposed rulemaking published in the Federal Register at 86 FR 7518 on January 29, 2021, is withdrawn as of July 5, 2024.
+
+## FOR FURTHER INFORMATION CONTACT:
+
+Michael Gildea (Technical Information), Office of Electric Reliability, Federal Energy Regulatory Commission, 888 First Street NE, Washington, DC 20426, (202) 5028420, michael.gildea@ferc.gov
+
+Leigh Anne Faugust (Legal Information), Office of the General Counsel,
+
+Federal Energy Regulatory Commission, 888 First Street NE, Washington, DC 20426, (202) 5026396, leigh.faugust@ferc.gov
+
+## SUPPLEMENTARY INFORMATION:
+
+Withdrawal of Notice of Proposed Rulemaking and Termination of Rulemaking Proceeding
+
+1. On January 19, 2021, the Commission issued a notice of proposed rulemaking (NOPR) proposing to revise its regulations regarding the Electric Reliability Organization's (ERO) performance assessments pursuant to section 215 of the Federal Power Act (FPA). (Revisions to Regulations on Elec. Reliability Org. Performance Assessments, Notice of Proposed Rulemaking, 86 FR 7518 (Jan. 29, 2021), 174 FERC ¶61,031 (2021).) The Commission received seven comments in response to the NOPR. (The North American Electric Reliability Corporation (NERC) and Regional Entities, jointly; the Western Interconnection Regional Advisory Body (WIRAB); the ISO/RTO Council; the American Public Power Association, Edison Electric Institute, Electric Power Supply Association, the Large Public Power Council, National Rural Electric Cooperative Association, and Transmission Access Policy Study Group, jointly (Joint Trade Associations); Public Citizen, Inc. (Public Citizen); and the Foundation for Resilient Societies (Resilient Societies).) After reviewing the comments received, the Commission has decided to retain its existing regulations regarding the ERO's performance assessments. For the reasons set forth below, we are exercising our discretion to withdraw the NOPR and terminate this rulemaking proceeding.
+
+## I. Background
+
+A. Commission Regulations on the ERO Performance Assessment
+
+2. Section 215 of the FPA requires the Commission to issue regulations that, among other things, provide for the certification of an entity as the ERO if it meets certain criteria. (16 U.S.C. 824o.) On February 3, 2006, the Commission issued Order No. 672, which amended the Commission's regulations to implement the requirements of FPA section 215. (Rules Concerning Certification of the Elec. Reliability Org.; and Procedures for the Establishment, Approval, and Enforcement of Elec. Reliability Standards, Order No. 672, 71 FR 8662 (Feb. 17, 2006), 114 FERC ¶ 61,104, at P 186, order on reh'g, Order No. 672-A, 114 FERC ¶61,328 (2006).) The specific requirements for the ERO performance assessments are set out in the Commission's regulations in §39.3(c). (18 CFR 39.3(c) (2023).) On July 20, 2006, the Commission certified NERC as the ERO. (N. Am. Elec. Reliability Corp., 116 FERC ¶61,062, order on reh'g and compliance, 117 FERC ¶61,126 (2006), aff'd sub nom. Alcoa Inc. v. FERC,)
+
+## B. NOPR
+
+3. In its NOPR, the Commission proposed to amend its regulations regarding the ERO performance assessments. First, the Commission proposed to require the ERO to submit assessments of its performance every three years instead of every five years. Second, the Commission proposed to add a requirement for the ERO to include in its performance assessment a detailed discussion of any areas of the ERO's responsibilities and activities, or a Regional Entity's delegated functions, beyond those required by the Commission's regulations, that the Commission has identified at least 90 days prior to the expected performance assessment submission date. Finally, the Commission proposed to formalize the method for the ERO and Regional Entities to receive and respond to recommendations by the users, owners, and operators of the Bulk-Power System, and other interested parties for improvement of the ERO's operations, activities, oversight, and procedures.
+
+4. The Commission explained in the NOPR that it believed that the proposals would provide better continuity in its review of the ERO's operations, activities, oversight, procedures, and evaluation of the effectiveness of each Regional Entity in the performance of delegated functions. Further, the Commission explained that shorter performance assessment cycles could provide an opportunity for timelier identification and implementation of potential improvements to ERO performance and improve the efficiency of the overall performance assessment process. (NOPR, 174 FERC ¶61,031 at P 1.)
+
+5. Notice of the NOPR was published in the Federal Register , 86 FR 7518 (Jan. 29, 2021), with comments due by March 1, 2021.
+
+## C. Comments
+
+6. In their joint comments, NERC and the Regional Entities oppose all proposed modifications. They assert that the proposed changes would place undue burden on ERO staff by directing their focus away from key activities that ''would outweigh any potential benefits.'' (NERC and Regional Entities Joint Comments at 2.) They explain that the existing five-year performance assessment cycle provides ''greater opportunity to demonstrate evolution of 564 F.3d 1342 (D.C. Cir. 2009) (ERO Certification Order) (certifying NERC as the ERO responsible for the development and enforcement of mandatory Reliability Standards).

@@ -1,0 +1,13 @@
+To those it may concern,
+
+I'm writing today for Mage. Mage has created an open-source tool for building and running data pipelines that transform data. Our goal is to make data-intensive work easier for data scientists, an increasingly in-demand service across myriad industries and sectors. The Commission should approve KalshiEX's contract for listing, which would create an important tool for the public, media, and private businesses to manage and study electoral and political risk.
+
+Prediction markets are useful tools for solving all sorts of problems. By having individuals put money on the line-getting skin in the game-markets can efficiently aggregate unbelievably large amounts of information into a single price. That price incorporates all possible sources of data on election probabilities: polls (and their varying quality and house effects), fundraising, past election outcomes, expert forecasts, news events, and more. The totality of the market's view means more than any one individual.
+
+This information is also critical to pricing other assets. Equity prices, for example, depend on expectations regarding policy, notably of the corporate tax rate, regulation, and government subsidies. This is a finding that has been repeatedly falsified by academic research, such as that of Wolfers and Zitzewitz or Jayachandran ('the Jeffords effect'). It's why so many economists have supported KalshiEX's proposal, and supported Nadex before that.
+
+We think KalshiEX's Congressional control contract, along with other prediction markets, would be in the public's interest.
+
+Sincerely,
+
+Tommy Dang Chief Executive Officer / Co-founder Mage Technologies, Inc.

@@ -1,0 +1,87 @@
+﻿term,category,sub_category,interpretation
+bet,gambling,core_noun,Explicit betting activity
+betting,gambling,core_noun,Explicit betting activity
+wager,gambling,core_noun,Explicit betting activity
+gamble,gambling,core_noun,Explicit betting activity
+gambling,gambling,core_noun,Explicit betting activity
+odds,gambling,core_noun,Betting odds framing
+sportsbook,gambling,core_noun,Betting venue
+bookmaker,gambling,core_noun,Betting intermediary
+casino,gambling,core_noun,Gambling venue
+jackpot,gambling,core_noun,Large uncertain payout
+lottery,gambling,core_noun,Chance-based payoff
+stake,gambling,core_noun,Amount wagered
+payout,gambling,core_noun,Winnings framing
+winnings,gambling,core_noun,Outcome-based reward
+losses,gambling,core_noun,Outcome-based loss
+win,gambling,core_noun,Winning emphasis
+lose,gambling,core_noun,Losing emphasis
+bet on,gambling,verb,Betting action
+place a bet,gambling,verb,Betting action
+wager on,gambling,verb,Betting action
+gamble on,gambling,verb,Betting action
+roll the dice,gambling,verb,Chance framing
+take a shot,gambling,verb,Chance framing
+cash out,gambling,verb,Gambling exit action
+for fun,gambling,entertainment,Entertainment motive
+just for fun,gambling,entertainment,Entertainment motive
+fun,gambling,entertainment,Entertainment framing cue
+exciting,gambling,modifier,Affective excitement cue
+thrilling,gambling,modifier,Affective excitement cue
+risky,gambling,modifier,Chance-based risk framing
+lucky,gambling,modifier,Chance attribution
+unlucky,gambling,modifier,Chance attribution
+addictive,gambling,modifier,Normative gambling critique
+addiction,gambling,normative,Normative gambling critique
+problem gambling,gambling,normative,Normative gambling critique
+prediction market,economic,market_design,Information aggregation market
+event contract,economic,market_design,State-contingent claim
+event market,economic,market_design,Market for state-contingent outcomes
+contingent claim,economic,market_design,Asset-pricing concept
+state-contingent payoff,economic,market_design,State-contingent payoff concept
+binary contract,economic,market_design,State-contingent payoff
+market maker,economic,market_design,Market design institution
+LMSR,economic,market_design,Logarithmic market scoring rule
+scoring rule,economic,market_design,Proper scoring rule mechanism
+proper scoring rule,economic,market_design,Incentive-compatible elicitation mechanism
+information,economic,belief,Informational content
+private information,economic,belief,Dispersed signals
+signal,economic,belief,Information signal
+belief,economic,belief,Bayesian belief
+expectation,economic,belief,Rational expectation
+prior,economic,belief,Bayesian prior
+posterior,economic,belief,Bayesian posterior
+Bayesian updating,economic,belief,Belief updating
+update beliefs,economic,belief,Belief updating
+probability,economic,belief,Probabilistic belief
+implied probability,economic,pricing,Price-as-probability
+forecast,economic,belief,Forecasting language
+calibration,economic,belief,Forecast evaluation
+price,economic,pricing,Market price
+pricing,economic,pricing,Valuation framing
+price discovery,economic,pricing,Price revelation / discovery
+price revelation,economic,pricing,Price revelation / discovery
+price formation,economic,pricing,Microstructure framing
+equilibrium,economic,pricing,Rational expectations equilibrium
+expected payoff,economic,pricing,Asset valuation
+expected value,economic,pricing,Asset valuation
+rational expectations,economic,pricing,Rational expectations framework
+no-arbitrage,economic,pricing,No-arbitrage condition
+arbitrage,economic,pricing,No-arbitrage / efficiency condition
+market efficiency,economic,pricing,Informational efficiency
+informational efficiency,economic,pricing,Informational efficiency
+trade,economic,mechanism,Informed trading
+trade on information,economic,mechanism,Informed trading
+infer,economic,mechanism,Inference from prices
+incorporate information,economic,mechanism,Information enters prices
+aggregate information,economic,mechanism,Information aggregation
+reveal information,economic,mechanism,Information revelation
+price in,economic,mechanism,Prices incorporate news/signals
+incentives,economic,mechanism,Incentive-based belief elicitation
+incentive-compatible,economic,mechanism,Incentive-compatible elicitation
+speculative,ambiguous,modifier,Requires context (informed trading vs gambling)
+speculation,ambiguous,modifier,Requires context (informed trading vs gambling)
+risk,ambiguous,modifier,Requires context (variance vs thrill)
+payoff,ambiguous,core_noun,Requires context (expected value vs winnings)
+market,ambiguous,core_noun,Requires context (price mechanism vs sportsbook)
+hedge,ambiguous,verb,Requires context (risk management vs hedge-my-bet usage)

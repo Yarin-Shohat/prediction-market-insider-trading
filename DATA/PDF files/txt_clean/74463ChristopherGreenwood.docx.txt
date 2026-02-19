@@ -1,0 +1,39 @@
+**September 23, 2022**
+
+SUBMITTED VIA CFTC PORTAL
+Secretary of the Commission
+Office of the Secretariat
+U.S. Commodity Futures Trading Commission
+Three Lafayette Centre 1155 21st Street, N.W.
+Washington, D.C. 20581
+
+Dear Chairman and Commissioners of the Commodity Futures Trading Commission:
+
+I am writing to support the Kalshi Exchange’s request to list contracts related to the outcome of Congressional elections.
+
+My name is Greg Kuserk, and I served at the Commission for 33 years in various capacities. My career there began in 1987 in the Research Section of the Division of Economic Analysis, where I eventually served as a Senior Economist. I served as the Economic Advisor to Commissioner Sharon Brown-Hruska and as her Chief of Staff during her tenure as Acting Chairman. I also served as Deputy Director of Market Surveillance in the Division of Market Oversight (DMO) and as Deputy Director of Product Review, also in DMO. Now retired, I am grateful for the time I was able to serve at the Commission and the accomplishments I was part of over the years. These accomplishments included fostering major industry innovations, such as the development of regulations for hybrid instruments/structured notes and swap contracts that produced meaningful value to market participants and the public. I also worked closely with the Division of Enforcement as both an expert witness and consultant on numerous actions related to illegal off-exchange activity. My interest in providing the comments below is to be able to share the institutional knowledge I developed over my years at the Commission to assist you in reaching a decision with respect to the products before you.
+
+I encourage the Commission to recognize the value and importance of election markets. Although Event Contracts have not historically been the type of instruments that the Commission has been charged with regulating, Congress more recently in Dodd-Frank has seen it appropriate to authorize the Commission to regulate these markets. As the Commission has recognized through its various enforcement and similar actions—for example Intrade, the Iowa Electronic Market, PredictIt, and Nadex—on election markets, these markets have been appropriately determined to be within the Commission’s jurisdiction under the Commodity Exchange Act. While Event Contracts are relatively new, the Commission is the appropriate choice of regulator. I believe that the Commission, through its staff, has significant expertise in regulating important and valuable markets, and I have no doubt that it can successfully regulate these markets too.
+
+What I would like to offer to the Commission in this comment letter is an expansion on my views as to what I see as the most important issues involved in approving these election contracts. I see three issues. First, I want to clarify that Event Contracts differ from futures and options contracts and present different considerations. Second, even though they are new to the scene, Congress has placed these contracts under the Commission’s jurisdiction, and the           Commission has acted on that grant. Third, these contracts are not gaming, and are in the public interest because they essentially are a competitor to opinion polls, and likely a better product.
+
+**Futures or Options**
+
+Event Contracts are not futures or options and they do not have the hallmark of futures and options of being based on a price. As an example, if the price of corn goes up by x or down by y, the price of the futures contract will roughly change by x or y. For an option, the contract will go in- or out-of-the-money based on the price change of the underlying commodity. If in-the-money it will rise or fall in sync with the underlying price change. Event Contracts are not based on an underlying price. Given that these are not traditional futures or option contracts the question is whether Congress has given the Commission the authority to regulate them and whether the Commission has assumed that authority. I address this question next.
+
+**Congressional and Commission Approval**
+
+While I am not offering a legal opinion here, as discussed above I do believe that the language in the Act regarding Event Contracts shows that Congress entrusted the Commission with regulating these markets. I also note that actions taken by the Commission do establish that the Commission, more likely than not, has jurisdiction over these contracts. Regardless of how the Commission ultimately decides on the products before its consideration now, I encourage that you take this opportunity to clearly state the Commission’s position on these contracts.
+
+**These Election Contracts are Valuable Contracts and are not Gaming**
+
+Because Event Contracts are not futures or options, they present different considerations to the Commission. One useful factor that the Commission can use in deciding whether to approve an Event contract is if the contracts are valuable in a public interest sense. That leads to the question of whether election contracts are valuable in a public interest sense. I argue yes.
+
+These contracts are not gaming. Elections are events that are very important to the public, and there is a very strong public interest in having accurate data regarding elections. This is clear from the very prominent place that election polling plays in society. As stated above, these contracts will benefit the public interest by giving the public data that would complement or even compete with opinion polls, but with the advantage that participants in the market have a monetary stake in their opinion. Elections have far more importance in a public interest sense than sporting events or other trivial matters. The public is better served by a regulated market that is subject to oversight and surveillance than by opinion polls that are unregulated and where participants have no incentive in providing sincere responses.
+
+My recommendation is that the Commission approve the request by the Kalshi Exchange to list political event contracts and election contracts. I would also encourage the Commission to take this opportunity to revisit the 2008 Concept Release (73 Fed Reg 25669) and provide additional clarity on the types of events that are appropriate for Commission regulation.
+
+I am grateful for the opportunity to give input on this matter, and am confident that these important markets will be an important addition to the markets that thrive under the Commission’s regulation.
+
+Sincerely,
+Gregory Kuserk

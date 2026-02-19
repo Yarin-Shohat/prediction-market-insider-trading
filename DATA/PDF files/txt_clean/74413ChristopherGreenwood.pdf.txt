@@ -1,0 +1,92 @@
+September 25, 2022
+
+Regarding the KalshiEx Proposed Congressional Control contract (22-002)
+
+To Whom It May Concern:
+
+There have been a wide range of comments written from academic, financial, and small business points of views, many of which I would echo. It is self-evident that this contract on Congressional control can and will be used for hedging in various industries/professions that are sensitive to swings in political sentiment. It is self-evident that this market would serve a useful economic function, and that the information from this market is in the public interest. I therefore think that this market should be approved.
+
+Instead of rewriting what others have written, I want to instead compose a less formalized letter from the perspective of someone who risks money on politics. I've been trading political and events markets since 2007 as my principal occupation. I was one of the most active traders on Intrade, and also on PredictIt. The only exception was 2013, 2014, and 2015 after Intrade had been shut down, but before PredictIt became viable. During that time, I traded stocks. I'll come back to that later.
+
+My work days trading political events are largely devoted to research and reading. I sometimes design models, and often use spreadsheets. I talk to experts, and frequently consult with other people. I sometimes endeavor to find information before reporters find it. My job is time-consuming, fun, hard, rewarding, taxing, exciting, and, perhaps most of all, dynamic. What it definitely is not is random or speculative, and I cringe if someone calls it 'gambling.' Trying to predict what people are going to do in politics - either predicting how voters are going to vote or how elected officials are going to make decisions - is a whole lot of work. Finally, it is not luck! In the short-term, sometimes it is, but not over the long run; I have been able to consistently make a living doing this for 15 years.
+
+Given my experience in this field, I wanted to share some thoughts on the questions posed by the CFTC:
+
+-Market pricing is a bulwark against misinformation and misleading punditry. Many Americans are in 'news silos' right now. Which is to say, they receive news from one perspective - or silo - that is likely delivering that news in a biased fashion. This is an issue that social media companies, among others, grapple with solving. The problem with siloing is not isolated to a single political party, and this is a problem that is becoming more prevalent, not less. [I'll note the obvious: one party's misinformation is undoubtedly manifesting itself in far worse and more obvious ways at this moment. But misinformation itself is not a phenomenon of just one side of the aisle.]
+
+Further to that point, a lot of 'news' that people receive is in the form of punditry by 'experts' who predict what will happen, or interpret the news and its consequences in a very specific way. Markets cut through punditry and biased observations, and offer a perspective that will be much closer to the truth. This is definitely NOT to say that markets are perfect, but only that they are clearly better than the alternative of punditry-dominated coverage. And, in my opinion, these markets are deeply beneficial as an arbiter of the truth in a world where the consumption of news is becoming more biased.
+
+One need only go back less than two years to the previous election, where the pricing of Donald J. Trump to become the next President was still around 10% for months after he was declared the loser of the race. In that time, he mounted various legal and extralegal challenges to the outcome, and spoke openly of the election being overturned. Many on different sides of the aisle saw this 10% pricing as wildly incorrect for very different reasons: some thought he would definitely remain President (near 100%) and others thought it was impossible (0% chance). The market pricing of 10%, while definitely imperfect, communicated the reality better than the two silos: it relayed that Trump was strongly disfavored to retain the Presidency, while also communicating to everyone that the possibility of a successful legal or extralegal effort to retain the Presidency was higher than 0%. Pricing on an event of that magnitude is extremely important information to possess for business and for the general public - market pricing information that is so important, we cannot afford to lose it.
+
+-The cost of disallowing the markets is not negligible . Unregulated political betting on US elections by US persons will happen. It is the reality of the situation.
+
+If Kalshi and other DCMs are permitted to operate a market on Congressional control, much of the political event trading will exit unregulated areas and enter regulated areas under the auspices of the CFTC. New market participants would also join, thus making the pricing far more robust and reliable.
+
+If Kalshi and other DCMs are not permitted - and given the recent ejection of PredictIt - all regulated or quasi-regulated betting on future elections by US persons will cease in the US and entirely move to unregulated and foreign-housed marketplaces. This would be a huge step backward, and will shove pricing on important events (that greatly impact this country!) into a darker area with less oversight.
+
+Academia and industry will be less likely to cite the market prices, because the markets will have far fewer people participating, and specifically far fewer Americans. This means less knowledge of market pricing and a large increase in uncertainty. And into that absence of certainty creeps in those biased sources of news and information.
+
+## -Modern elections markets have existed in the US since 1992, without incident.
+
+The CFTC, to my knowledge, has issued 'No Action' letters to three entities since 1992: the Iowa Electronic Markets (IEM), Intrade, and PredictIt.
+
+There has never been any state-level action against these three entities - nor has there been, to my knowledge, any interest in taking action against these entities by states.
+
+Intrade operated without incident on its election-specific markets and, to my knowledge, was shut down for reasons unrelated to elections.
+
+PredictIt has operated without incident on its election-specific markets. It's unclear why the CFTC is shutting down the site, although I strongly suspect it is wholly unrelated to the actual elections trading.
+
+IEM, to my knowledge, has had no incidents since inception.
+
+All of this is to say that there has been trading in these markets for 30 years, with a plethora of news stories, academic study, and usage of/attention to these markets. And during those 30 years, the case for a regulated market on elections has only been strengthened.
+
+These markets were not misused. These markets provided valuable information. And these markets were not targeted by states, with the only federal action against them being for reasons that were unrelated to election markets.
+
+-What happened in West Virginia is not an analogue. A brief aside here: a previous letter cited West Virginia's shutdown of election betting lines. This happened after betting lines were posted by FanDuel Sportsbook with permission of the West Virginia Lottery. The West Virginia Lottery changed their mind on the following day, and the lines were removed within 24 hours.
+
+There is a deep distinction between betting lines from a company under a sports betting license (with the odds placed right alongside odds for sports games!) and a peer-to-peer, CFTC-permitted DCM with an open order book and no sports betting in sight. The West Virginia Lottery would not be tasked with overseeing or at all involved with Kalshi and other DCMs.
+
+A platform like IEM, Intrade, PredictIt, or hypothetically Kalshi will be sought out specifically by a user in order to make predictions on elections. It would be wholly distinct from sports betting.
+
+-Election markets have existed in other countries without incident for decades. Actions taken by foreign countries may not be relevant to the CFTC's decision, but it is worth pointing out that the US would not be trailblazing a controversial area of prediction markets. Trading election outcomes has been robust in other countries for decades. In the UK, for instance, it is commonplace and not controversial. I was standing outside of Westminster this summer while the Tory party was voting on its new leader, and a TV correspondent had the odds right next to him of Rishi Sunak, Liz Truss, etc. while he was presenting. It is neither harmful nor controversial to inform the public of who is likely to lead the country next.
+
+Referring back to my discussion of news silos, I think the Brexit market pricing, in particular, cut through the ability of the two sides of that extremely contentious debate to portray the outcome in a way that deviated significantly from reality. The Brexit market was also of very strong salience to industries that were sensitive to whether the UK remained in the European Union.
+
+Generally speaking, having visibility to the market likelihood of an event with far-reaching consequences, and the ability to hedge that risk if necessary, are both important.
+
+-From the mid 1800s to around 1940, election betting was commonplace within the US. I would highlight two passages from this paper on historical betting markets in the US:
+
+'Wagering on presidential elections has a long tradition in the United States, with large and often well-organized markets operating for over three-quarters of a century before World War II. The resulting betting odds proved remarkably prescient and almost always correctly predicted election outcomes well in advance, despite the absence of scientific polls. This historical experience suggests a promising role for other prediction markets. Our analysis complements a substantial body of experimental research that has hinted that asset markets can successfully aggregate information.'
+
+'Although large sums of money were at stake in the historical presidential betting markets, we are not aware of any evidence that the political process was seriously corrupted by the presence of a wagering market.'
+
+This matches my knowledge and experience of modern elections markets, and highlights the two most important points: (1) the information that the markets provide is valuable and (2) there exists no evidence of a connection between people predicting elections and corrupt outcomes.
+
+-Election hedgers already use imperfect proxies for election markets. People already (crudely) event trade with existing financial instruments. There are a large number of articles written before elections on what stocks you should buy if you think the Republicans or Democrats are going to win. For instance, this is the top result of an internet search on stocks to buy in the 2020 election: a CFA writing in Kiplinger on the '13 Best Stocks to Buy if President Donald Trump Wins Re-Election'. This is one example of many articles that dole out advice on how to bet on the next election through stocks. I'm sure there will be more articles before the 2022 midterm elections.
+
+Trading corporate stocks (and derivatives thereof) is just one way to predict an event; other options include foreign exchange, commodities, sovereign debt, and sophisticated instruments like credit default swaps. Why is this type of trading done before an event? It's of high importance, of high interest, and the ramifications can be quite large. The profits can be as well!
+
+I personally have used stock and derivatives trading as a proxy for events trading, including trades in S&amp;P puts when I was researching COVID in early 2020, trades in for-profit prison companies as a proxy for political control, trades in solar companies as a proxy for political control, and trades in coal companies as a proxy for political control.
+
+But these are imperfect ways to trade the underlying events! I could be completely correct about a certain party taking power and the ramifications on an industry, but the specific company could announce it was under investigation for some unrelated transgression that I can never anticipate. Or the trade could be so crowded with other people with the exact same thesis that everyone is trying to exit at the same time after it happens, and the trade backfires. Trading the actual event contract is always going to be the purest and best method for trading an event, rather than a proxy.
+
+[I earlier mentioned that I briefly traded stocks as my occupation. The reason I brought that up is because I profited by investing in companies with a well-researched thesis using the same principles as predicting elections. But I also found that stocks were far more random and chance-based than participating in a market on elections. As mentioned, the stocks can more easily succumb to the vagaries of random chance and general market sentiment - things you had not anticipated and could not anticipate. Your thesis could be correct , but you could still easily lose money because of how interwoven the company is with other variables. Hence the reason that I went back to elections in 2016 when PredictIt became viable: it is far less common in events trading to have a correct thesis and also lose money.]
+
+If this type of events-oriented trading is already done in the financial sector using legitimate but crude proxies, there is even more reason to bring a regulated market to the equation. It would offer the individuals and companies conducting these trades a straightforward way to make similar predictions of high importance events. With a noteworthy distinction: lower variance and randomness.
+
+-Hundreds of SEC filings from companies mention the risks of politics in their disclosures. In the first paragraph of this letter, I said it was self-evident that hedging is possible with these event contracts. I wanted to highlight something that I have not seen mentioned by commenters yet: publicly-traded corporations are required to file quarterly and annual disclosures of risks to their businesses. Countless numbers (I am going to conservatively classify it as 'hundreds,' because that is how many I've personally read over the years) of these financial disclosures include risks specifically related to politics and changes in laws and regulations commensurate with changes in political power.
+
+I entered a random company into EDGAR: Paypal. In Paypal's most recent 10-Q filed with the SEC, this is one of the most prominent risks listed: 'Our business is subject to complex and changing laws, rules, regulations, policies, and legal interpretations in the markets in which we offer services directly or through partners, including, but not limited to, those governing: banking, credit, deposit taking…[etc.].'
+
+This is just one example. Many, many industries are sensitive to changes in political power to varying degrees. Some industries, like energy, are extremely sensitive. To put a finer point on it: the Department of Energy lists the energy sector as employing 7.8 million people in 2021. That's 5% of the nation's workforce employed in an industry that is currently very sensitive to political control.
+
+Being able to hedge is both important and obvious. What may be less obvious is that robust, regulated markets on something like Congressional control will provide these companies (and individuals within those fields) the ability to quantify those risks. The contours of risk are often a blind spot for many companies. Companies can know the risk exists, but not how to measure it. Underestimating or overestimating the risk could have costly consequences. Market pricing helps to shine a light on political risk and demystify it.
+
+-People already use legitimate financial instruments for speculation. Decisions should not be made based on whether some people could use a market for troublesome uses like speculation or gambling. Because that is true for almost all legitimate financial instruments.
+
+It is not logical to shut down the stock and options market to the public in order to prevent Wallstreetbets users from making ridiculous, highly-leveraged bets in perfectly legitimate financial instruments. Equity trading and derivatives trading are used for their intended purpose by plenty of people. Subsets of traders using financial instruments for speculation or gambling does not obviate the need for the rest of the participants to use them.
+
+More generally, I have found that the argument that 'people will gamble on XYZ!' in relation to election markets to be a red herring. If people want to gamble, they are not bereft of choices. The options are plentiful. In reality, from my experience, the vast majority of users of Intrade and PredictIt were/are trying to make a smart prediction, risking their own money to make a profit. This is exactly what constitutes a healthy market. I suspect Kalshi and other DCMs would likewise see primarily legitimate market participants and very few gamblers.
+
+I hope my thoughts have been worthwhile for anyone who reads them, and I look forward to the forthcoming decision. Kind regards,
+Dominic Erhardt

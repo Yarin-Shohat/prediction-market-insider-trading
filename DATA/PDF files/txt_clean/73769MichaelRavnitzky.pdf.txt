@@ -1,0 +1,33 @@
+Comments on Proposed Rulemaking on Event Contracts Docket No. CFTC-2024-0040-0001 RIN number 3038-AF14
+
+I am writing to offer my views on the proposed rules concerning event contracts in certain excluded commodities.
+
+## Definitions
+
+The current definitions, especially for 'gaming,' are too broad and lack specificity. This could lead to unintended consequences where legitimate market activities are inadvertently included within the scope of regulation. For instance, a contract that includes a performance bonus based on a team's victory in a sporting event could be misclassified as 'gaming' under the proposed rule. To avoid ambiguity, I suggest refining the definitions with clear examples and criteria that distinguish between regulated and non-regulated activities. The Commission should express openness to revisiting the definition of 'gaming' as it gains more experience with this regulatory area.
+
+## Scope of Regulation
+
+The scope of regulation should be clearly defined to prevent overreach. It is essential to establish what is explicitly included and excluded from the rule to ensure that it targets only those contracts that pose a risk to market integrity or public interest. For example, contracts that involve speculative bets on unpredictable events should be included, while those that are part of standard business operations should be excluded.
+
+A measured approach is necessary to balance consumer protection with market efficiency. The rule should be flexible enough to adapt to changing market conditions while providing clear guidelines for market participants.
+
+## Provide a Process for Addressing New Classes of Contracts
+
+No one can anticipate all the classes of events contracts that may arise, such as new types of hybrid contracts. To accommodate new developments in financial products without stifling innovation, the CFTC should build in a process for reviewing and approving new categories of event contracts. This process should involve an advisory committee with diverse representation and a structured public comment period to gather input from all stakeholders.
+
+## Small-Wager Predictive Markets are Socially Valuable and Should Not Be Impeded
+
+Predictive markets, particularly those limited to modest wagers, offer a range of social benefits that contribute to their overall value and utility. These markets serve as a form of collective intelligence, where the aggregated predictions of a diverse group of individuals can lead to more accurate forecasts than any single expert could provide. And there is a long history of predictive markets that provides useful experience and sheds light on how they can operate safely and effectively.
+
+A tolerant approach toward small-wager predictive markets has many benefits. First, predictive markets aggregate information from a wide array of participants, each with their own unique insights and perspectives. This collective wisdom can lead to more informed decision-making and better outcomes. Second, by allowing individuals to wager small amounts, predictive markets distribute risk across a larger pool of participants, reducing the potential impact on any single individual. Third, participants in predictive markets are incentivized to contribute their knowledge and opinions, which can lead to increased engagement and participation in various social and economic activities. Fourth, predictive markets can enhance market efficiency by providing real-time data on public sentiment and expectations, which can be valuable for businesses, policymakers, and researchers. Finally, these markets encourage innovation by providing a platform for new ideas and hypotheses to be tested and validated through collective betting.
+
+CFTC should carve out light regulation for small-stakes predictive markets because in general the benefits outweigh the risks, and the risks are minimized with appropriate licensing.
+
+## Striking a Sound Balance
+
+In general, it is important to strike a balance between regulation and freedom. Over-regulation could stifle the very innovation and efficiency that these markets provide. Therefore, it is crucial to implement a regulatory framework that protects participants from fraud and manipulation while allowing the market to operate freely within reasonable bounds. They should not be subject to over-regulation but rather be supported with a regulatory framework that ensures fairness and integrity.
+
+This does not mean that there should be a Wild West mentality. Just because something is proposed, does not mean that it will not have negative externalities, promote undue financial risk, allow money laundering and other illegal activities, or result in unintended consequences.
+
+Michael Ravnitzky Silver Spring, Maryland

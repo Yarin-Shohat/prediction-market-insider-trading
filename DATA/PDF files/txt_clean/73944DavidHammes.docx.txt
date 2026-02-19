@@ -1,0 +1,30 @@
+hammes@hawaii.edu
+
+July 25, 2024
+
+To:  The Honorable Commodity Futures Trading Commission (CFTC),
+
+With respect to:
+
+“Event Contracts” and RIN number 3038-AF14,
+
+I respectfully request that you cease this proposal to prevent US residents from participating in PredictIt.com markets for the following reasons:
+
+1. This was an incredibly useful learning and teaching tool for me when I was teaching financial and other markets as a professor of economics at the University of Hawaii-Hilo.
+2. PredictIt is approaching its 10 year anniversary, making it one of the biggest and longest running prediction markets in American history.
+3. For people who don’t know, PredictIt works by drawing in thousands of individuals who buy shares of a contract (such as *“Will Donald Trump win the 2024 US presidential election?”* ) at a price between $0.00 and $1. Each contract will resolve for either $0 or $1. The number of cents per contract (the current price) reflects the probability that the contract will resolve as Yes. In effect, this is a crowdsourced probabilistic forecast.
+4. PredictIt trades are capped at $850 per user per contract. This helps to keep the market small-scale and ensures that wealthy individuals cannot manipulate markets. This protects the sanctity of the crowdsourcing process, and differentiates PredictIt from other financial markets that are dominated by hedge funds and institutional investors.
+5. In its 10 year history, PredictIt has made these crowdsourced probabilistic forecasts available to the public, and makes anonymized trade data available to researchers who study patterns in the data.
+6. Research shows that these forecasts are generally accurate and are generally more accurate than polling, especially earlier in a race. This is because polls are a snapshot in time, but prediction markets allow users to weigh the effect of factors (the criminal conviction of a presidential candidate, for example) that have not yet fully resonated with voters.
+7. Because of its accuracy, PredictIt data is widely cited by media, campaigns, and financial institutions, and even appears on the Bloomberg Terminal.
+8. The research also shows that PredictIt makes users more likely to seek out factual information about current events. Users who build trading strategies around factual events tend to do better than those who trade based on their ideologies or misinformation. One study found that a prediction market relating to climate reduced participants’ skepticism of climate change. In an era where both liberal and conservative commentators are alarmed at the public’s acceptance of fake news and misinformation, these markets are one of the few mechanisms left for incentivizing the accumulation of true and accurate information (an antidote to fake news).
+9. Despite the inherent public good that these markets offer, the CFTC is currently on the warpath against Prediction markets. The CFTC is both aiming to shut down PredictIt (and has repeatedly been stopped by courts, including the second highest court in the land) and is proposing a rule that would ban election markets in the United States, perhaps permanently.
+10. PredictIt is spearheading an effort to tell the CFTC why these markets are important and why the CFTC is wrong to view them as gambling, akin to sports betting or a spin of the roulette wheel. We know that PredictIt traders invest time and research into making informed opinions about some of the most economically impactful events (elections) of their lives. These are not games, and the CFTC’s attempts to brand them as gaming are wrong. We need your help to submit comments and force the CFTC to rethink this proposal.
+
+Please cease your activities against PredictIt.com and similar informational sites.
+
+Sincerely,
+
+David L. Hammes
+
+Professor of Economics (ret.), Emeritus

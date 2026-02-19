@@ -1,0 +1,174 @@
+## IN THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA
+
+## MOTION OF PARADIGM OPERATIONS LP FOR LEAVE TO FILE AN AMICUS CURIAE BRIEF IN SUPPORT OF PLAINTIFF'S MOTION FOR SUMMARY JUDGMENT
+
+Paradigm Operations LP ('Paradigm') respectfully moves this Court for leave to file an amicus curiae brief in support of Plaintiff KalshiEx LLC's Motion for Summary Judgment. In support of this motion, and under Local Civil Rules 7(m) and (o), Paradigm states as follows:
+
+1. Paradigm  is  an  American  investment  firm  that  backs  entrepreneurs  building companies and protocols that leverage crypto and related technologies at the frontier of innovation. Paradigm  takes  a  hands-on  approach  to  helping  these  projects  achieve  their  full  potential.  It provides  services  that  range  from  technical  (mechanism  design,  smart  contract  security,  and engineering) to operational (recruiting and regulatory strategy).
+2. Paradigm  has  an  interest  in  this  case  because  prediction  markets  could  be  an impactful use case for crypto and related technologies in which Paradigm invests. Paradigm also has an interest in supporting the broad availability of regulated prediction markets, which are a valuable source of public information and allow market participants (including crypto investors and entrepreneurs) to hedge their exposure to specific events.
+3. An  amicus  brief  from  Paradigm  is  desirable  because  Paradigm's  investment experience gives it an on-the-ground view of how today's most innovative companies manage risk.
+4. The matters asserted in Paradigm's brief are relevant to the disposition of this case because a key legal question before the Court is whether event contracts involving Congressional control are in the public interest. Paradigm's brief draws on Paradigm's market experience to give examples and explain multiple ways in which these event contracts are in the public interest.
+5. Paradigm's position is not adequately represented by the parties because the parties lack Paradigm's real-world investment experience in crypto and related technologies.
+6. This  motion  is  filed  one  week  after  Plaintiff  filed  its  Motion  for  Summary Judgment, and almost four weeks before Defendant's response is due. Therefore, granting this motion would not unduly burden the parties and would not unduly delay the Court's consideration of this case.
+7. Counsel for Plaintiff has stated that Plaintiff consents to this motion.
+8. Counsel for Defendant has stated that Defendant does not oppose this motion.
+For these reasons, Paradigm respectfully requests that the Court grant this motion for leave to file the attached brief. A proposed order is also attached to this motion.
+
+Dated: February 1, 2024
+Respectfully submitted.
+s/ Scott A. Keller
+Scott A. Keller
+LEHOTSKY KELLER COHN LLP
+200 Massachusetts Avenue, NW, Suite 700
+Washington, DC 20001
+(512) 693-8350
+scott@lkcfirm.com
+Counsel for Amicus Curiae
+
+## Certificate of Service
+
+I hereby certify that on February 1, 2024, I electronically filed the foregoing motion with the Clerk of Court using the CM/ECF system, which will send a notice of electronic filing to all counsel of record who have consented to electronic notification.
+
+s/ Scott A. Keller
+Scott A. Keller
+Counsel for Amicus Curiae
+
+## IN THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA
+
+KalshiEx LLC, Plaintiff , v. Commodity Futures Trading Commission, Defendant . Case No. 23-cv-03257-JMC
+
+## BRIEF OF PARADIGM OPERATIONS LP AS AMICUS CURIAE IN SUPPORT OF PLAINTIFF'S MOTION FOR SUMMARY JUDGMENT
+
+Scott A. Keller LEHOTSKY KELLER COHN LLP 200 Massachusetts Avenue, NW, Suite 700 Washington, DC 20001 (512) 693-8350 scott@lkcfirm.com
+Counsel for Amicus Curiae
+
+## Interest of Amicus Curiae
+
+Paradigm Operations LP is an American investment firm that backs entrepreneurs building companies and protocols that leverage crypto and related technologies at the frontier of  innovation.  Paradigm takes a hands-on approach to helping these projects achieve their full potential. It provides services that range from technical (mechanism design, smart  contract security, and  engineering)  to operational (recruiting  and regulatory strategy).
+
+Paradigm  has  an  interest  in  this  case  because  prediction  markets  could  be  an impactful  use  case  for  crypto  and  related  technologies  in  which  Paradigm  invests. Paradigm also has an interest in supporting the broad availability of regulated prediction markets, which are a valuable source of public information and allow market participants (including crypto investors and entrepreneurs) to hedge their exposure to specific events.
+
+## Corporate Disclosure Statement
+
+Paradigm  discloses  the following information  for the limited purpose  of complying with Local Civil Rule 7(o)(5) and Federal Rule of Appellate Procedure 26.1. Paradigm has no parent corporation. No publicly held corporation owns 10% or more of Paradigm's stock. Paradigm reserves the right to supplement this disclosure statement if needed.
+
+## Local Civil Rule 7(o)(5) Statement
+
+In accordance with Local Rule 7(o)(5) and Federal Rule of Appellate Procedure Rule  29(a)(4)(E),  Paradigm  certifies  that:  (1)  this  brief  was  authored  by  counsel  for Paradigm and not by counsel for any party, in whole or in part; (2) no party or counsel for any party contributed money to fund preparing or submitting this brief; and (3) no other person-beyond Paradigm and its counsel-contributed money that was intended to fund preparing or submitting this brief.
+
+## Introduction and Summary of Argument
+
+A  lot  rides  on  U.S.  Congressional  elections:  countless  pieces  of  legislation, spending provisions, and confirmations of executive and judicial nominees become more (or less) likely. The uncertainty of these potential outcomes creates risks for businesses and individuals. Event contracts-like the ones Plaintiff KalshiEx LLC seeks to list on its exchange-advance two public interests. First, they allow parties directly impacted by political outcomes to mitigate risk by hedging. Second, they provide information that the public can use to better predict-and thus plan for-a given outcome.
+
+Consider  an  entrepreneur  who  is  building  a  crypto  startup  in  the  U.S.  The likelihood that Congress will pass legislation that will impact the viability of U.S.-based crypto  startups  is  directly  affected  by  which  party  is  in  control  of  Congress,  and  by whether the government is divided. The entrepreneur may therefore want to buy an event contract that pays out depending on which party takes control of Congress in order to hedge its regulatory risk. Moreover, when market participants hedge substantial sums on a particular event contract, members of the general public-even those who never join the  market-get  valuable  real-time  information.  Event  markets  might  even  be  better predictors  of  electoral  outcomes  than  public  opinion  polling-precisely  because  they require participants to put their own skin in the game.
+
+In short, event contracts tied to Congressional control are a win-win. The entities who stand to lose most from one political outcome can mitigate their risk. And the public at large gains insight into what industry insiders think is likely to happen. Defendant Commodity  Futures  Trading  Commission's  Order  thus  errs  in  declaring  that  event contracts 'are contrary to the public interest.' Order 23. (In  this  brief,  citations to the 'Order' refer to the Commission's order prohibiting Kalshi from listing the Control Contracts. And this brief's citations to the 'MSJ' refer to Kalshi's Memorandum of Law in Support of Kalshi's Motion for Summary Judgment (ECF No. 17-1).)  The general public has a strong interest in seeing the Control Contracts listed on Kalshi's exchange. Allowing Congressional Control Contracts to trade at scale on regulated platforms such as Kalshi's will ensure that these important markets develop with investor protections and systemic integrity.  For  these  reasons,  the  Court  should  grant  Kalshi's  Motion  for  Summary Judgment.
+
+## Argument
+
+## I. Control Contracts help businesses and individuals hedge financial risk.
+
+Congressional power manifests in ways that create risk at aggregate and granular levels. Congressional Control Contracts provide a mechanism for market participants to mitigate those risks in ways that event contracts tied to specific policy outcomes do not.
+
+## A. Congressional action (or inaction) poses inherent financial risk.
+
+The  U.S.  Congress  wields  many  powers.  The  uncertainty  surrounding  how Congress will wield those powers is compounded by the uncertainties of future partisan control. Anyone subject to Congressional action-that is, everyone-has an interest in mitigating the risks associated with different potential outcomes.
+
+Legislation. Congress's primary duty is to legislate: to create, amend, and repeal laws. Those laws can have drastic financial effects. Consider the 'Farm Bill,' which is a multiyear law that regulates several agricultural and food programs. The current Farm Bill includes provisions that guarantee that farmers can earn at least a minimum revenue for some crops. E.g. , Agriculture Improvement Act of 2018, Pub. L. No. 115-334, 132 Stat. 4490, 4509 (2018). But there is no guarantee that those provisions will be part of the next Farm Bill, creating financial risk for any farmer who relies on them.
+
+Another example is the potential passage of a crypto market structure bill. Various proposed bills have been introduced on a bi-partisan basis. See, e.g. , Financial Innovation and Technology for the 21st Century Act, H.R. 4763, 118th Cong. (2023); Proving Reserves of Others' Funds Act, S.3087, 118th Cong. (2023); Clarity for Payment Stablecoins Act, H.R.  4766,  118th  Cong.  (2023).  But  the  probability  of  any  bill  becoming  law  will significantly depend on which party is in control of Congress. Going back to the earlier example  of  a  U.S.-based  crypto  entrepreneur,  the  uncertainty  as  to  which  party  will control Congress will have a direct effect on the probability of market structure regulation being adopted and will therefore create significant financial risk for the startup.
+
+Confirmations. Beyond legislation, each chamber of Congress has specific power to take independent action. The Senate, for instance, holds the exclusive power to confirm Presidential nominees for the Judicial and Executive branches. Therefore, anyone with an interest in who serves as the next Associate Justice of the U.S. Supreme Court, or as the Secretary of Agriculture, or as the Chairman of the Securities and Exchange Commission has an interest in the Senate's partisan composition.
+
+Taxation. The House of Representatives has distinct powers, too. Notably, bills for raising  revenue  must  originate  in  the  House.  For  example,  in  2021,  a  Democratic controlled Congress passed the Infrastructure Investment and Jobs Act. Pub. L. No. 11758,  135  Stat.  429  (2022).  This  legislation  included  two  tax  revenue  provisions  that specifically  address  crypto. See 26  U.S.C  § 6045-45A  (authorizing  rulemaking  that requires  brokers  to  report  sales  of  digital  assets  to  the  IRS); id. § 6050I  (requiring businesses to treat digital assets as cash in transactions involving over $10,000). But, if implemented, these provisions are likely to cost the crypto industry tens, if not hundreds, of  millions  of  dollars. See, e.g. , Gross  Proceeds  and  Basis  Reporting  by  Brokers  and Determination of Amount Realized and Basis for Digital Asset Transactions , 88 Fed. Reg. 59576, 59619 (proposed Aug. 29, 2023) (to be codified at 26 C.F.R. pts. 1, 31, and 301) (estimating that, for reporting requirements under 26 U.S.C § 6045, 'start-up costs' alone will reach '$749,925,000').
+
+The likelihood of the next Congress passing any legislative fixes or alterations to these  two  provisions  depends  significantly  on  which  party  controls  that  Congress. Congressional Control Contracts would therefore provide a way for affected crypto firms to hedge their exposure to the potential implementation of these provisions.
+
+## B. Control Contracts allow stakeholders to hedge against the aggregate and granular risks that flow from partisan control.
+
+Against that backdrop, Congressional Control Contracts offer the public significant value in at least two respects. First, they allow stakeholders to hedge against the  aggregate  risks  that  come  with  one  party's  control  of  Congress. Who wields  the powers of Congress matters enormously across innumerable areas of public life. Second, Control Contracts permit hedging against specific policy outcomes. Both major political parties offer legislative agendas; Congressional Control Contracts allow stakeholders to mitigate the risks associated with the implementation of those agendas writ large.
+
+## 1. Control Contracts allow parties to hedge aggregate risk.
+
+When Congressional power shifts from one party to the other, the financial risks facing  businesses  and  individuals  shift  too.  But  each  specific  risk  may  not  always  be knowable beforehand. As described above, changes in Congressional control can create aggregate risk in a myriad of ways, including through legislation, nominations, taxation, and more. That is true even when the change in control does not materially increase the risk of any particular legislative outcome.
+
+Take, for example, a venture capital firm that invests in multiple different types of industries. That firm may be able to mitigate risk through multiple independent hedgesfor  example,  one  regarding  the  EPA's  car  emission  standards,  and  another  about  the SEC's regulation of crypto. But there is no reason to prohibit that firm from the one-stopshopping that a Congressional Control Contract offers. Such contracts give financial force to  the  truism  that  one  Congress  (or  chamber)  that  seeks  to  aggressively  regulate  a particular industry can use its broad powers to undermine that industry in several ways. So too for a Congress that supports a given industry, because that support may evaporate if Congressional control changes hands.
+
+Trying to manage these financial risks by anticipating how Congress will exercise its specific powers is like trying to buy homeowner's insurance based on where a fire could start-there are too many bases to cover. Just like a fire might start in a kitchen, electrical closet, or even outside, so too Congress might take adverse action through legislation, confirmations, taxation, and more. Control Contracts allow businesses to hedge all that risk using a single instrument-just like a homeowner buying a single insurance policy. (As Kalshi discusses, event contracts and insurance differ in important respects. MSJ 5, 36. Still, at a high level, both instruments allow the purchaser to address aggregate risks using a single instrument.)
+
+## 2. Control Contracts allow parties to hedge specific outcomes.
+
+Congressional  Control  Contracts  offer  the  additional  advantage  of  hedging against more granular outcomes that become more or less likely under one particular political party's rule. For example, during the 2002 Congressional election season, the President had specifically called on Congress to 'guarantee all senior citizens prescription drug coverage.' President's Radio Address (May 18, 2002), http://tinyurl.com/7ae26mf8. After the Senate Majority flipped in 2003-giving a single party  control  of  the  Presidency  and  both  chambers-Congress  did  just  that  when  it passed the Medicare Prescription Drug, Improvement, and Modernization Act, Pub. L. No.  108-173,  117  Stat.  2066  (2003),  creating  billions  in  new  spending. See Jennifer O'Sullivan, Cong. Rsch. Serv., Overview of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 (Dec. 6, 2004), http://tinyurl.com/bdeezdjb. Viewing all this from 2002-before the Senate flipped-any number of businesses could have used Control Contracts to hedge the financial risks associated with that Act's passage.
+
+Potential  regulation  of  artificial  intelligence  provides  a  current  example,  as  the political parties have expressed contrasting approaches. Compare Brendan Bordelon, Top GOP  senator  teams  up  with  key  Dem  on  'light-touch'  AI  bill ,  Politico  (Sept.  21,  2023), http://tinyurl.com/566nsmpf, with Derek  Robertson, Poll:  AI  is  looking  more  partisan , Politico (Jan. 23, 2024), http://tinyurl.com/46p34yz2. Control Contracts give businesses in the A.I. sector a tool to hedge the risks that they may see in specific Congressional action related to A.I. It is the same for businesses in many other sectors.
+
+## C. Control  Contracts  can  also  help  hedge  risks  that  are  independent  of official Congressional action.
+
+Congressional control itself can also pose direct financial risks to businesses and individuals-even before considering what official action Congress might take. Consider again a crypto-focused startup that knows it will need to raise capital sometime after the next Congressional election. If the party that takes (or keeps) power seeks to aggressively regulate the startup's business or the crypto sector in general, then the startup's cost of capital may increase. The cost goes up not because of anything Congress has done, but rather because capital markets view the mere change in control as a meaningful factor affecting  the  startup's  creditworthiness  or  viability.  Control  Contracts  can  help  the startup manage that risk.
+
+## II. Event markets for Control Contracts are an accurate and useful predictive tool.
+
+Event markets reveal collective wisdom. The prices for Control Contracts reflect a wide array of informed opinions about which political party will control each house of Congress.  Because  of  that,  the price  itself represents  the  market's  real-time  prediction about what will happen in the next election. By observing these markets, members of the general public can harness the wisdom of crowds to help make better decisions-even without ever buying or selling in the market themselves. That wisdom helps the public make  strategic  decisions  about  how  to  structure  their  affairs.  For  these  reasons,  too, Control Contracts are in the public interest. Contra Order 23.
+
+## A. Event markets give an up-to-the-minute prediction of political outcomes.
+
+Predictions are valuable only if accurate. Even though they do not offer predictive certainty,  event  markets  do  have  several  accuracy-enhancing  features.  First,  event markets are accurate because of their inherent ability to adjust to new information in real time.  As  events  unfold  and  new  data  becomes  available,  market  participants  swiftly incorporate  this  information  into  their  hedging  strategies.  This  continuous  flow  of information-and the immediate response of market actors-ensures that prices of event contracts  are  always  reflective  of  the  most  current  understanding  and  expectations regarding, e.g. , Congressional control. The 'real time' nature of event markets separates them from polling data, which can lag for days.
+
+Second, market participants have 'skin in the game,' meaning that they have a financial  stake  in  whether  a  particular  event  comes  to  pass  and  are  therefore  highly motivated to try to accurately forecast event outcomes. In contrast, polling results are based on the potentially uninformed opinions of individuals selected at random. The vested interest of event-market participants leads to more precise and reliable market pricing.
+
+Third,  event  markets  are  open  to  a  wide  array  of  buyers  and  sellers.  Each participant brings their own unique preferences, objectives, and experiences to the table. These  buyers  and  sellers  can  include  hedgers  seeking  to  mitigate  risk,  institutional investors who wish to diversify their portfolios, or even speculators looking to profit from future changes in contract prices. That diversity ensures that the market prices reflect a broad  spectrum  of  perspectives.  The  interaction  between  these  participants-each employing their own specific strategies and insights-contributes to the depth, liquidity, and efficiency of the market for event contracts, which in turn lowers the cost of hedging. For  many  event  contracts,  including  Control  Contracts,  this  holistic  perspective  is unavailable anywhere else.
+
+Unlike polling data, Control Contracts do not suffer from sample bias, recency bias, survey bias, or any of the numerous other complicated pitfalls that weigh down the accuracy of political polling. They are real-time and open to informed individual and institutional participants, unlike polling, which uses retrospective snapshots in time of sampled individual voters. Indeed, professional statistician Nate Silver has recognized that  'prediction  markets  are  considerably  more  accurate  than  [even]  peer  reviewed scholarship.' @NateSilver538, X (Jan. 13, 2024, 8:26 PM), http://tinyurl.com/3cf34rmz.
+
+## B. Predictions of political outcomes are useful for many purposes.
+
+Reliable predictions of Congressional control play a crucial role in the strategic planning and decisionmaking processes of businesses and individuals. Predictions are an essential tool for navigating the uncertain and volatile political landscape. This foresight allows businesses to stay ahead of the regulatory curve, ensuring they are not caught offguard by political shifts that could impact their revenue. Even individuals and businesses that do not use event contracts can use the data that event markets provide.
+
+For individuals, accurate predictions of political outcomes can influence a wide range  of  personal  financial  decisions.  Anticipated  changes  in  government  policy regarding  taxes,  401ks,  and  healthcare  can  have  direct  implications  for  individual financial planning. By staying informed about potential political shifts, individuals can adjust their savings strategies and investment portfolios. Likewise, real estate investors and homeowners alike benefit from understanding how political outcomes might affect property values. Data from event markets allows individuals to make more informed decisions in all these areas.
+
+Control  Contracts  give  the  public  better  data  about  the  likelihood  of  political outcomes.  That  is  why  Harvard  Professor  and  former  economic  advisor  to  President Obama  Jason  Furman  has  argued  that  'a  liquid,  well-regulated  prediction  market offering an accurate probability estimate of who is likely to control Congress would thus be highly valuable to price discovery.' Jason Furman, Comment Letter on KalshiEx Proposed Congressional  Control  Contracts  Under  CFTC  Regulation  40.11 ,  at  2-3  (Sept.  18,  2022), http://tinyurl.com/43hxtppr.  Just  so.  Business  owners  must  make  decisions  based  on what  the  economy  will  look  like in  the  future .  Individuals  must  make  career  and retirement decisions based on how much money they will need in the future .
+
+Congress has a large degree of power to influence future financial outcomes. And the party that controls Congress has wide latitude to decide how that power will be used. Control Contracts are in the public interest because they help the public assess and plan for the actions Congress might take.
+
+## Conclusion
+
+The Court should grant Plaintiff's Motion for Summary Judgment.
+
+Dated: February 1, 2024
+Respectfully submitted.
+s/ Scott A. Keller
+Scott A. Keller LEHOTSKY KELLER COHN LLP 200 Massachusetts Avenue, NW, Suite 700 Washington, DC 20001 (512) 693-8350 scott@lkcfirm.com
+Counsel for Amicus Curiae
+
+## Certificate of Compliance
+
+Pursuant to Local Civil Rule 7(o)(5), and pursuant to Federal Rules of Appellate Procedure 29(a)(4)(G) and 32(g)(1), I certify that this brief complies with Local Rule 7(o)(4) because it contains fewer than 25 pages.
+
+s/ Scott A. Keller
+Scott A. Keller
+Counsel for Amicus Curiae
+
+## IN THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA
+
+KalshiEx LLC, Plaintiff , v.
+Commodity Futures Trading Commission, Defendant .
+
+Case No. 23-cv-03257-JMC
+
+## [PROPOSED] ORDER
+
+Upon consideration of the Motion of Paradigm Operations LP ('Paradigm') For Leave to File  an  Amicus  Curiae  Brief  in  Support  of  Plaintiff  KalshiEx  LLC's  Motion  for  Summary Judgment, and there appearing good cause to grant such leave,
+
+It is hereby ORDERED that:
+
+1. The Motion is GRANTED ; and
+2. The Amicus Curiae Brief submitted by Paradigm is deemed submitted and shall be considered part of the record in this matter.
+
+The Honorable Jia M. Cobb United States District Judge
+
+## NAMES OF ATTORNEYS TO BE NOTIFIED OF ORDER UPON ENTRY
+In accordance with Local Civil Rule 7(k), listed below are the names and addresses of the attorneys entitled to be notified upon entry of the [Proposed] Order:
+Yaakov M. Roth Joshua B. Sterling John Henry Thompson JONES DAY 51 Louisiana Avenue, NW Washington, DC 20012 (202) 879-7658
+Amanda K. Rice JONES DAY 150 W. Jefferson Avenue, Suite 2100 Detroit, MI 48226 (313) 733-3939
+Samuel V. Lioi JONES DAY 901 Lakeside Avenue Cleveland, Ohio 44114 (216) 586-3939
+Raagnee Beri Conor Daly Commodity Futures Trading Commission 1155 21st Street, NW Washington, D.C. 20581 (202) 418-5986

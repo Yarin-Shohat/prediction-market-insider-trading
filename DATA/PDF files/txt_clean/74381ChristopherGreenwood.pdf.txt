@@ -1,0 +1,39 @@
+## September 15, 2022
+
+Submitted electronically via CFTC.gov
+
+Commodity Futures Trading Commission Three Lafayette Centre 1155 21st Street, N.W. Washington, DC 20581
+
+Re: Comments Responding to the Commission's Specific Questions Related to KalshiEX, LLC's Proposed Congressional Control Contracts
+
+To Whom It May Concern:
+
+We, the partners of Sequoia Capital, are responding to the CFTC's request for comment on KalshiEX, LLC's ('Kalshi' Proposed Congressional Control Contracts. We write this comment in support of Kalshi's proposed contracts regarding control of the U.S. House of Representatives and the Senate.
+
+Sequoia Capital ('Sequoia') is a 50-year old venture capital firm, known for its investments in companies including 23&amp;Me, Airbnb, Apple, Cisco, DoorDash, Google, Instagram, NVIDIA, Oracle, SpaceX, WhatsApp, YouTube, Zoom, and more. While we are known for our work in technology broadly, we have had decades of experience working with financial technology companies, including Block (formerly Square), Citadel Securities, FTX, Klarna, Nubank, PayPal, Robinhood, Stripe, and more.
+
+Sequoia has been an investor in Kalshi since 2020. We invest in companies that have the potential to become enduring institutions and a powerful force for good. We invested in Kalshi because we believe that an events marketplace can become a very valuable business in the long run.
+
+As the CFTC considers Kalshi's proposal, we wanted to highlight two specific areas:
+
+## Value in Political Prediction Markets:
+
+First, we believe that political prediction markets provide valuable data points to the public, by unlocking the 'wisdom of the crowds'. Thousands of participants trading creates information about the state of an electoral race which is far more likely to be accurate than the predictions of political analysts, many of whom are incentivized to facilitate a particular outcome. We believe this information could cut through the noise from polling, news, and other sources of information that may have negative impacts on elections and the public's confidence in elections and the electoral process.
+
+In fact, allowing these markets could bolster civic literacy and honesty, and is in the public interest. In a political prediction market, hedgers and traders would be able to provide fast-moving, accurate information about an electoral race that incorporates polls, fundamentals, platforms, and any other salient changes. Because hedgers and traders have a profit incentive to get this right, any inaccuracy is quickly traded away and the crowd's wisdom would prevail. Though these types of markets have existed previously, the lack of a legal, well-regulated market has limited the ability for them to break into the mainstream.
+
+Moreover, an educated electorate is an engaged electorate: the reasonable assumption is that market participants would learn about what they trade. Traders would accordingly spend hours learning about the ins and outs of a race, becoming more informed citizens in the process. The public interest in these markets are vast.
+
+## Impact on Electoral Process:
+
+Second, in question 13, the CFTC has asked about the potential impact on electoral integrity.  We believe that Kalshi's proposal does not pose a risk to the integrity of the U.S. election system nor impact the popular perception of the integrity of the elections. Concerns about the potential impact on election integrity are not supported by data. We have years of data from organizations like PredictIt and similar entities in other countries, like the United Kingdom, where they have hosted so-called 'majorities' contracts for decades. The market has not identified data that show that this market activity has caused any election manipulation, and we believe what Kalshi is proposing is safe and would not lead to election manipulation.
+
+Many hypothetical concerns regard the small margins in minor elections-for example, local or state elections. However, Kalshi is not proposing to offer contracts on smaller elections, but is rather proposing a contract on which party controls the House and Senate, which involves many elections with tens of millions of voters.
+
+It is worth noting that Kalshi's proposed position limits are not high. The incentive to manipulate the market at this low level is nearly non-existent. In fact, we believe that the market could absorb much higher position limits without any risk of manipulation. Perhaps a low limit might be required for an election with a small voting base-such as a mayoral race in a mid-sized city or a governorship of a small state-but that is not the case before us. Considering that control of Congress consists of hundreds of elections involving tens of millions of voters, there is no incentive for any individual to change their vote nor attempt to change the vote of others-the upside is far too low and uncertain considering the risks and expense involved.
+
+Thank you for the opportunity to submit a comment related to Kalshi's proposal. We are excited about the promise that prediction markets can bring in enhancing forecasting and expanding access to valuable information about elections, and we encourage the CFTC to approve Kalshi's proposal by October 28, 2022.
+
+Sincerely,
+
+Partners of Sequoia Capital

@@ -1,0 +1,148 @@
+Term,Category,Subcategory,Weight,Confidence,Context_Required,Source,Definition
+betting,Gambling,Direct_Terms,4,High,No,"Snowberg et al. (2012), Wikipedia",Placing wagers on outcomes
+bet,Gambling,Direct_Terms,4,High,No,"Snowberg et al. (2012)",Making a wager
+wager,Gambling,Direct_Terms,4,High,No,"Snowberg et al. (2012)",A bet or stake on an uncertain outcome
+gambling,Gambling,Direct_Terms,5,High,No,"Wikipedia, Sen. Lincoln quote (FIA 2023)",Staking money on uncertain events for entertainment or profit
+gamble,Gambling,Direct_Terms,5,High,No,Wikipedia,To play games of chance for money
+odds,Gambling,Direct_Terms,4,High,No,"Snowberg et al. (2012), Rhode & Strumpf",The ratio of probabilities in betting
+bookie,Gambling,Direct_Terms,5,High,No,Sports Betting Dime (2025),A person who takes bets (bookmaker)
+bookmaker,Gambling,Direct_Terms,5,High,No,Sports Betting Dime (2025),Professional who accepts bets
+payout,Gambling,Direct_Terms,3,Medium,No,Johnson et al. (2025),Money received when winning a bet
+casino,Gambling,Direct_Terms,5,High,No,Britannica Money (2025),Gambling establishment
+parlor,Gambling,Direct_Terms,5,High,No,Britannica Money (2025),Betting establishment (as in betting parlor)
+stake,Gambling,Direct_Terms,4,High,No,"Johnson et al. (2025), Yahoo Finance",Money risked on a bet
+staking,Gambling,Direct_Terms,4,High,No,Yahoo Finance (2025),The act of placing money at risk
+gaming,Gambling,Direct_Terms,4,High,No,"CFTC Regulation 40.11, FIA Webinar (2023)",Gambling activities
+sportsbook,Gambling,Direct_Terms,5,High,No,Arizona Dept. Gaming (SCCG 2025),Establishment that accepts sports bets
+win,Gambling,Direct_Terms,2,Low,Yes,Common usage,Successful outcome of a bet
+lose,Gambling,Direct_Terms,2,Low,Yes,Common usage,Unsuccessful outcome of a bet
+longshot,Gambling,Market_Terms,3,High,No,Snowberg et al. (2012) Figure 3,Unlikely winner with high odds
+favorite,Gambling,Market_Terms,2,Medium,Yes,Snowberg et al. (2012) Figure 3,Most likely winner with low odds
+spread betting,Gambling,Market_Terms,4,High,No,Snowberg et al. (2012),Betting on a margin of victory
+pari-mutuel,Gambling,Market_Terms,4,High,No,Snowberg et al. (2012),Pool betting system from horse racing
+favorite-longshot bias,Gambling,Market_Terms,5,High,No,Snowberg et al. (2012) Figure 3,Pricing anomaly in sports betting
+chance,Gambling,Concepts,3,Medium,Yes,SCCG Research (2025),Random probability (when contrasted with skill)
+entertainment,Gambling,Concepts,3,High,No,Yahoo Finance (2025) Chan quote,Gambling as leisure activity
+loss chasing,Gambling,Concepts,5,High,No,Johnson et al. (2025),Continued gambling to recoup losses
+addiction,Gambling,Concepts,5,High,No,Johnson et al. (2025),Compulsive gambling behavior
+problem gambling,Gambling,Concepts,5,High,No,Johnson et al. (2025),Gambling that causes significant problems
+harm minimization,Gambling,Concepts,4,High,No,Johnson et al. (2025),Measures to reduce gambling harms
+self-exclusion,Gambling,Concepts,5,High,No,Johnson et al. (2025),Program to ban oneself from gambling
+unregulated,Gambling,Concepts,4,High,No,Britannica Money (2025),Lacking proper oversight
+circumvent,Gambling,Concepts,4,High,No,"Yahoo Finance (2025), Britannica Money",To avoid or bypass (laws/regulations)
+circumventing,Gambling,Concepts,4,High,No,Britannica Money (2025),Bypassing regulations
+economic loss,Gambling,Concepts,3,Medium,No,Johnson et al. (2025),Financial harm from gambling
+24/7 access,Gambling,Concepts,3,Medium,No,Johnson et al. (2025),Constant availability increasing risk
+mental health,Gambling,Concepts,3,Medium,Yes,Johnson et al. (2025),Psychological impacts of gambling
+day trading,Gambling,Concepts,2,Low,Yes,Johnson et al. (2025),High-frequency trading (when framed as gambling)
+speculation,Neutral,Context_Dependent,2,Low,Yes,Multiple sources,Risky investment or informed analysis depending on context
+speculator,Neutral,Context_Dependent,2,Low,Yes,Sports Betting Dime (2025),Person engaging in speculation
+information aggregation,Economic_Theory,Core_Theory,5,High,No,"Wolfers & Zitzewitz (2004), Snowberg et al. (2012)",Combining dispersed information through market mechanism
+price discovery,Economic_Theory,Core_Theory,5,High,No,"ScienceDirect, Britannica Money (2025)",Process by which markets determine prices
+efficient markets hypothesis,Economic_Theory,Core_Theory,5,High,No,"Snowberg et al. (2012), Wikipedia",Theory that markets reflect all available information
+efficient market,Economic_Theory,Core_Theory,5,High,No,Snowberg et al. (2012),Market that quickly incorporates new information
+rational expectations,Economic_Theory,Core_Theory,5,High,No,"Snowberg et al. (2012), ScienceDirect",Economic model by Lucas (1972)
+dispersed information,Economic_Theory,Core_Theory,5,High,No,Wolfers & Zitzewitz (2004),Information scattered among many individuals
+wisdom of crowds,Economic_Theory,Core_Theory,4,High,No,"Yahoo Finance (2025) Chan quote, Surowiecki (2004)",Collective intelligence of groups
+wisdom of the crowd,Economic_Theory,Core_Theory,4,High,No,Yahoo Finance (2025),Collective intelligence
+collective intelligence,Economic_Theory,Core_Theory,4,High,No,"Wikipedia, Yahoo Finance (2025)",Group knowledge superior to individuals
+market mechanism,Economic_Theory,Core_Theory,5,High,No,Snowberg et al. (2012),Algorithm for aggregating information
+risk-neutral,Economic_Theory,Core_Theory,4,High,No,Snowberg et al. (2012),Not affected by risk preferences
+forecasting,Economic_Theory,Forecasting,4,High,No,Snowberg et al. (2012) title,Predicting future events using data
+forecast,Economic_Theory,Forecasting,4,High,No,"Wolfers & Zitzewitz (2004), Berg et al. (2008)",A prediction of future events
+prediction,Economic_Theory,Forecasting,3,Medium,No,"Berg et al. (2008), Wolfers & Zitzewitz",Forecast of future outcome
+predict,Economic_Theory,Forecasting,3,Medium,No,Multiple sources,To forecast an outcome
+forecast accuracy,Economic_Theory,Forecasting,5,High,No,Wolfers & Zitzewitz (2004),Measure of prediction correctness
+outperform,Economic_Theory,Forecasting,4,High,No,"Wolfers & Zitzewitz (2004), Berg et al. (2008)",Exceed performance of alternatives
+statistical errors,Economic_Theory,Forecasting,4,High,No,Snowberg et al. (2012),Quantitative measure of forecast mistakes
+forecast error,Economic_Theory,Forecasting,4,High,No,Green & Breggia (2023),Difference between forecast and actual
+probability estimation,Economic_Theory,Forecasting,4,High,No,Wolfers & Zitzewitz (2004),Quantifying likelihood of outcomes
+efficient,Economic_Theory,Market_Efficiency,4,High,No,Snowberg et al. (2012),Operating with minimal waste/error
+incorporate information,Economic_Theory,Market_Efficiency,5,High,No,Snowberg et al. (2012),Absorbing new data into prices
+impervious to manipulation,Economic_Theory,Market_Efficiency,5,High,No,Snowberg et al. (2012),Resistant to artificial price changes
+weakly efficient,Economic_Theory,Market_Efficiency,4,High,No,Snowberg et al. (2012),Markets reflect past information
+market prices,Economic_Theory,Market_Efficiency,3,Medium,No,Wikipedia,Prices determined by trading
+trading,Economic_Theory,Financial_Terms,2,Low,Yes,All economic papers,Buying and selling contracts
+trade,Economic_Theory,Financial_Terms,2,Low,Yes,All sources,Exchange of contracts
+contract,Economic_Theory,Financial_Terms,2,Medium,No,All sources,Financial agreement with specified terms
+derivative,Economic_Theory,Financial_Terms,4,High,No,"Wikipedia, UChicago Law Review",Financial instrument based on underlying asset
+futures contract,Economic_Theory,Financial_Terms,4,High,No,Multiple sources,Agreement to transact at future date
+event contract,Economic_Theory,Financial_Terms,3,High,No,Multiple sources,Contract based on event outcome
+exchange,Economic_Theory,Financial_Terms,3,Medium,No,"Wikipedia, Green & Breggia (2023)",Organized marketplace for trading
+exchange-traded,Economic_Theory,Financial_Terms,4,High,No,Wikipedia,Traded on regulated exchange
+market participant,Economic_Theory,Financial_Terms,3,Medium,No,"Snowberg et al. (2012), Dreber et al.",Individual engaged in market
+trader,Economic_Theory,Financial_Terms,2,Low,Yes,Multiple sources,Person who trades (neutral term vs gambler)
+arbitrage,Economic_Theory,Financial_Terms,4,High,No,SCCG Research (2025),Profiting from price differences
+liquidity,Economic_Theory,Financial_Terms,4,High,No,SCCG Research (2025),Ease of buying/selling
+position,Economic_Theory,Financial_Terms,2,Medium,No,Robinhood documentation,Holding of contracts
+settlement,Economic_Theory,Financial_Terms,3,Medium,No,FIA Webinar (2023),Final resolution of contract
+cash settlement,Economic_Theory,Financial_Terms,4,High,No,FIA Webinar (2023),Monetary settlement at contract expiration
+research tool,Economic_Theory,Research_Terms,5,High,No,"FIA Webinar (2023), Sports Betting Dime",Markets used for academic study
+academic purposes,Economic_Theory,Research_Terms,5,High,No,FIA Webinar (2023),Educational or scholarly use
+non-profit purpose,Economic_Theory,Research_Terms,4,High,No,FIA Webinar (2023),Not for commercial gain
+academic,Economic_Theory,Research_Terms,4,High,No,Multiple sources,Relating to scholarship
+research,Economic_Theory,Research_Terms,4,High,No,"SCCG Research (2025), multiple",Systematic investigation
+analysis,Economic_Theory,Research_Terms,3,Medium,No,SCCG Research (2025),Detailed examination
+data-driven,Economic_Theory,Research_Terms,3,High,No,Sports Betting Dime (2025),Based on empirical data
+hedging,Economic_Theory,Economic_Function,5,High,No,"UChicago Law Review, Britannica Money",Risk management strategy
+risk management,Economic_Theory,Economic_Function,4,High,No,Britannica Money (2025),Strategies to minimize losses
+economic indicators,Economic_Theory,Economic_Function,4,High,No,Snowberg et al. (2012),Metrics of economic performance
+economic purpose,Economic_Theory,Economic_Function,5,High,No,FIA Webinar (2023),Legitimate economic function
+public interest,Economic_Theory,Economic_Function,4,High,No,"FIA Webinar (2023), UChicago Law Review",Benefit to society
+price system,Economic_Theory,Economic_Function,5,High,No,Graefe (2009) citing Hayek (1945),Market-based allocation mechanism
+skill,Economic_Theory,Skill_Terms,4,High,No,SCCG Research (2025),Ability requiring practice/knowledge
+informed speculation,Economic_Theory,Skill_Terms,4,High,No,SCCG Research (2025),Analysis-based risk-taking
+superior information,Economic_Theory,Skill_Terms,4,High,No,Snowberg et al. (2012),Better knowledge than others
+truthful revelation,Economic_Theory,Skill_Terms,5,High,No,Snowberg et al. (2012),Honest reporting of beliefs
+specialization,Economic_Theory,Skill_Terms,4,High,No,Snowberg et al. (2012),Focused expertise development
+CFTC,Economic_Theory,Regulatory,4,High,No,Multiple sources,Commodity Futures Trading Commission
+CFTC-registered,Economic_Theory,Regulatory,5,High,No,Green & Breggia (2023),Approved by CFTC
+Commodity Exchange Act,Economic_Theory,Regulatory,5,High,No,Multiple sources,Federal law governing futures markets
+CEA,Economic_Theory,Regulatory,5,High,No,Multiple sources,Commodity Exchange Act (abbreviation)
+no-action letter,Economic_Theory,Regulatory,5,High,No,FIA Webinar (2023),Regulatory approval not to prosecute
+federal preemption,Economic_Theory,Regulatory,5,High,No,SCCG Research (2025),Federal law overrides state law
+futures market,Economic_Theory,Regulatory,4,High,No,Sports Betting Dime (2025),Market for futures contracts
+commodity,Economic_Theory,Regulatory,3,Medium,No,SCCG Research (2025),Good or service that can be traded
+exclusive jurisdiction,Economic_Theory,Regulatory,4,High,No,UChicago Law Review,Sole regulatory authority
+gaming contract,Gambling,Regulatory,5,High,No,CFTC Regulation 40.11,Contract deemed to be gambling
+unlawful,Gambling,Regulatory,4,High,No,CFTC Regulation 40.11,Illegal or prohibited
+state gambling prohibition,Gambling,Regulatory,5,High,No,SCCG Research (2025),State-level gambling restrictions
+cease-and-desist,Gambling,Regulatory,5,High,No,Britannica Money (2025),Legal order to stop activity
+wagering,Gambling,Regulatory,5,High,No,Massachusetts AG suit,Placing bets (legal terminology)
+prediction market,Neutral,Market_Types,2,Medium,No,Multiple sources,Market for forecasting events
+prediction markets,Neutral,Market_Types,2,Medium,No,Multiple sources,Markets for forecasting (plural)
+betting market,Gambling,Market_Types,5,High,No,"Wikipedia, Snowberg et al.",Market structured as betting
+information market,Economic_Theory,Market_Types,4,High,No,Wikipedia,Market for aggregating information
+decision market,Economic_Theory,Market_Types,4,High,No,Wikipedia,Market to inform decisions
+idea futures,Economic_Theory,Market_Types,4,High,No,Wikipedia,Futures contracts on ideas/events
+event derivative,Economic_Theory,Market_Types,3,High,No,Wikipedia,Derivative based on event outcome
+Iowa Electronic Markets,Economic_Theory,Platforms,5,High,No,"FIA Webinar (2023), Berg et al. (2008)",Academic prediction market
+IEM,Economic_Theory,Platforms,5,High,No,"FIA Webinar (2023), Berg et al.",Iowa Electronic Markets (abbreviation)
+PredictIt,Economic_Theory,Platforms,4,High,No,"FIA Webinar (2023), Sports Betting Dime",Academic/non-profit prediction market
+Kalshi,Neutral,Platforms,2,Medium,No,"Britannica Money (2025), multiple",CFTC-regulated prediction market platform
+Polymarket,Neutral,Platforms,2,Medium,No,Britannica Money (2025),Blockchain-based prediction market
+Robinhood,Neutral,Platforms,2,Medium,No,"Yahoo Finance (2025), Johnson et al.",Trading platform with prediction markets
+event,Neutral,General,1,Low,Yes,Multiple sources,Occurrence or outcome
+binary,Neutral,General,2,Medium,No,Multiple sources,Two possible outcomes
+outcome,Neutral,General,1,Low,Yes,Multiple sources,Result of an event
+risk,Neutral,General,1,Low,Yes,Multiple sources,Uncertainty or danger
+uncertainty,Neutral,General,2,Medium,Yes,Multiple sources,Lack of certainty about future
+money,Neutral,General,1,Low,Yes,Multiple sources,Currency at stake
+profit,Neutral,General,1,Low,Yes,Multiple sources,Financial gain
+market,Neutral,General,1,Low,Yes,Multiple sources,Place or mechanism for exchange
+price,Neutral,General,1,Low,Yes,Multiple sources,Cost or value
+digital casino,Gambling,Phrases,5,High,No,Britannica Money (2025),Online gambling establishment
+betting parlor,Gambling,Phrases,5,High,No,Britannica Money (2025),Gambling establishment
+no meaningful difference,Gambling,Phrases,5,High,No,Arizona Dept. Gaming (SCCG 2025),Essentially the same as gambling
+stake money on uncertain outcomes,Gambling,Phrases,5,High,No,Johnson et al. (2025),Gambling definition
+predominantly chance,Gambling,Phrases,5,High,No,SCCG Research (2025),Luck-based rather than skill
+aggregate dispersed information,Economic_Theory,Phrases,5,High,No,Wolfers & Zitzewitz (2004),Core function of prediction markets
+market-generated forecast,Economic_Theory,Phrases,5,High,No,Wolfers & Zitzewitz (2004),Prediction from market prices
+legitimate economic function,Economic_Theory,Phrases,5,High,No,Britannica Money (2025),Valid economic purpose
+incentive alignment,Economic_Theory,Phrases,4,High,No,Multiple sources,Matching rewards with desired behavior
+federal regulatory compliance,Economic_Theory,Phrases,5,High,No,Multiple sources,Following federal regulations
+skill-based analysis,Economic_Theory,Phrases,5,High,No,SCCG Research (2025),Analysis requiring expertise
+information value,Economic_Theory,Phrases,4,High,No,Multiple sources,Worth of information content
+real-time price discovery,Economic_Theory,Phrases,5,High,No,Multiple sources,Immediate price determination
+position management,Economic_Theory,Phrases,3,Medium,No,Multiple sources,Managing holdings strategically
+market returns,Economic_Theory,Phrases,3,Medium,No,Multiple sources,Gains from market activity (vs winnings)
