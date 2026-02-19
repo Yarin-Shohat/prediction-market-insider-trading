@@ -12,7 +12,7 @@ logging.basicConfig(level=logging.DEBUG, format="%(asctime)s %(levelname)s: %(me
 logging.getLogger().setLevel(logging.DEBUG)
 
 
-files_to_exclude = ["comments_with_classification_llama3.csv", "comments_processed_with_weights_inside_trading_claude.csv"]
+files_to_exclude = []
 
 dirs_to_process = [
     CLASSIFICATION_DIR,
