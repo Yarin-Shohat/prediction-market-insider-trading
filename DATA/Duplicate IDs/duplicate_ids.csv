@@ -1,0 +1,80 @@
+comment id,First Name,Last Name,has attachments,reason,group id
+73757,Matthew,Ivan,True,duplicate attachment,1
+73795,Mackenzie,Mikkelsen,True,duplicate attachment,1
+74082,Dusty,Johnson,True,duplicate attachment,2
+74083,French,Hill,True,duplicate attachment,2
+74084,Ritchie,Torres,True,duplicate attachment,2
+74085,Lori,Chavez-DeRemer,True,duplicate attachment,2
+74087,Jared,Moskowitz,True,duplicate attachment,2
+74088,Austin,Scott,True,duplicate attachment,2
+74444,Christopher,Greenwood,True,duplicate attachment,2
+74100,Zach,Nunn,True,duplicate attachment,3
+74101,Byron,Donalds,True,duplicate attachment,3
+74102,Marcus,Molinaro,True,duplicate attachment,3
+74103,Ronny,Jackson,True,duplicate attachment,3
+74104,Max,Miller,True,duplicate attachment,3
+74445,Christopher,Greenwood,True,duplicate attachment,3
+74117,Roger,Marshall,True,duplicate attachment,4
+74118,Cindy,Hyde-Smith,True,duplicate attachment,4
+74446,Christopher,Greenwood,True,duplicate attachment,4
+74127,Dusty,Johnson,True,duplicate attachment,5
+74128,Lori,Chavez-DeRemer,True,duplicate attachment,5
+74130,Zach,Nunn,True,duplicate attachment,5
+74131,Marcus,Molinaro,True,duplicate attachment,5
+74132,Nick,Langworthy,True,duplicate attachment,5
+74133,David,Joyce,True,duplicate attachment,5
+74134,Austin,Scott,True,duplicate attachment,5
+74447,Christopher,Greenwood,True,duplicate attachment,5
+74225,Harry,Crane,True,duplicate attachment,6
+74234,Michael,Abramowicz,True,duplicate attachment,6
+74236,Robin,Hanson,True,duplicate attachment,6
+74237,Koleman,Strumpf,True,duplicate attachment,6
+74340,Maxim,Lott,True,duplicate attachment,7
+74342,Scott,Alexander,True,duplicate attachment,7
+74343,Theodore,Frank,True,duplicate attachment,7
+74357,Blanche,Lincoln,True,duplicate attachment,8
+74482,Christopher,Greenwood,True,duplicate attachment,8
+74384,Christopher,Greenwood,True,duplicate attachment,9
+74385,Christopher,Greenwood,True,duplicate attachment,9
+74453,Christopher,Greenwood,True,duplicate attachment,9
+74454,Christopher,Greenwood,True,duplicate attachment,9
+74386,Christopher,Greenwood,True,duplicate attachment,10
+74387,Christopher,Greenwood,True,duplicate attachment,10
+74391,Christopher,Greenwood,True,duplicate attachment,11
+74456,Christopher,Greenwood,True,duplicate attachment,11
+74393,Christopher,Greenwood,True,duplicate attachment,12
+74459,Christopher,Greenwood,True,duplicate attachment,12
+74394,Christopher,Greenwood,True,duplicate attachment,13
+74460,Christopher,Greenwood,True,duplicate attachment,13
+74462,Christopher,Greenwood,True,duplicate attachment,13
+74398,Christopher,Greenwood,True,duplicate attachment,14
+74399,Christopher,Greenwood,True,duplicate attachment,14
+74405,Christopher,Greenwood,True,duplicate attachment,15
+74464,Christopher,Greemwood,True,duplicate attachment,15
+74408,Christopher,Greenwood,True,duplicate attachment,16
+74409,Christopher,Greenwood,True,duplicate attachment,16
+74466,Christopher,Greenwood,True,duplicate attachment,16
+74467,Christopher,Greenwood,True,duplicate attachment,16
+74468,Christopher,Greenwood,True,duplicate attachment,16
+74410,Christopher,Greenwood,True,duplicate attachment,17
+74470,Christopher,Greenwood,True,duplicate attachment,17
+74415,Christopher,Greenwood,True,duplicate attachment,18
+74471,Christopher,Greenwood,True,duplicate attachment,18
+74418,Christopher,Greenwood,True,duplicate attachment,19
+74419,Christopher,Greenwood,True,duplicate attachment,19
+74426,Christopher,Greenwood,True,duplicate attachment,20
+74427,Christopher,Greenwood,True,duplicate attachment,20
+74474,Jamila,Piracci,True,duplicate attachment,21
+74476,Jamila,Piracci,True,duplicate attachment,21
+74086,Derrick,Van Orden,False,duplicate comment text,22
+74099,John,Duarte,False,duplicate comment text,22
+74129,French,Hill,False,duplicate comment text,22
+74235,Luke,Froeb,False,duplicate comment text,22
+74211,Jeffrey,King,False,duplicate comment text,23
+74212,Jason,Young,False,duplicate comment text,23
+74233,Peyton,Martin,False,duplicate comment text,24
+74238,Andrew,Bauer,False,duplicate comment text,24
+74379,Christopher,Greenwood,False,duplicate comment text,25
+74382,Christopher,Greenwood,False,duplicate comment text,25
+74457,Christopher,Greenwood,False,duplicate comment text,25
+74458,Christopher,Greenwood,False,duplicate comment text,25

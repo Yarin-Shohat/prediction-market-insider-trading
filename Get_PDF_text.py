@@ -2,7 +2,13 @@ import os
 from docling.document_converter import DocumentConverter
 from DIR_CONST import *
 
-WANT = "rule"
+############################# CONFIGURATION #############################
+"""
+  Choose what folder to process:
+  - "pdf" for processing all PDFs in the "Raw" folder.
+  - "rule" for processing only PDFs in the "Raw/rule" folder.
+"""
+WANT = "pdf"
 
 if WANT == "pdf":
   raw_folder_path = PDF_DIR + "/Raw"
@@ -10,6 +16,7 @@ elif WANT == "rule":
   raw_folder_path = PDF_DIR + "/Raw/rule"
 
 txt_output_folder = 'txt'
+###############################################################################
 
 # Get a list of all items (files and directories) in the specified folder
 all_items = os.listdir(raw_folder_path)
