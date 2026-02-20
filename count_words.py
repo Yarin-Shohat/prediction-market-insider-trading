@@ -5,142 +5,11 @@ import spacy
 import spacy.cli
 from DIR_CONST import RAW_DIR, TOK_DIR, LEM_DIR, DATA_DIR, CLASSIFICATION_DIR, WORDS_COUNT_DIR, WORDS_DIR, Classification_X_Words_count_DIR, WORDS_COUNT_GT_1_DIR
 
+"""
+Process attachments files: tokenize, lemmatize
+"""
 FILES_MISSED = []
 NEED_TO_HANDLE = False
-
-def lemmatize():
-    """Load spaCy English model for lemmatization."""
-    try:
-        nlp = spacy.load('en_core_web_sm')
-    except OSError:
-        spacy.cli.download('en_core_web_sm')
-        nlp = spacy.load('en_core_web_sm')
-    return nlp
-    
-
-def lemmatize_word_list(word_list):
-    """Lemmatize a list of words using spaCy."""
-    nlp = lemmatize()
-    lemmatized = []
-    for word in word_list:
-        doc = nlp(word)
-        lemma = ' '.join([token.lemma_ for token in doc])
-        lemmatized.append(lemma)
-    return lemmatized
-
-def proccess_word_list(word_list):
-    """Process a word list: lowercase, expand hyphenated words, lemmatize, remove duplicates."""
-    # Lowercase all words
-    word_list = [w.lower() for w in word_list]
-
-    # Create new words from words with - by adding new words without - and keep the original ones
-    expanded = set(word_list)
-    for word in word_list:
-        if '-' in word:
-            expanded.add(word.replace('-', ' '))
-    word_list = list(expanded)
-
-    # Lemmatize the word list
-    word_list = lemmatize_word_list(word_list)
-
-    # Remove duplicates after lemmatization
-    word_list = list(set(word_list))
-
-    return word_list
-
-def get_words_lists_gpt(file_path) -> tuple[list, list, list]:
-    """
-    Return predefined lists of gambling, economic and ambiguous words from GPT-5 generated CSV.
-
-    return [gambling words], [economic words], [ambiguous words]
-    """
-    words_df = pd.read_csv(file_path)
-    gambling_words = words_df[words_df['category'] == 'gambling']['term'].tolist()
-    economic_words = words_df[words_df['category'] == 'economic']['term'].tolist()
-    ambiguous_words = words_df[words_df['category'] == 'ambiguous']['term'].tolist()
-    
-    gambling_words = proccess_word_list(gambling_words)
-    economic_words = proccess_word_list(economic_words)
-    ambiguous_words = proccess_word_list(ambiguous_words)
-
-    return gambling_words, economic_words, ambiguous_words
-
-def get_words_lists_claude(file_path) -> tuple[dict, dict, dict]:
-    """
-    Return predefined lists of gambling, economic and ambiguous words from Claude generated CSV.
-
-    return Gambling words: {high, medium, low}, Economic_Theory words: {high, medium, low}, Neutral words: {medium, low}
-    """
-    words_df = pd.read_csv(file_path)
-
-    gambling_High = words_df[(words_df['Category'] == 'Gambling') & (words_df['Confidence'] == 'High')]['Term'].tolist()
-    gambling_Medium = words_df[(words_df['Category'] == 'Gambling') & (words_df['Confidence'] == 'Medium')]['Term'].tolist()
-    gambling_Low = words_df[(words_df['Category'] == 'Gambling') & (words_df['Confidence'] == 'Low')]['Term'].tolist()
-    economic_High = words_df[(words_df['Category'] == 'Economic_Theory') & (words_df['Confidence'] == 'High')]['Term'].tolist()
-    economic_Medium = words_df[(words_df['Category'] == 'Economic_Theory') & (words_df['Confidence'] == 'Medium')]['Term'].tolist()
-    economic_Low = words_df[(words_df['Category'] == 'Economic_Theory') & (words_df['Confidence'] == 'Low')]['Term'].tolist()
-    ambiguous_Medium = words_df[(words_df['Category'] == 'Neutral') & (words_df['Confidence'] == 'Medium')]['Term'].tolist()
-    ambiguous_Low = words_df[(words_df['Category'] == 'Neutral') & (words_df['Confidence'] == 'Low')]['Term'].tolist()
-
-    gambling_High = proccess_word_list(gambling_High)
-    gambling_Medium = proccess_word_list(gambling_Medium)
-    gambling_Low = proccess_word_list(gambling_Low)
-    economic_High = proccess_word_list(economic_High)
-    economic_Medium = proccess_word_list(economic_Medium)
-    economic_Low = proccess_word_list(economic_Low)
-    ambiguous_Medium = proccess_word_list(ambiguous_Medium)
-    ambiguous_Low = proccess_word_list(ambiguous_Low)
-
-    gambling_words = {'high': gambling_High, 'medium': gambling_Medium, 'low': gambling_Low}
-    economic_words = {'high': economic_High, 'medium': economic_Medium, 'low': economic_Low}
-    ambiguous_words = {'medium': ambiguous_Medium, 'low': ambiguous_Low}
-
-    return gambling_words, economic_words, ambiguous_words
-
-def get_weighted_words_lists(file_path):
-    """
-    Return predefined lists of gambling, economic and ambiguous words with weights from CSV.
-
-    return {word: weight} for gambling, economic and ambiguous words
-    """
-    words_df = pd.read_csv(file_path)
-    weights_words = {} # Key: weight, Value: list of words
-
-    for _, row in words_df.iterrows():
-
-        term = row['Term'].lower()
-        weight = row['Weight']
-
-        alt_forms = row.get('Alternative_Forms', '')
-        # Include alternative forms if they exist
-        if pd.notna(alt_forms):
-            alt_terms = [t.strip().lower() for t in str(alt_forms).split(',') if t.strip()]
-            for alt_term in alt_terms:
-                if weight not in weights_words:
-                    weights_words[weight] = []
-                weights_words[weight].append(alt_term)
-                
-        if weight not in weights_words:
-            weights_words[weight] = []
-        weights_words[weight].append(term)
-    
-    for key in weights_words.keys():
-        weights_words[key] = proccess_word_list(weights_words[key])
-    return weights_words
-
-
-def lem_weighted_word_list(weights_words):
-    """Lemmatize a list of words with weights using spaCy."""
-    lemmatized = {}
-    for weight in weights_words.keys():
-        words = weights_words[weight]
-        lemmatized_words = lemmatize_word_list(words)
-        for lw in lemmatized_words:
-            if lw in lemmatized:
-                old_weight = lemmatized[lw]
-            lemmatized[lw] = max(weight, old_weight) if lw in lemmatized else weight
-        
-    return lemmatized
 
 def tokenize_and_save_attachments(raw_dir=RAW_DIR, tok_dir=TOK_DIR):
     """Tokenize all .txt files in raw_dir and save tokens to tok_dir with .tok.txt extension."""
@@ -215,6 +84,51 @@ def lemmatize_tok_files(tok_dir=TOK_DIR, lem_dir=LEM_DIR):
             with open(out_path, 'w', encoding='utf-8') as f:
                 f.write('\n'.join(lemmas))
             print(f"Lemmatized {fname} -> {out_fname} ({len(lemmas)} lemmas)")
+
+"""
+Process comments text
+"""
+def lemmatize():
+    """Load spaCy English model for lemmatization."""
+    try:
+        nlp = spacy.load('en_core_web_sm')
+    except OSError:
+        spacy.cli.download('en_core_web_sm')
+        nlp = spacy.load('en_core_web_sm')
+    return nlp
+    
+
+def lemmatize_word_list(word_list):
+    """Lemmatize a list of words using spaCy."""
+    nlp = lemmatize()
+    lemmatized = []
+    for word in word_list:
+        doc = nlp(word)
+        lemma = ' '.join([token.lemma_ for token in doc])
+        lemmatized.append(lemma)
+    return lemmatized
+
+def proccess_word_list(word_list):
+    """Process a word list: lowercase, expand hyphenated words, lemmatize, remove duplicates."""
+    # Lowercase all words
+    word_list = [w.lower() for w in word_list]
+
+    # Create new words from words with - by adding new words without - and keep the original ones
+    expanded = set(word_list)
+    for word in word_list:
+        if '-' in word:
+            expanded.add(word.replace('-', ' '))
+    word_list = list(expanded)
+
+    # Lemmatize the word list
+    word_list = lemmatize_word_list(word_list)
+
+    # Remove duplicates after lemmatization
+    word_list = list(set(word_list))
+
+    return word_list
+
+
 
 def lemmatize_text(text, nlp):
     """Lemmatize a given text (COMMENTS) string using the provided spaCy nlp model."""
