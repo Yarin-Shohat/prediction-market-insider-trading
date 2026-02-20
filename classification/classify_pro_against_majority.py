@@ -1,3 +1,5 @@
+import sys
+
 import torch
 import json
 from transformers import pipeline, AutoTokenizer, AutoModelForCausalLM
@@ -322,4 +324,5 @@ if __name__ == "__main__":
     model_name: "gemma" or "llama3"
     input_csv: path to input CSV file with comments
     """
-    main(model_name="llama3", input_csv="comments.csv")
+    model_name=sys.argv[1] if len(sys.argv) > 1 else "gemma"
+    main(model_name=model_name, input_csv="comments.csv")

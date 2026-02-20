@@ -6,6 +6,7 @@ import os
 import gc
 import re
 from DIR_CONST import DATA_DIR, RAW_DIR
+import sys
 
 
 def get_model(model_name):
@@ -259,57 +260,58 @@ def main(comments_path, output_path, model_name, old_output_path=None):
     print("[INFO] Done.")
 
  
-"""
-Options: "gemma", "llama3"
-"""
-MODEL_NAME = "gemma"
+if __name__ == "__main__":
+    """
+    Options: "gemma", "llama3"
+    """
+    MODEL_NAME = sys.argv[1] if len(sys.argv) > 1 else "gemma"
 
-# Check for existing output file
-second_time = False
-error_count = 0
-times_run = 0
-base_output_path=f"comments_with_classification_{MODEL_NAME}_who_submit.csv"
-output_path = base_output_path
-old_output_path = base_output_path
-if os.path.exists(base_output_path):
-    second_time = True
-    error_count = pd.read_csv(output_path)["Classification"].value_counts().get("PARSE_ERROR", 0)
-    error_count += pd.read_csv(output_path)["Classification"].value_counts().get("", 0)
-    error_count += pd.read_csv(output_path)["Classification"].value_counts().get("UNCLEAR", 0)
-    output_path = f"{times_run}_{base_output_path}"
-old_error_count = error_count
-# run
-main(
-    comments_path=f"{DATA_DIR}/comments.csv",
-    output_path=output_path,
-    model_name=MODEL_NAME,  # Options: "gemma", "llama3"
-    old_output_path=old_output_path
-)
-# Check if we need to re-run for errors
-second_time = False
-while second_time:
-    # Count errors
+    # Check for existing output file
+    second_time = False
     error_count = 0
-    df_check = pd.read_csv(output_path)
-    error_count += df_check["Classification"].value_counts().get("PARSE_ERROR", 0)
-    error_count += df_check["Classification"].value_counts().get("", 0)
-    error_count += df_check["Classification"].value_counts().get("UNCLEAR", 0)
-    print(f"\n\n{'#'*50}\n[INFO] Current error count: {error_count}")
-    print(f"[INFO] Previous error count: {old_error_count}\n{'#'*50}\n\n")
-    if error_count > 10 and error_count < old_error_count:
-        times_run += 1
-        print(f"\n\n{'#'*50}\n[INFO] Re-running for {error_count} errors. Run number: {times_run}\n{'#'*50}\n\n")
-        old_error_count = error_count
-        new_output_path = f"{times_run}_{base_output_path}"
-        main(
-            comments_path=f"{DATA_DIR}/comments.csv",
-            output_path=new_output_path,
-            model_name=MODEL_NAME,  # Options: "gemma", "llama3"
-            old_output_path=old_output_path
-        )
-        old_output_path = output_path
-        output_path = new_output_path
-    else:
-        print(f"[INFO] No more errors to process. Exiting.")
-        second_time = False
-        break
+    times_run = 0
+    base_output_path=f"comments_with_classification_{MODEL_NAME}_who_submit.csv"
+    output_path = base_output_path
+    old_output_path = base_output_path
+    if os.path.exists(base_output_path):
+        second_time = True
+        error_count = pd.read_csv(output_path)["Classification"].value_counts().get("PARSE_ERROR", 0)
+        error_count += pd.read_csv(output_path)["Classification"].value_counts().get("", 0)
+        error_count += pd.read_csv(output_path)["Classification"].value_counts().get("UNCLEAR", 0)
+        output_path = f"{times_run}_{base_output_path}"
+    old_error_count = error_count
+    # run
+    main(
+        comments_path=f"{DATA_DIR}/comments.csv",
+        output_path=output_path,
+        model_name=MODEL_NAME,  # Options: "gemma", "llama3"
+        old_output_path=old_output_path
+    )
+    # Check if we need to re-run for errors
+    second_time = False
+    while second_time:
+        # Count errors
+        error_count = 0
+        df_check = pd.read_csv(output_path)
+        error_count += df_check["Classification"].value_counts().get("PARSE_ERROR", 0)
+        error_count += df_check["Classification"].value_counts().get("", 0)
+        error_count += df_check["Classification"].value_counts().get("UNCLEAR", 0)
+        print(f"\n\n{'#'*50}\n[INFO] Current error count: {error_count}")
+        print(f"[INFO] Previous error count: {old_error_count}\n{'#'*50}\n\n")
+        if error_count > 10 and error_count < old_error_count:
+            times_run += 1
+            print(f"\n\n{'#'*50}\n[INFO] Re-running for {error_count} errors. Run number: {times_run}\n{'#'*50}\n\n")
+            old_error_count = error_count
+            new_output_path = f"{times_run}_{base_output_path}"
+            main(
+                comments_path=f"{DATA_DIR}/comments.csv",
+                output_path=new_output_path,
+                model_name=MODEL_NAME,  # Options: "gemma", "llama3"
+                old_output_path=old_output_path
+            )
+            old_output_path = output_path
+            output_path = new_output_path
+        else:
+            print(f"[INFO] No more errors to process. Exiting.")
+            second_time = False
+            break

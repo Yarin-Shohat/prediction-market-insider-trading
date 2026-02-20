@@ -5,7 +5,8 @@ import pandas as pd
 import os
 import gc
 import re
-from DIR_CONST import DATA_DIR, RAW_DIR
+from DIR_CONST import DATA_DIR, RAW_DIR, CLASSIFICATION_DIR
+import sys
 
 
 def get_model(model_name="gemma"):
@@ -261,11 +262,12 @@ def main(comments_path, output_path, model_name, old_output_path=None):
 
 if __name__ == "__main__":
 	# Example run; adjust model_name and paths as needed
-	MODEL_NAME = "gemma"  # or "llama3"
+	MODEL_NAME = sys.argv[1] if len(sys.argv) > 1 else "gemma"
+
 	main(
 		comments_path=f"{DATA_DIR}/comments.csv",
-		output_path=f"comments_with_classification_{MODEL_NAME}_who_submit_majority.csv",
+		output_path=f"{CLASSIFICATION_DIR}/comments_with_classification_{MODEL_NAME}_who_submit_majority.csv",
 		model_name=MODEL_NAME,
-		old_output_path="comments_with_classification_gemma_who_submit.csv"
+		old_output_path=f"{CLASSIFICATION_DIR}/comments_with_classification_{MODEL_NAME}_who_submit.csv"
 	)
 
