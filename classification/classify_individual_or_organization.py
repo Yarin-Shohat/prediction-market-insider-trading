@@ -5,8 +5,9 @@ import pandas as pd
 import os
 import gc
 import re
-from DIR_CONST import DATA_DIR, RAW_DIR
 import sys
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+from DIR_CONST import CLASSIFICATION_DIR, DATA_DIR, RAW_DIR
 
 
 def get_model(model_name):
@@ -256,7 +257,7 @@ def main(comments_path, output_path, model_name, old_output_path=None):
             df.to_csv(output_path, index=False)
     # Save the updated DataFrame
     print(f"[INFO] Processing complete. Saving results to {output_path}")
-    df.to_csv(output_path, index=False)
+    df.to_csv(f"{CLASSIFICATION_DIR}/{output_path}", index=False)
     print("[INFO] Done.")
 
  

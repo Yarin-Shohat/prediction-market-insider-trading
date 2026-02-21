@@ -1,5 +1,3 @@
-import sys
-
 import torch
 import json
 from transformers import pipeline, AutoTokenizer, AutoModelForCausalLM
@@ -7,7 +5,9 @@ import pandas as pd
 import os
 import gc
 import re
-from DIR_CONST import RAW_DIR
+import sys
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+from DIR_CONST import RAW_DIR, CLASSIFICATION_DIR, DATA_DIR
 
 def get_model(model_name="gemma"):
     """
@@ -314,7 +314,7 @@ def main(model_name, input_csv):
 
     # Save the updated DataFrame
     print(f"[INFO] Processing complete. Saving results to {output_path}")
-    df.to_csv("1" + output_path, index=False)
+    df.to_csv(f"{CLASSIFICATION_DIR}/1{output_path}", index=False)
     print("[INFO] Done.")
 
 
@@ -325,4 +325,4 @@ if __name__ == "__main__":
     input_csv: path to input CSV file with comments
     """
     model_name=sys.argv[1] if len(sys.argv) > 1 else "gemma"
-    main(model_name=model_name, input_csv="comments.csv")
+    main(model_name=model_name, input_csv=f"{DATA_DIR}/comments.csv")

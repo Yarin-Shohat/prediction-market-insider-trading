@@ -1,6 +1,8 @@
+import sys
+import os
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from DIR_CONST import *
 import pandas as pd
-import os
 
 with_rule_classify = pd.read_csv(os.path.join(CLASSIFICATION_DIR, 'comments_with_classification_gemma_pro_against_with_rule.csv'))
 without_rule_classify = pd.read_csv(os.path.join(CLASSIFICATION_DIR, 'comments_with_classification_gemma_pro_against.csv'))
@@ -42,4 +44,4 @@ df.columns = ['id', 'date_received', 'release', 'first_name', 'last_name',
 df['group_id'] = df['group_id'].fillna(df['id'])
 
 
-df.to_csv(os.path.join(CLASSIFICATION_DIR, 'comparison_classification.csv'), index=False)
+df.to_csv(os.path.join(CLASSIFICATION_DIR, 'comparison_classification_pro_against.csv'), index=False)

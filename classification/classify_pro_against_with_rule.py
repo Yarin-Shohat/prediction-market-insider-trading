@@ -5,10 +5,12 @@ import pandas as pd
 import os
 import gc
 import re
+import sys
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from DIR_CONST import DATA_DIR, RAW_DIR
 
 RULE_DIR = RAW_DIR + "/rule"
-output_file = "comments_with_classification_gemma_with_rule.csv"
+output_file = "comments_with_classification_gemma_pro_against_with_rule.csv"
 
 # Read rule from txt file
 rule_file_path = os.path.join(RULE_DIR, "FR 89 48968.pdf.txt")

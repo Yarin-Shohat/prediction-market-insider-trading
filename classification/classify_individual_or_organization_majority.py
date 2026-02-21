@@ -5,9 +5,9 @@ import pandas as pd
 import os
 import gc
 import re
-from DIR_CONST import DATA_DIR, RAW_DIR, CLASSIFICATION_DIR
 import sys
-
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+from DIR_CONST import DATA_DIR, RAW_DIR, CLASSIFICATION_DIR
 
 def get_model(model_name="gemma"):
 	"""

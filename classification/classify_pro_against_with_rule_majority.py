@@ -10,7 +10,9 @@ import sys
 # Re-use functions and rule text from the single-chunk classifier
 from classify_pro_against_with_rule import get_gemma_generator, analyze_with_rule, rule
 
-from DIR_CONST import DATA_DIR, RAW_DIR
+import sys
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+from DIR_CONST import DATA_DIR, RAW_DIR, CLASSIFICATION_DIR
 
 def chunk_text(text, chunk_words=1000):
     """Split text into chunks by word count.
@@ -160,6 +162,6 @@ def main(comments_path, output_path):
 
 
 if __name__ == '__main__':
-    OUTPUT_FILE = "comments_with_classification_gemma_with_rule_majority.csv"
-    input_path = "comments_with_classification_gemma_with_rule.csv"
+    OUTPUT_FILE = f"{CLASSIFICATION_DIR}/comments_with_classification_gemma_with_rule_majority.csv"
+    input_path = f"{CLASSIFICATION_DIR}/comments_with_classification_gemma_with_rule.csv"
     main(comments_path=input_path, output_path=OUTPUT_FILE)
