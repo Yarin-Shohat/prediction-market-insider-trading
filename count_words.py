@@ -966,6 +966,49 @@ def compare_gemma_output_with_comments_processed_gambling_economic_count(gemma_c
     merged_df.to_csv(output_path, index=False)
     print(f"Comparison results saved to {output_path}\n\n")
 
+def get_weighted_words_lists(file_path):
+    """
+    Return predefined lists of gambling, economic and ambiguous words with weights from CSV.
+
+    return {word: weight} for gambling, economic and ambiguous words
+    """
+    words_df = pd.read_csv(file_path)
+    weights_words = {} # Key: weight, Value: list of words
+
+    for _, row in words_df.iterrows():
+
+        term = row['Term'].lower()
+        weight = row['Weight']
+
+        alt_forms = row.get('Alternative_Forms', '')
+        # Include alternative forms if they exist
+        if pd.notna(alt_forms):
+            alt_terms = [t.strip().lower() for t in str(alt_forms).split(',') if t.strip()]
+            for alt_term in alt_terms:
+                if weight not in weights_words:
+                    weights_words[weight] = []
+                weights_words[weight].append(alt_term)
+                
+        if weight not in weights_words:
+            weights_words[weight] = []
+        weights_words[weight].append(term)
+    
+    for key in weights_words.keys():
+        weights_words[key] = proccess_word_list(weights_words[key])
+    return weights_words
+
+def lem_weighted_word_list(weights_words):
+    """Lemmatize a list of words with weights using spaCy."""
+    lemmatized = {}
+    for weight in weights_words.keys():
+        words = weights_words[weight]
+        lemmatized_words = lemmatize_word_list(words)
+        for lw in lemmatized_words:
+            if lw in lemmatized:
+                old_weight = lemmatized[lw]
+            lemmatized[lw] = max(weight, old_weight) if lw in lemmatized else weight
+        
+    return lemmatized
 
 def proccess_comments_with_weights(csv_path, output_path, words_file, lem_dir=LEM_DIR):
     """
@@ -1032,8 +1075,38 @@ def proccess_comments_with_weights(csv_path, output_path, words_file, lem_dir=LE
     df.to_csv(output_path, index=False)
     print(f"Processed comments with weights saved to {output_path}")
 
+if __name__ == "__main__":
+    # Tokenize and lemmatize attachments
+    tokenize_and_save_attachments()
+    lemmatize_tok_files()
 
-###########################
+    # # Process comments that were missed during tokenization or lemmatization
+    # handle_missed_comments()
+    # fill_missed_comments_all()
+
+    # # Inside Trading gpt5 - Words Count
+    proccess_comments_inside_trading(csv_path=f"{DATA_DIR}/comments.csv", output_path=f"{WORDS_COUNT_DIR}/comments_processed_inside_trading_gpt5.csv", words_file=f"{WORDS_DIR}/Inside Trading_gpt5.csv")
+    # # Inside Trading claude - Words Count
+    proccess_comments_inside_trading(csv_path=f"{DATA_DIR}/comments.csv", output_path=f"{WORDS_COUNT_DIR}/comments_processed_inside_trading_claude.csv", words_file=f"{WORDS_DIR}/insider_trading_dictionary_claude.csv")
+
+    # # Count which words appears in comments with inside trading words - Words Count gt_0
+    count_inside_trading_words(csv_path=f"{WORDS_COUNT_DIR}/comments_processed_inside_trading_gpt5.csv", output_path=f"{WORDS_COUNT_GT_1_DIR}/inside_trading_gpt5_words_count.csv", words_file=f"{WORDS_DIR}/Inside Trading_gpt5.csv")
+    count_inside_trading_words(csv_path=f"{WORDS_COUNT_DIR}/comments_processed_inside_trading_claude.csv", output_path=f"{WORDS_COUNT_GT_1_DIR}/inside_trading_claude_words_count.csv", words_file=f"{WORDS_DIR}/insider_trading_dictionary_claude.csv")
+
+    # # Check if the comments from comments_processed_inside_trading with count > 0 are pro/against and if words appears in gemma words - Classification X Words Count
+    compare_gemma_output_with_comments_processed_inside_trading_count(gemma_csv_path=f"{CLASSIFICATION_DIR}/comments_with_classification.csv", comments_csv_path=f"{WORDS_COUNT_GT_1_DIR}/inside_trading_gpt5_words_count.csv", output_path=f"{Classification_X_Words_count_DIR}/comparison_gemma_inside_trading_gpt5.csv")
+    compare_gemma_output_with_comments_processed_inside_trading_count(gemma_csv_path=f"{CLASSIFICATION_DIR}/comments_with_classification.csv", comments_csv_path=f"{WORDS_COUNT_GT_1_DIR}/inside_trading_claude_words_count.csv", output_path=f"{Classification_X_Words_count_DIR}/comparison_gemma_inside_trading_claude.csv")
+
+    # # Count weighted scores - Words with weights
+    proccess_comments_with_weights(csv_path=f"{DATA_DIR}/comments.csv", output_path=f"{WORDS_COUNT_DIR}/comments_processed_with_weights_inside_trading_claude.csv", words_file=f"{WORDS_DIR}/insider_trading_dictionary_claude.csv")
+
+    # # Count words inside trading category=weight - Words Count
+    proccess_comments_inside_trading(csv_path=f"{DATA_DIR}/comments.csv", output_path=f"{WORDS_COUNT_DIR}/comments_processed_inside_trading_claude_weight_category.csv", words_file=f"{WORDS_DIR}/insider_trading_dictionary_claude.csv", category_col='Weight')
+
+
+############################################################################################################
+###################################### HANDLE MISSING FILES ################################################
+############################################################################################################
 
 def handle_missed_comments():
     """
@@ -1045,14 +1118,6 @@ def handle_missed_comments():
     missed_df = df[df['id'].isin([int(cid) for cid in missed_comments])].copy()
     missed_df.to_csv(f'comments_missed.csv', index=False)
     print(f"Missed comments saved to comments_missed.csv")
-
-    # GPT words
-    gambling_words, economic_words, ambiguous_words = get_words_lists_gpt(f"{WORDS_DIR}/words_gpt.csv")
-    process_comments_csv('comments_missed.csv', gambling_words, economic_words, ambiguous_words, output_path="comments_processed_GPT.csv", mode='gpt')
-
-    # Claude words
-    gambling_words, economic_words, ambiguous_words = get_words_lists_claude(f"{WORDS_DIR}/words_claude.csv")
-    process_comments_csv('comments_missed.csv', gambling_words, economic_words, ambiguous_words, output_path="comments_processed_Claude.csv", mode='claude')
 
     # # Inside Trading gpt5
     proccess_comments_inside_trading(csv_path="comments_missed.csv", output_path="comments_processed_inside_trading_gpt5.csv", words_file=f"{WORDS_DIR}/Inside Trading_gpt5.csv")
@@ -1069,33 +1134,6 @@ def handle_missed_comments():
 
     # Count words inside trading category=weight
     proccess_comments_inside_trading(csv_path=f"comments_missed.csv", output_path=f"comments_processed_inside_trading_claude_weight_category.csv", words_file=f"{WORDS_DIR}/insider_trading_dictionary_claude.csv", category_col='Weight')
-
-    # # Count which words appears in comments with gambling or economic words
-    gambling_words, economic_words, ambiguous_words = get_words_lists_gpt(f"{WORDS_DIR}/words_gpt.csv")
-    words_lists_dict = {
-        'gambling': gambling_words,
-        'economic': economic_words
-    }
-    count_gambeling_economic_words(csv_path=f"comments_processed_GPT.csv", output_path="gambling_economic_words_count_GPT.csv", words_lists_dict=words_lists_dict)
-
-    gambling_words_dict, economic_words_dict, ambiguous_words_dict = get_words_lists_claude(f"{WORDS_DIR}/words_claude.csv")
-    # Get all words from the dicts from all categories
-    gambling_words = []
-    for words in gambling_words_dict.values():
-        gambling_words.extend(words)
-    economic_words = []
-    for words in economic_words_dict.values():
-        economic_words.extend(words)
-    print(f"Total gambling words: {len(gambling_words)}, Total economic words: {len(economic_words)}")
-    words_lists_dict = {
-        'gambling': gambling_words,
-        'economic': economic_words
-    }
-    count_gambeling_economic_words(csv_path=f"comments_processed_Claude.csv", output_path="gambling_economic_words_count_claude.csv", words_lists_dict=words_lists_dict)
-
-    # Check if the comments from comments_processed_gambling_economic with count > 0 are pro/against and if words appears in gemma words
-    compare_gemma_output_with_comments_processed_gambling_economic_count(gemma_csv_path=f"{CLASSIFICATION_DIR}/comments_with_classification_gemma.csv", comments_csv_path="gambling_economic_words_count_GPT.csv", output_path="comparison_gemma_gambling_economic_GPT.csv")
-    compare_gemma_output_with_comments_processed_gambling_economic_count(gemma_csv_path=f"{CLASSIFICATION_DIR}/comments_with_classification_gemma.csv", comments_csv_path="gambling_economic_words_count_claude.csv", output_path="comparison_gemma_gambling_economic_claude.csv")
 
 def fill_missed_comments(file_path, missed_comments_results_path):
     """
@@ -1147,10 +1185,6 @@ def fill_missed_comments_all():
     Fill missed comments into all processed comments CSVs.
     """
     ## Words count files
-    # GPT
-    fill_missed_comments(f"{WORDS_COUNT_DIR}/comments_processed_GPT.csv", "comments_processed_GPT.csv")
-    # Claude
-    fill_missed_comments(f"{WORDS_COUNT_DIR}/comments_processed_Claude.csv", "comments_processed_Claude.csv")
     # Inside Trading gpt5
     fill_missed_comments(f"{WORDS_COUNT_DIR}/comments_processed_inside_trading_gpt5.csv", "comments_processed_inside_trading_gpt5.csv")
     # Inside Trading claude
@@ -1163,41 +1197,11 @@ def fill_missed_comments_all():
     fill_missed_comments(f"{Classification_X_Words_count_DIR}/comparison_gemma_inside_trading_gpt5.csv", "comparison_gemma_inside_trading_gpt5.csv")
     # Inside Trading claude
     fill_missed_comments(f"{Classification_X_Words_count_DIR}/comparison_gemma_inside_trading_claude.csv", "comparison_gemma_inside_trading_claude.csv")
-    # Gambling/Economic GPT
-    fill_missed_comments(f"{Classification_X_Words_count_DIR}/comparison_gemma_gambling_economic_GPT.csv", "comparison_gemma_gambling_economic_GPT.csv")
-    # Gambling/Economic Claude
-    fill_missed_comments(f"{Classification_X_Words_count_DIR}/comparison_gemma_gambling_economic_claude.csv", "comparison_gemma_gambling_economic_claude.csv")
 
     # # WORDS_COUNT_GT_1_DIR
     fill_missed_comments(f"{WORDS_COUNT_GT_1_DIR}/inside_trading_gpt5_words_count.csv", "inside_trading_gpt5_words_count.csv")
     fill_missed_comments(f"{WORDS_COUNT_GT_1_DIR}/inside_trading_claude_words_count.csv", "inside_trading_claude_words_count.csv")
-    fill_missed_comments(f"{WORDS_COUNT_GT_1_DIR}/gambling_economic_words_count_GPT.csv", "gambling_economic_words_count_GPT.csv")
-    fill_missed_comments(f"{WORDS_COUNT_GT_1_DIR}/gambling_economic_words_count_claude.csv", "gambling_economic_words_count_claude.csv")
 
-if __name__ == "__main__":
-    # Tokenize and lemmatize attachments
-    tokenize_and_save_attachments()
-    lemmatize_tok_files()
-
-    # Process comments that were missed during tokenization or lemmatization
-    handle_missed_comments()
-    fill_missed_comments_all()
-
-    # # Inside Trading gpt5 - Words Count
-    proccess_comments_inside_trading(csv_path=f"{DATA_DIR}/comments.csv", output_path=f"{WORDS_COUNT_DIR}/comments_processed_inside_trading_gpt5.csv", words_file=f"{WORDS_DIR}/Inside Trading_gpt5.csv")
-    # # Inside Trading claude - Words Count
-    proccess_comments_inside_trading(csv_path=f"{DATA_DIR}/comments.csv", output_path=f"{WORDS_COUNT_DIR}/comments_processed_inside_trading_claude.csv", words_file=f"{WORDS_DIR}/insider_trading_dictionary_claude.csv")
-
-    # # Count which words appears in comments with inside trading words - Words Count gt_0
-    count_inside_trading_words(csv_path=f"{WORDS_COUNT_DIR}/comments_processed_inside_trading_gpt5.csv", output_path=f"{WORDS_COUNT_GT_1_DIR}/inside_trading_gpt5_words_count.csv", words_file=f"{WORDS_DIR}/Inside Trading_gpt5.csv")
-    count_inside_trading_words(csv_path=f"{WORDS_COUNT_DIR}/comments_processed_inside_trading_claude.csv", output_path=f"{WORDS_COUNT_GT_1_DIR}/inside_trading_claude_words_count.csv", words_file=f"{WORDS_DIR}/insider_trading_dictionary_claude.csv")
-
-    # # Check if the comments from comments_processed_inside_trading with count > 0 are pro/against and if words appears in gemma words - Classification X Words Count
-    compare_gemma_output_with_comments_processed_inside_trading_count(gemma_csv_path=f"{CLASSIFICATION_DIR}/comments_with_classification.csv", comments_csv_path=f"{WORDS_COUNT_GT_1_DIR}/inside_trading_gpt5_words_count.csv", output_path=f"{Classification_X_Words_count_DIR}/comparison_gemma_inside_trading_gpt5.csv")
-    compare_gemma_output_with_comments_processed_inside_trading_count(gemma_csv_path=f"{CLASSIFICATION_DIR}/comments_with_classification.csv", comments_csv_path=f"{WORDS_COUNT_GT_1_DIR}/inside_trading_claude_words_count.csv", output_path=f"{Classification_X_Words_count_DIR}/comparison_gemma_inside_trading_claude.csv")
-
-    # # Count weighted scores - Words with weights
-    proccess_comments_with_weights(csv_path=f"{DATA_DIR}/comments.csv", output_path=f"{WORDS_COUNT_DIR}/comments_processed_with_weights_inside_trading_claude.csv", words_file=f"{WORDS_DIR}/insider_trading_dictionary_claude.csv")
-
-    # # Count words inside trading category=weight - Words Count
-    proccess_comments_inside_trading(csv_path=f"{DATA_DIR}/comments.csv", output_path=f"{WORDS_COUNT_DIR}/comments_processed_inside_trading_claude_weight_category.csv", words_file=f"{WORDS_DIR}/insider_trading_dictionary_claude.csv", category_col='Weight')
+############################################################################################################
+############################################################################################################
+############################################################################################################
