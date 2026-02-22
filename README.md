@@ -1,4 +1,4 @@
-# Prediction Market Comment Analysis
+# Insider Trading Comment Analysis
 
 This project processes, analyzes, and classifies public comments and attachments related to prediction markets, focusing on identifying and quantifying references to gambling, economic theory, and insider trading. It leverages NLP techniques (tokenization, lemmatization, word counting) and machine learning model outputs for classification.
 
